@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space" format="1">
+  <advance width="300"/>
+  <unicode hex="0020"/>
+  <note>
+    space
+  </note>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-06-27 05:30:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

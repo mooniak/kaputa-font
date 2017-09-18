@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DDA.sechalf" format="1">
+  <advance width="2"/>
+  <note>
+    uni0DDA.sechalf
+  </note>
+  <outline>
+    <contour>
+      <point x="-323" y="1362" type="line"/>
+      <point x="-415" y="1362" type="line"/>
+      <point x="-407" y="1000" type="line"/>
+      <point x="-319" y="998" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-05 12:09:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni200D" format="1">
+  <advance width="44"/>
+  <unicode hex="200D"/>
+  <note>
+    uni200D
+  </note>
+  <outline>
+    <contour>
+      <point x="44" y="-484" type="line"/>
+      <point x="44" y="1114" type="line"/>
+      <point x="129" y="1029" type="line"/>
+      <point x="159" y="1059" type="line"/>
+      <point x="52" y="1166" type="line"/>
+      <point x="159" y="1273" type="line"/>
+      <point x="129" y="1303" type="line"/>
+      <point x="22" y="1196" type="line"/>
+      <point x="-85" y="1303" type="line"/>
+      <point x="-115" y="1273" type="line"/>
+      <point x="-8" y="1166" type="line"/>
+      <point x="-115" y="1059" type="line"/>
+      <point x="-85" y="1029" type="line"/>
+      <point x="0" y="1113" type="line"/>
+      <point x="0" y="-484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-05 12:09:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

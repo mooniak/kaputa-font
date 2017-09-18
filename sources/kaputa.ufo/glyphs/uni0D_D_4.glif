@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0DD4" format="1">
+  <advance width="3"/>
+  <unicode hex="0DD4"/>
+  <note>
+    uni0DD4
+  </note>
+  <outline>
+    <contour>
+      <point x="-133" y="-311" type="line"/>
+      <point x="-133" y="233" type="line"/>
+      <point x="-219" y="139" type="line"/>
+      <point x="-219" y="-221" type="line"/>
+      <point x="-968" y="-223" type="line"/>
+      <point x="-968" y="-311" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-05 12:09:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

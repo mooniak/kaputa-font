@@ -1,0 +1,159 @@
+feature rphf {
+script sinh;
+lookup rphf0 {
+sub uni0DBB uni0DCA uni200D by rapaya;
+} rphf0;
+lookup rphf1 {
+sub uni0DCA uni200D uni0DBB by rakar;
+} rphf1;
+lookup rphf2 {
+sub uni0DCA uni200D uni0DBA by yansaya;
+} rphf2;
+lookup rphf3 {
+sub uni0DCF uni0DCA by uni0DDD.sechalf;
+sub uni0DD8 uni0DD8 by uni0DF2;
+sub uni0DD9 uni0DCF by uni0DDC;
+sub uni0DD9 uni0DCA by uni0DDA;
+sub uni0DD9 uni0DCF uni0DCA by uni0DDD;
+sub uni0DD9 uni0DD9 by uni0DDB;
+sub uni0DD9 uni0DDF by uni0DDE;
+} rphf3;
+lookup rphf4 {
+sub uni0D85 uni0DCF by uni0D86;
+sub uni0D85 uni0DD0 by uni0D87;
+sub uni0D85 uni0DD1 by uni0D88;
+sub uni0D8B uni0DDF by uni0D8C;
+sub uni0D8D uni0DD8 by uni0D8E;
+sub uni0D94 uni0DCA by uni0D95;
+sub uni0D94 uni0DDF by uni0D96;
+} rphf4;
+} rphf;
+
+feature pstf {
+script sinh;
+sub uni0DDA by uni0DDA.sechalf;
+sub uni0DDC by uni0DDC.sechalf;
+sub uni0DDD by uni0DDD.sechalf;
+sub uni0DDE by uni0DDE.sechalf;
+} pstf;
+
+feature psts {
+script sinh;
+sub uni0D9A uni0DD4 by uni0DA40DCF;
+sub uni0D9A uni0DD6 by uni0DA4.rakar;
+sub uni0D9C uni0DD4 by uni0D9C0DD4;
+sub uni0D9C uni0DD6 by uni0D9C0DD6;
+sub uni0D9F uni0DD4 by uni0D9F0DD4;
+sub uni0D9F uni0DD6 by uni0D9F0DD6;
+sub uni0DAD uni0DD4 by uni0DAD0DD4;
+sub uni0DAD uni0DD6 by uni0DC10DD2.rakar;
+sub uni0DB7 uni0DD4 by uni0DB70DD4;
+sub uni0DB7 uni0DD6 by uni0DB70DD6;
+sub uni0DBB uni0DD0 by uni0DBB0DD0;
+sub uni0DBB uni0DD1 by uni0DBB0DD1;
+sub uni0DBB uni0DD4 by uni0DA50DCF;
+sub uni0DBB uni0DD6 by uni0DA5.rakar;
+sub uni0DC1 uni0DD4 by uni0DC10DD4;
+sub uni0DC1 uni0DD6 by uni0DC10DD6;
+} psts;
+
+feature akhn {
+script sinh;
+sub uni0D9A uni0DCA uni200D uni0DC2 by uni0D9A0DCA200D0DC2;
+} akhn;
+
+feature abvs {
+script sinh;
+sub uni0D9B uni0DCA by uni0D9B0DCA;
+sub uni0D9B uni0DDA.sechalf by uni0D9B0DCA;
+sub uni0D9B uni0DD2 by uni0D9B0DD2;
+sub uni0D9B uni0DD3 by uni0D9B0DD3;
+sub uni0D9B rakar uni0DCA by kra;
+sub uni0D9B rakar uni0DDA.sechalf by kra;
+sub uni0D9E uni0DCA by uni0D9E0DCA;
+sub uni0D9E uni0DDA.sechalf by uni0D9E0DCA;
+sub uni0D9E uni0DD2 by uni0D9E0DD2;
+sub uni0D9E uni0DD3 by uni0D9E0DD3;
+sub uni0DA0 uni0DCA by uni0DA00DCA;
+sub uni0DA0 uni0DDA.sechalf by uni0DA00DCA;
+sub uni0DA0 uni0DD2 by uni0DA00DD2;
+sub uni0DA0 uni0DD3 by uni0DA00DD3;
+sub uni0DA0 rakar uni0DCA by chroo;
+sub uni0DA0 rakar uni0DDA.sechalf by chroo;
+sub uni0DA1 uni0DCA by uni0DA10DCA;
+sub uni0DA2 uni0DCA by uni0DA20DCA;
+sub uni0DA7 uni0DCA by uni0DA70DCA;
+sub uni0DA7 uni0DDA.sechalf by uni0DA70DCA;
+sub uni0DA7 uni0DD2 by uni0DA70DD2;
+sub uni0DA7 uni0DD3 by uni0DA70DD3;
+sub uni0DA7 rakar uni0DCA by troo;
+sub uni0DA7 rakar uni0DDA.sechalf by troo;
+sub uni0DA9 uni0DCA by uni0DA90DCA;
+sub uni0DA9 uni0DDA.sechalf by uni0DA90DCA;
+sub uni0DA9 uni0DD2 by uni0DA90DD2;
+sub uni0DA9 uni0DD3 by uni0DA90DD3;
+sub uni0DA9 rakar uni0DCA by Droo;
+sub uni0DA9 rakar uni0DDA.sechalf by Droo;
+sub uni0DAA uni0DCA by uni0DAA0DCA;
+sub uni0DAA uni0DD2 by uni0DAA0DD2;
+sub uni0DAA uni0DD3 by uni0DAA0DD3;
+sub uni0DAC uni0DCA by uni0DAC0DCA;
+sub uni0DAC uni0DDA.sechalf by uni0DAC0DCA;
+sub uni0DAC uni0DD2 by uni0DAC0DD2;
+sub uni0DAC uni0DD3 by uni0DAC0DD3;
+sub uni0DAC rakar uni0DCA by unidroo;
+sub uni0DAC rakar uni0DDA.sechalf by unidroo;
+sub uni0DB0 uni0DCA by uni0DB00DCA;
+sub uni0DB0 uni0DDA.sechalf by uni0DB00DCA;
+sub uni0DB0 uni0DD2 by uni0DB00DD2;
+sub uni0DB0 uni0DD3 by uni0DB00DD3;
+sub uni0DB6 uni0DCA by uni0DB60DCA;
+sub uni0DB6 uni0DDA.sechalf by uni0DB60DCA;
+sub uni0DB6 uni0DD2 by uni0DB60DD2;
+sub uni0DB6 uni0DD3 by uni0DB60DD3;
+sub uni0DB6 rakar uni0DCA by braoo;
+sub uni0DB6 rakar uni0DDA.sechalf by braoo;
+sub uni0DB8 uni0DCA by uni0DB80DCA;
+sub uni0DB8 uni0DDA.sechalf by uni0DB80DCA;
+sub uni0DB8 uni0DD2 by uni0DB80DD2;
+sub uni0DB8 uni0DD3 by uni0DB80DD3;
+sub uni0DB8 rakar uni0DCA by unimraoo;
+sub uni0DB8 rakar uni0DDA.sechalf by unimraoo;
+sub uni0DB9 uni0DCA by uni0DB90DCA;
+sub uni0DB9 uni0DDA.sechalf by uni0DB90DCA;
+sub uni0DB9 uni0DD2 by uni0DB90DD2;
+sub uni0DB9 uni0DD3 by uni0DB90DD3;
+sub uni0DB9 rakar uni0DCA by UniMbra;
+sub uni0DB9 rakar uni0DDA.sechalf by UniMbra;
+sub uni0DBB uni0DCA by uni0DBB0DCA;
+sub uni0DBB uni0DDA.sechalf by uni0DBB0DCA;
+sub uni0DC0 uni0DCA by uni0DC00DCA;
+sub uni0DC0 uni0DDA.sechalf by uni0DC00DCA;
+sub uni0DC0 uni0DD2 by uni0DC00DD2;
+sub uni0DC0 uni0DD3 by uni0DC00DD3;
+sub uni0DC0 rakar uni0DCA by uniVra;
+sub uni0DC0 rakar uni0DDA.sechalf by uniVra;
+} abvs;
+
+feature blws {
+script sinh;
+sub uni0DA4 uni0DD4 by uni0DA40DD4;
+sub uni0DA4 uni0DD6 by uni0DA40DD6;
+sub uni0DA5 uni0DD4 by uni0DA50DD4;
+sub uni0DA5 uni0DD6 by uni0DA50DD6;
+sub uni0DAF uni200D uni0DCF by uni0DAF0DCF;
+sub uni0DAF uni0DD4 by uni0DAF0DD4;
+sub uni0DAF uni0DD6 by uni0DAF0DD6;
+sub uni0DAF uni200D uni0DD8 by uni0DAF0DD8;
+sub uni0DAF rakar by uni0DAF.rakar;
+sub uni0DB3 uni200D uni0DCF by uni0DB30DCF;
+sub uni0DB3 uni0DD4 by uni0DB30DD4;
+sub uni0DB3 uni0DD6 by uni0DB30DD6;
+sub uni0DB3 rakar by uni0DB3.rakar;
+sub uni0DBD uni0DD4 by uni0DBD0DD4;
+sub uni0DBD uni0DD6 by uni0DBD0DD6;
+sub uni0DC1 rakar uni0DD3 by uni0DC10DD3.rakar;
+sub uni0DC5 uni0DD4 by uni0DC50DD4;
+sub uni0DC5 uni0DD6 by uni0DC50DD6;
+} blws;
+

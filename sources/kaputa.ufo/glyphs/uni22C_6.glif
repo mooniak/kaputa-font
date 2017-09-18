@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni22C6" format="1">
+  <advance width="1518"/>
+  <unicode hex="22C6"/>
+  <note>
+    uni22C6
+  </note>
+  <outline>
+    <contour>
+      <point x="831" y="244" type="line"/>
+      <point x="1251" y="-55" type="line"/>
+      <point x="1096" y="440" type="line"/>
+      <point x="1501" y="739" type="line"/>
+      <point x="993" y="739" type="line"/>
+      <point x="831" y="1227" type="line"/>
+      <point x="670" y="739" type="line"/>
+      <point x="162" y="739" type="line"/>
+      <point x="567" y="440" type="line"/>
+      <point x="412" y="-55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-05 12:09:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

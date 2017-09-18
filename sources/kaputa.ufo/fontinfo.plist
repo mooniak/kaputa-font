@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1528</integer>
+	<key>capHeight</key>
+	<integer>1170</integer>
+	<key>copyright</key>
+	<string>Copyright (c) Thusitha Randunuge - eFusion, 2004. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-520</integer>
+	<key>familyName</key>
+	<string>KaputaUnicode</string>
+	<key>openTypeHeadCreated</key>
+	<string>2007/02/01 17:56:23</string>
+	<key>openTypeNameDesigner</key>
+	<string>Thusitha Randunuge</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.info.lk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>  - eFusion</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>KaputaUnicode</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1528</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-520</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>74</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>MS</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>KaputaUnicode-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>866</integer>
+</dict>
+</plist>

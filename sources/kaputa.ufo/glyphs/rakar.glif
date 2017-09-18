@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakar" format="1">
+  <advance width="2"/>
+  <note>
+    rakar
+  </note>
+  <outline>
+    <contour>
+      <point x="-326" y="-338"/>
+      <point x="-57" y="-233"/>
+      <point x="-57" y="-25" type="curve" smooth="yes"/>
+      <point x="-57" y="48"/>
+      <point x="-102" y="139"/>
+      <point x="-170" y="139" type="curve" smooth="yes"/>
+      <point x="-250" y="139" type="line"/>
+      <point x="-171" y="97"/>
+      <point x="-131" y="48"/>
+      <point x="-131" y="-8" type="curve" smooth="yes"/>
+      <point x="-131" y="-161"/>
+      <point x="-353" y="-258"/>
+      <point x="-522" y="-258" type="curve" smooth="yes"/>
+      <point x="-794" y="-258"/>
+      <point x="-930" y="-182"/>
+      <point x="-930" y="-29" type="curve" smooth="yes"/>
+      <point x="-930" y="-20"/>
+      <point x="-929" y="-12"/>
+      <point x="-928" y="-4" type="curve"/>
+      <point x="-1010" y="-4" type="line"/>
+      <point x="-1011" y="-25"/>
+      <point x="-1012" y="-40"/>
+      <point x="-1012" y="-49" type="curve" smooth="yes"/>
+      <point x="-1012" y="-241"/>
+      <point x="-772" y="-338"/>
+      <point x="-555" y="-338" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-05 12:09:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni200C" format="1">
+  <advance width="45"/>
+  <unicode hex="200C"/>
+  <note>
+    uni200C
+  </note>
+  <outline>
+    <contour>
+      <point x="45" y="-484" type="line"/>
+      <point x="45" y="1302" type="line"/>
+      <point x="0" y="1302" type="line"/>
+      <point x="0" y="-484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-11-05 12:09:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>
