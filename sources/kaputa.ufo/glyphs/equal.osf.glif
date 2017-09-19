@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.osf" format="1">
+  <advance width="472"/>
+  <note>
+    equal.osf
+  </note>
+  <outline>
+    <contour>
+      <point x="67" y="317" type="line"/>
+      <point x="403" y="317" type="line"/>
+      <point x="403" y="357" type="line"/>
+      <point x="67" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="67" y="148" type="line"/>
+      <point x="403" y="148" type="line"/>
+      <point x="403" y="188" type="line"/>
+      <point x="67" y="188" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 12:52:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.tf" format="1">
+  <advance width="484"/>
+  <note>
+    plus.tf
+  </note>
+  <outline>
+    <contour>
+      <point x="220" y="167" type="line"/>
+      <point x="262" y="167" type="line"/>
+      <point x="262" y="323" type="line"/>
+      <point x="409" y="323" type="line"/>
+      <point x="409" y="362" type="line"/>
+      <point x="262" y="362" type="line"/>
+      <point x="262" y="518" type="line"/>
+      <point x="220" y="518" type="line"/>
+      <point x="220" y="362" type="line"/>
+      <point x="73" y="362" type="line"/>
+      <point x="73" y="323" type="line"/>
+      <point x="220" y="323" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 12:52:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

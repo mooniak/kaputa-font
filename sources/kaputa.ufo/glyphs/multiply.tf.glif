@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply.tf" format="1">
+  <advance width="484"/>
+  <note>
+    multiply.tf
+  </note>
+  <outline>
+    <contour>
+      <point x="105" y="179" type="line"/>
+      <point x="241" y="315" type="line"/>
+      <point x="377" y="179" type="line"/>
+      <point x="404" y="207" type="line"/>
+      <point x="269" y="343" type="line"/>
+      <point x="404" y="478" type="line"/>
+      <point x="377" y="506" type="line"/>
+      <point x="241" y="370" type="line"/>
+      <point x="105" y="506" type="line"/>
+      <point x="78" y="478" type="line"/>
+      <point x="214" y="343" type="line"/>
+      <point x="78" y="207" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 12:52:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

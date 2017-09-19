@@ -38,6 +38,8 @@
 	<integer>-254</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>36</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>MS</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>

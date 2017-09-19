@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal.tf" format="1">
+  <advance width="484"/>
+  <note>
+    lessequal.tf
+  </note>
+  <outline>
+    <contour>
+      <point x="409" y="184" type="line"/>
+      <point x="409" y="226" type="line"/>
+      <point x="109" y="354" type="line"/>
+      <point x="109" y="339" type="line"/>
+      <point x="409" y="467" type="line"/>
+      <point x="409" y="510" type="line"/>
+      <point x="73" y="364" type="line"/>
+      <point x="73" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="409" y="39" type="line"/>
+      <point x="73" y="39" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 12:52:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

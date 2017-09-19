@@ -645,6 +645,8 @@
 		<key>com.schriftgestaltung.font.vendorID</key>
 		<string>MS</string>
 	</dict>
+	<key>com.schriftgestaltung.font.vendorID</key>
+	<string>MS</string>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -1011,35 +1013,14 @@
 		<string>bracketleft</string>
 		<string>backslash</string>
 		<string>bracketright</string>
-		<string>braceleft</string>
-		<string>bar</string>
-		<string>braceright</string>
 		<string>asciitilde</string>
-		<string>ellipsis</string>
-		<string>dagger</string>
-		<string>daggerdbl</string>
-		<string>perthousand</string>
-		<string>quoteleft</string>
-		<string>quoteright</string>
-		<string>quotedblleft</string>
-		<string>quotedblright</string>
-		<string>bullet</string>
-		<string>endash</string>
-		<string>emdash</string>
-		<string>sterling</string>
-		<string>currency</string>
-		<string>yen</string>
 		<string>brokenbar</string>
 		<string>section</string>
 		<string>copyright</string>
 		<string>registered</string>
 		<string>trademark</string>
-		<string>guilsinglleft</string>
-		<string>guilsinglright</string>
-		<string>degree</string>
 		<string>multiply</string>
 		<string>divide</string>
-		<string>uni22C6</string>
 		<string>plusminus</string>
 		<string>paragraph</string>
 		<string>periodcentered</string>
@@ -1122,6 +1103,61 @@
 		<string>uni0DC10DD3.rakar</string>
 		<string>uni0DC50DD4</string>
 		<string>uni0DC50DD6</string>
+		<string>A</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
+		<string>E</string>
+		<string>F</string>
+		<string>G</string>
+		<string>H</string>
+		<string>I</string>
+		<string>J</string>
+		<string>K</string>
+		<string>L</string>
+		<string>M</string>
+		<string>N</string>
+		<string>O</string>
+		<string>P</string>
+		<string>Q</string>
+		<string>R</string>
+		<string>S</string>
+		<string>T</string>
+		<string>U</string>
+		<string>V</string>
+		<string>W</string>
+		<string>X</string>
+		<string>Y</string>
+		<string>Z</string>
+		<string>asciicircum</string>
+		<string>underscore</string>
+		<string>grave</string>
+		<string>a</string>
+		<string>b</string>
+		<string>c</string>
+		<string>d</string>
+		<string>e</string>
+		<string>f</string>
+		<string>g</string>
+		<string>h</string>
+		<string>i</string>
+		<string>j</string>
+		<string>k</string>
+		<string>l</string>
+		<string>m</string>
+		<string>n</string>
+		<string>o</string>
+		<string>p</string>
+		<string>q</string>
+		<string>r</string>
+		<string>s</string>
+		<string>t</string>
+		<string>u</string>
+		<string>v</string>
+		<string>w</string>
+		<string>x</string>
+		<string>y</string>
+		<string>z</string>
 		<string>kra</string>
 		<string>chroo</string>
 		<string>troo</string>
@@ -1194,14 +1230,55 @@
 		<string>sinJnya.rakar</string>
 		<string>sinNda.rakar</string>
 		<string>sinNya.rakar</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
 		<string>sinKundaliya</string>
 		<string>nbspace</string>
+		<string>space.001</string>
 		<string>zerowidthjoiner</string>
 		<string>zerowidthnonjoiner</string>
 		<string>CR</string>
 		<string>euro</string>
+		<string>minus</string>
+		<string>notequal</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
+		<string>approxequal</string>
+		<string>uni2215</string>
+		<string>uni2219</string>
+		<string>uni2219.osf</string>
+		<string>plus.osf</string>
+		<string>minus.osf</string>
+		<string>multiply.osf</string>
+		<string>divide.osf</string>
+		<string>equal.osf</string>
+		<string>notequal.osf</string>
+		<string>greater.osf</string>
+		<string>less.osf</string>
+		<string>greaterequal.osf</string>
+		<string>lessequal.osf</string>
+		<string>plusminus.osf</string>
+		<string>approxequal.osf</string>
+		<string>asciitilde.osf</string>
+		<string>logicalnot.osf</string>
+		<string>infinity.osf</string>
+		<string>uni2219.tf</string>
+		<string>uni2215.tf</string>
+		<string>plus.tf</string>
+		<string>minus.tf</string>
+		<string>multiply.tf</string>
+		<string>divide.tf</string>
+		<string>equal.tf</string>
+		<string>notequal.tf</string>
+		<string>greater.tf</string>
+		<string>less.tf</string>
+		<string>greaterequal.tf</string>
+		<string>lessequal.tf</string>
+		<string>plusminus.tf</string>
+		<string>approxequal.tf</string>
 		<string>dottedCircle</string>
 		<string>sinMatraI</string>
 		<string>sinMatraIi</string>
@@ -1227,9 +1304,9 @@
 		<string>sinMatraEe.sechalf</string>
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
-		<string>sinYansaya</string>
-		<string>sinRepaya</string>
 		<string>sinRakar</string>
+		<string>sinRepaya</string>
+		<string>sinYansaya</string>
 	</array>
 </dict>
 </plist>

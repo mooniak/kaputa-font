@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
-  <advance width="600"/>
+  <advance width="225"/>
   <unicode hex="002F"/>
+  <note>
+    slash
+  </note>
   <outline>
     <contour>
-      <point x="112" y="-63" type="curve" smooth="yes"/>
-      <point x="112" y="-73"/>
-      <point x="122" y="-83"/>
-      <point x="133" y="-83" type="curve" smooth="yes"/>
-      <point x="142" y="-83"/>
-      <point x="149" y="-77"/>
-      <point x="154" y="-64" type="curve" smooth="yes"/>
-      <point x="484" y="643" type="line" smooth="yes"/>
-      <point x="488" y="650"/>
-      <point x="489" y="655"/>
-      <point x="489" y="659" type="curve" smooth="yes"/>
-      <point x="489" y="668"/>
-      <point x="480" y="678"/>
-      <point x="469" y="678" type="curve" smooth="yes"/>
-      <point x="459" y="678"/>
-      <point x="454" y="675"/>
-      <point x="447" y="660" type="curve" smooth="yes"/>
-      <point x="117" y="-47" type="line" smooth="yes"/>
-      <point x="114" y="-54"/>
-      <point x="112" y="-59"/>
+      <point x="0" y="-108" type="line"/>
+      <point x="45" y="-108" type="line"/>
+      <point x="226" y="729" type="line"/>
+      <point x="181" y="729" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-18 08:47:20 +0000</string>
+      <string>2017-09-19 12:52:05 +0000</string>
     </dict>
   </lib>
 </glyph>
