@@ -83,38 +83,32 @@
       <point x="32" y="263" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="47" y="-80" type="curve" smooth="yes"/>
-      <point x="47" y="-174"/>
-      <point x="164" y="-221"/>
-      <point x="270" y="-221" type="curve" smooth="yes"/>
-      <point x="382" y="-221"/>
-      <point x="513" y="-170"/>
-      <point x="513" y="-68" type="curve" smooth="yes"/>
-      <point x="513" y="-33"/>
-      <point x="491" y="12"/>
-      <point x="458" y="12" type="curve" smooth="yes"/>
-      <point x="419" y="12" type="line"/>
-      <point x="458" y="-9"/>
-      <point x="477" y="-33"/>
-      <point x="477" y="-60" type="curve" smooth="yes"/>
-      <point x="477" y="-135"/>
-      <point x="369" y="-182"/>
-      <point x="286" y="-182" type="curve" smooth="yes"/>
-      <point x="153" y="-182"/>
-      <point x="87" y="-145"/>
-      <point x="87" y="-70" type="curve" smooth="yes"/>
-      <point x="87" y="-66"/>
-      <point x="87" y="-62"/>
-      <point x="88" y="-58" type="curve"/>
-      <point x="48" y="-58" type="line"/>
-      <point x="47" y="-68"/>
-      <point x="47" y="-76"/>
+      <point x="168" y="-187"/>
+      <point x="274" y="-187" type="curve" smooth="yes"/>
+      <point x="396" y="-187"/>
+      <point x="496" y="-135"/>
+      <point x="496" y="-51" type="curve" smooth="yes"/>
+      <point x="496" y="-9"/>
+      <point x="476" y="31"/>
+      <point x="440" y="44" type="curve"/>
+      <point x="405" y="28" type="line"/>
+      <point x="437" y="13"/>
+      <point x="459" y="-4"/>
+      <point x="459" y="-48" type="curve" smooth="yes"/>
+      <point x="459" y="-105"/>
+      <point x="364" y="-143"/>
+      <point x="279" y="-143" type="curve" smooth="yes"/>
+      <point x="193" y="-143"/>
+      <point x="123" y="-117"/>
+      <point x="123" y="-42" type="curve"/>
+      <point x="81" y="-42" type="line"/>
+      <point x="81" y="-144"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-18 08:47:20 +0000</string>
+      <string>2017-09-19 13:40:15 +0000</string>
     </dict>
   </lib>
 </glyph>
