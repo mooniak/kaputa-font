@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="1">
-  <advance width="1063"/>
+  <advance width="519"/>
   <unicode hex="00B7"/>
   <note>
     periodcentered
   </note>
   <outline>
     <contour>
-      <point x="596" y="299"/>
-      <point x="624" y="311"/>
-      <point x="643" y="330" type="curve" smooth="yes"/>
-      <point x="662" y="349"/>
-      <point x="674" y="375"/>
-      <point x="674" y="406" type="curve" smooth="yes"/>
-      <point x="674" y="435"/>
-      <point x="662" y="462"/>
-      <point x="643" y="481" type="curve" smooth="yes"/>
-      <point x="624" y="500"/>
-      <point x="596" y="512"/>
-      <point x="567" y="512" type="curve" smooth="yes"/>
-      <point x="507" y="512"/>
-      <point x="461" y="466"/>
-      <point x="461" y="406" type="curve" smooth="yes"/>
-      <point x="461" y="375"/>
-      <point x="473" y="349"/>
-      <point x="492" y="330" type="curve" smooth="yes"/>
-      <point x="511" y="311"/>
-      <point x="538" y="299"/>
-      <point x="567" y="299" type="curve" smooth="yes"/>
+      <point x="291" y="146"/>
+      <point x="305" y="152"/>
+      <point x="314" y="161" type="curve" smooth="yes"/>
+      <point x="323" y="170"/>
+      <point x="329" y="183"/>
+      <point x="329" y="198" type="curve" smooth="yes"/>
+      <point x="329" y="212"/>
+      <point x="323" y="226"/>
+      <point x="314" y="235" type="curve" smooth="yes"/>
+      <point x="305" y="244"/>
+      <point x="291" y="250"/>
+      <point x="277" y="250" type="curve" smooth="yes"/>
+      <point x="248" y="250"/>
+      <point x="225" y="228"/>
+      <point x="225" y="198" type="curve" smooth="yes"/>
+      <point x="225" y="183"/>
+      <point x="231" y="170"/>
+      <point x="240" y="161" type="curve" smooth="yes"/>
+      <point x="250" y="152"/>
+      <point x="263" y="146"/>
+      <point x="277" y="146" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-05 12:09:09 +0000</string>
+      <string>2017-09-18 08:47:20 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
-  <advance width="680"/>
+  <advance width="332"/>
   <unicode hex="00AC"/>
   <note>
     logicalnot
   </note>
   <outline>
     <contour>
-      <point x="610" y="10" type="line"/>
-      <point x="610" y="328" type="line"/>
-      <point x="66" y="328" type="line"/>
-      <point x="61" y="262" type="line"/>
-      <point x="544" y="262" type="line"/>
-      <point x="544" y="5" type="line"/>
+      <point x="298" y="5" type="line"/>
+      <point x="298" y="160" type="line"/>
+      <point x="32" y="160" type="line"/>
+      <point x="30" y="128" type="line"/>
+      <point x="266" y="128" type="line"/>
+      <point x="266" y="2" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-05 12:09:09 +0000</string>
+      <string>2017-09-18 08:47:20 +0000</string>
     </dict>
   </lib>
 </glyph>

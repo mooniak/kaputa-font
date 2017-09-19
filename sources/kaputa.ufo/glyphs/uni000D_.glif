@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni000D" format="1">
-  <advance width="500"/>
+  <advance width="244"/>
   <note>
     uni000D
   </note>
   <outline>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-18 08:47:20 +0000</string>
+    </dict>
+  </lib>
 </glyph>

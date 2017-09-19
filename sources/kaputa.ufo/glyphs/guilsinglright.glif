@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="1">
-  <advance width="437"/>
+  <advance width="213"/>
   <unicode hex="203A"/>
   <note>
     guilsinglright
   </note>
   <outline>
     <contour>
-      <point x="208" y="144"/>
-      <point x="277" y="222"/>
-      <point x="337" y="278" type="curve"/>
-      <point x="337" y="292" type="line"/>
-      <point x="277" y="348"/>
-      <point x="208" y="426"/>
-      <point x="132" y="519" type="curve"/>
-      <point x="100" y="499" type="line"/>
-      <point x="231" y="285" type="line"/>
-      <point x="100" y="71" type="line"/>
-      <point x="132" y="51" type="line"/>
+      <point x="102" y="70"/>
+      <point x="135" y="108"/>
+      <point x="165" y="136" type="curve"/>
+      <point x="165" y="143" type="line"/>
+      <point x="135" y="170"/>
+      <point x="102" y="208"/>
+      <point x="64" y="253" type="curve"/>
+      <point x="49" y="244" type="line"/>
+      <point x="113" y="139" type="line"/>
+      <point x="49" y="35" type="line"/>
+      <point x="64" y="25" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-11-05 12:09:09 +0000</string>
+      <string>2017-09-18 08:47:20 +0000</string>
     </dict>
   </lib>
 </glyph>
