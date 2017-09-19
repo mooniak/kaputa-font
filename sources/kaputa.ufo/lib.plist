@@ -322,6 +322,14 @@
 		<string>UniMbra</string>
 		<string>uniVra</string>
 	</array>
+	<key>com.schriftgestaltung.font.license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.unicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>33</integer>
+		<integer>73</integer>
+	</array>
 	<key>com.schriftgestaltung.font.userData</key>
 	<dict>
 		<key>com.schriftgestaltung.font.glyphOrder</key>
@@ -645,8 +653,6 @@
 		<key>com.schriftgestaltung.font.vendorID</key>
 		<string>MS</string>
 	</dict>
-	<key>com.schriftgestaltung.font.vendorID</key>
-	<string>MS</string>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E</string>
 	<key>com.schriftgestaltung.glyphOrder</key>

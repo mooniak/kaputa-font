@@ -7,13 +7,13 @@
 	<key>capHeight</key>
 	<integer>571</integer>
 	<key>copyright</key>
-	<string>Copyright  2004  (c) Thusitha Randunuge - eFusion, Niranjan Meegammana. Copyright (c)  2017 Mooniak Private Limited</string>
+	<string>Copyright (c) 2017 Kaputa Libre Project Authors , Copyright 2012 The Encode Project Authors (impallari@gmail.com)</string>
 	<key>descender</key>
 	<integer>-254</integer>
 	<key>familyName</key>
 	<string>Kaputa Libre</string>
 	<key>openTypeHeadCreated</key>
-	<string>2017/09/19 04:28:35</string>
+	<string>2017/09/20 00:05:57</string>
 	<key>openTypeHheaAscender</key>
 	<integer>747</integer>
 	<key>openTypeHheaDescender</key>
@@ -21,7 +21,7 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
-	<string>Thusitha Randunuge, Pathum Egodawatta, Kosala Senevirathne</string>
+	<string> Multiple designers</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://textual.works</string>
 	<key>openTypeNameManufacturer</key>
@@ -38,8 +38,6 @@
 	<integer>-254</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>36</integer>
-	<key>openTypeOS2VendorID</key>
-	<string>MS</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>

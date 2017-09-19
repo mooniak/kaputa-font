@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="344" y="685" type="line"/>
-      <point x="348" y="498" type="line"/>
-      <point x="381" y="497" type="line"/>
+      <point x="344" y="498" type="line"/>
+      <point x="379" y="497" type="line"/>
       <point x="379" y="685" type="line"/>
     </contour>
     <component base="sinJa" xOffset="10"/>
@@ -13,7 +13,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-18 09:29:56 +0000</string>
+      <string>2017-09-19 18:27:15 +0000</string>
     </dict>
   </lib>
 </glyph>
