@@ -2,15 +2,12 @@
 <glyph name="emdash" format="1">
   <advance width="906"/>
   <unicode hex="2014"/>
-  <note>
-    emdash
-  </note>
   <outline>
     <contour>
-      <point x="930" y="210" type="line"/>
-      <point x="930" y="227" type="line"/>
       <point x="-16" y="227" type="line"/>
       <point x="-15" y="210" type="line"/>
+      <point x="930" y="210" type="line"/>
+      <point x="930" y="227" type="line"/>
     </contour>
   </outline>
   <lib>

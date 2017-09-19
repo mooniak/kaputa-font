@@ -1,174 +1,210 @@
 # Prefix: Languagesystems
-# automatic
-languagesystem DFLT dflt;
 languagesystem sinh dflt;
 
-feature aalt {
-# automatic
-feature rphf;
-feature pstf;
-feature psts;
-feature akhn;
-feature abvs;
-feature blws;
-} aalt;
+# Prefix: Prefix
+# GSUB 
+lookup rphf0 {
+  lookupflag 0;
+    sub \sinRa \sinVirama \zerowidthjoiner  by \rapaya;
+} rphf0;
+
+lookup rphf1 {
+  lookupflag 0;
+    sub \sinVirama \zerowidthjoiner \sinRa  by \rakar;
+} rphf1;
+
+lookup rphf2 {
+  lookupflag 0;
+    sub \sinVirama \zerowidthjoiner \sinYa  by \yansaya;
+} rphf2;
+
+lookup rphf3 {
+  lookupflag 0;
+    sub \sinMatraE \sinVirama  by \sinMatraEe;
+    sub \sinMatraE \sinMatraE  by \sinMatraAi;
+    sub \sinMatraE \sinMatraAa  by \sinMatraO;
+    sub \sinMatraE \sinMatraAa \sinVirama  by \sinMatraOo;
+    sub \sinMatraAa \sinVirama  by \sinMatraOo.sechalf;
+    sub \sinMatraE \sinMatraLs  by \sinMatraAu;
+    sub \sinMatraR \sinMatraR  by \sinMatraRr;
+} rphf3;
+
+lookup rphf4 {
+  lookupflag 0;
+    sub \sinA \sinMatraAa  by \sinAa;
+    sub \sinA \sinMatraAe  by \sinAae;
+    sub \sinA \sinMatraAea  by \sinAe;
+    sub \sinU \sinMatraLs  by \sinUu;
+    sub \sinvocalicR \sinMatraR  by \sinvocalicRr;
+    sub \sinO \sinVirama  by \sinOo;
+    sub \sinO \sinMatraLs  by \sinAu;
+} rphf4;
+
+lookup pstfPostBaseFormsinSinhalalookup5 {
+  lookupflag 0;
+    sub \sinMatraEe by \sinMatraEe.sechalf ;
+    sub \sinMatraO by \sinMatraO.sechalf ;
+    sub \sinMatraOo by \sinMatraOo.sechalf ;
+    sub \sinMatraAu by \sinMatraAu.sechalf ;
+} pstfPostBaseFormsinSinhalalookup5;
+
+lookup pstsPostBaseSubstitutionsinSinhalalookup6 {
+  lookupflag 0;
+    sub \sinGa \sinMatraU  by \uni0D9C0DD4;
+    sub \sinGa \sinMatraUu  by \uni0D9C0DD6;
+    sub \sinNnga \sinMatraU  by \uni0D9F0DD4;
+    sub \sinNnga \sinMatraUu  by \uni0D9F0DD6;
+    sub \sinKa \sinMatraUu  by \sinNya.rakar;
+    sub \sinKa \sinMatraU  by \uni0DA40DCF;
+    sub \sinRa \sinMatraUu  by \sinJnya.rakar;
+    sub \sinRa \sinMatraU  by \uni0DA50DCF;
+    sub \sinTa \sinMatraU  by \uni0DAD0DD4;
+    sub \sinBha \sinMatraU  by \uni0DB70DD4;
+    sub \sinBha \sinMatraUu  by \uni0DB70DD6;
+    sub \sinRa \sinMatraAe  by \uni0DBB0DD0;
+    sub \sinRa \sinMatraAea  by \uni0DBB0DD1;
+    sub \sinTa \sinMatraUu  by \uni0DC10DD2.rakar;
+    sub \sinSha \sinMatraU  by \uni0DC10DD4;
+    sub \sinSha \sinMatraUu  by \uni0DC10DD6;
+} pstsPostBaseSubstitutionsinSinhalalookup6;
+
+lookup akhnAkhandinSinhalalookup7 {
+  lookupflag 0;
+    sub \sinKa \sinVirama \zerowidthjoiner \sinSsa  by \uni0D9A0DCA200D0DC2;
+} akhnAkhandinSinhalalookup7;
+
+lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
+  lookupflag 0;
+    sub \sinDda \rakar \sinMatraEe.sechalf  by \Droo;
+    sub \sinDda \rakar \sinVirama  by \Droo;
+    sub \sinMba \rakar \sinMatraEe.sechalf  by \UniMbra;
+    sub \sinMba \rakar \sinVirama  by \UniMbra;
+    sub \sinBa \rakar \sinMatraEe.sechalf  by \braoo;
+    sub \sinBa \rakar \sinVirama  by \braoo;
+    sub \sinCa \rakar \sinMatraEe.sechalf  by \chroo;
+    sub \sinCa \rakar \sinVirama  by \chroo;
+    sub \sinKha \rakar \sinMatraEe.sechalf  by \kra;
+    sub \sinKha \rakar \sinVirama  by \kra;
+    sub \sinTta \rakar \sinMatraEe.sechalf  by \troo;
+    sub \sinTta \rakar \sinVirama  by \troo;
+    sub \sinKha \sinMatraEe.sechalf  by \uni0D9B0DCA;
+    sub \sinKha \sinVirama  by \uni0D9B0DCA;
+    sub \sinKha \sinMatraI  by \uni0D9B0DD2;
+    sub \sinKha \sinMatraIi  by \uni0D9B0DD3;
+    sub \sinNga \sinMatraEe.sechalf  by \uni0D9E0DCA;
+    sub \sinNga \sinVirama  by \uni0D9E0DCA;
+    sub \sinNga \sinMatraI  by \uni0D9E0DD2;
+    sub \sinNga \sinMatraIi  by \uni0D9E0DD3;
+    sub \sinCa \sinMatraEe.sechalf  by \uni0DA00DCA;
+    sub \sinCa \sinVirama  by \uni0DA00DCA;
+    sub \sinCa \sinMatraI  by \uni0DA00DD2;
+    sub \sinCa \sinMatraIi  by \uni0DA00DD3;
+    sub \sinCha \sinVirama  by \uni0DA10DCA;
+    sub \sinJa \sinVirama  by \uni0DA20DCA;
+    sub \sinTta \sinMatraEe.sechalf  by \uni0DA70DCA;
+    sub \sinTta \sinVirama  by \uni0DA70DCA;
+    sub \sinTta \sinMatraI  by \uni0DA70DD2;
+    sub \sinTta \sinMatraIi  by \uni0DA70DD3;
+    sub \sinDda \sinMatraEe.sechalf  by \uni0DA90DCA;
+    sub \sinDda \sinVirama  by \uni0DA90DCA;
+    sub \sinDda \sinMatraI  by \uni0DA90DD2;
+    sub \sinDda \sinMatraIi  by \uni0DA90DD3;
+    sub \sinDdha \sinVirama  by \uni0DAA0DCA;
+    sub \sinDdha \sinMatraI  by \uni0DAA0DD2;
+    sub \sinDdha \sinMatraIi  by \uni0DAA0DD3;
+    sub \sinNndda \sinMatraEe.sechalf  by \uni0DAC0DCA;
+    sub \sinNndda \sinVirama  by \uni0DAC0DCA;
+    sub \sinNndda \sinMatraI  by \uni0DAC0DD2;
+    sub \sinNndda \sinMatraIi  by \uni0DAC0DD3;
+    sub \sinDha \sinMatraEe.sechalf  by \uni0DB00DCA;
+    sub \sinDha \sinVirama  by \uni0DB00DCA;
+    sub \sinDha \sinMatraI  by \uni0DB00DD2;
+    sub \sinDha \sinMatraIi  by \uni0DB00DD3;
+    sub \sinBa \sinMatraEe.sechalf  by \uni0DB60DCA;
+    sub \sinBa \sinVirama  by \uni0DB60DCA;
+    sub \sinBa \sinMatraI  by \uni0DB60DD2;
+    sub \sinBa \sinMatraIi  by \uni0DB60DD3;
+    sub \sinMa \sinMatraEe.sechalf  by \uni0DB80DCA;
+    sub \sinMa \sinVirama  by \uni0DB80DCA;
+    sub \sinMa \sinMatraI  by \uni0DB80DD2;
+    sub \sinMa \sinMatraIi  by \uni0DB80DD3;
+    sub \sinMba \sinMatraEe.sechalf  by \uni0DB90DCA;
+    sub \sinMba \sinVirama  by \uni0DB90DCA;
+    sub \sinMba \sinMatraI  by \uni0DB90DD2;
+    sub \sinMba \sinMatraIi  by \uni0DB90DD3;
+    sub \sinRa \sinMatraEe.sechalf  by \uni0DBB0DCA;
+    sub \sinRa \sinVirama  by \uni0DBB0DCA;
+    sub \sinVa \sinMatraEe.sechalf  by \uni0DC00DCA;
+    sub \sinVa \sinVirama  by \uni0DC00DCA;
+    sub \sinVa \sinMatraI  by \uni0DC00DD2;
+    sub \sinVa \sinMatraIi  by \uni0DC00DD3;
+    sub \sinVa \rakar \sinMatraEe.sechalf  by \uniVra;
+    sub \sinVa \rakar \sinVirama  by \uniVra;
+    sub \sinNndda \rakar \sinMatraEe.sechalf  by \unidroo;
+    sub \sinNndda \rakar \sinVirama  by \unidroo;
+    sub \sinMa \rakar \sinMatraEe.sechalf  by \unimraoo;
+    sub \sinMa \rakar \sinVirama  by \unimraoo;
+} abvsAboveBaseSubstitutionsinSinhalalookup8;
+
+lookup blwsBelowBaseSubstitutionsinSinhalalookup9 {
+  lookupflag 0;
+    sub \sinNya \sinMatraU  by \uni0DA40DD4;
+    sub \sinNya \sinMatraUu  by \uni0DA40DD6;
+    sub \sinJnya \sinMatraU  by \uni0DA50DD4;
+    sub \sinJnya \sinMatraUu  by \uni0DA50DD6;
+    sub \sinDa \rakar  by \sinDa.rakar;
+    sub \sinDa \zerowidthjoiner \sinMatraAa  by \uni0DAF0DCF;
+    sub \sinDa \sinMatraU  by \uni0DAF0DD4;
+    sub \sinDa \sinMatraUu  by \uni0DAF0DD6;
+    sub \sinDa \zerowidthjoiner \sinMatraR  by \uni0DAF0DD8;
+    sub \sinNda \rakar  by \sinNda.rakar;
+    sub \sinNda \zerowidthjoiner \sinMatraAa  by \uni0DB30DCF;
+    sub \sinNda \sinMatraU  by \uni0DB30DD4;
+    sub \sinNda \sinMatraUu  by \uni0DB30DD6;
+    sub \sinLa \sinMatraU  by \uni0DBD0DD4;
+    sub \sinLa \sinMatraUu  by \uni0DBD0DD6;
+    sub \sinSha \rakar \sinMatraIi  by \uni0DC10DD3.rakar;
+    sub \sinLla \sinMatraU  by \uni0DC50DD4;
+    sub \sinLla \sinMatraUu  by \uni0DC50DD6;
+} blwsBelowBaseSubstitutionsinSinhalalookup9;
 
 feature rphf {
-script sinh;
-lookup rphf0 {
-sub uni0DBB uni0DCA uni200D by rapaya;
-} rphf0;
-lookup rphf1 {
-sub uni0DCA uni200D uni0DBB by rakar;
-} rphf1;
-lookup rphf2 {
-sub uni0DCA uni200D uni0DBA by yansaya;
-} rphf2;
-lookup rphf3 {
-sub uni0DCF uni0DCA by uni0DDD.sechalf;
-sub uni0DD8 uni0DD8 by uni0DF2;
-sub uni0DD9 uni0DCF by uni0DDC;
-sub uni0DD9 uni0DCA by uni0DDA;
-sub uni0DD9 uni0DCF uni0DCA by uni0DDD;
-sub uni0DD9 uni0DD9 by uni0DDB;
-sub uni0DD9 uni0DDF by uni0DDE;
-} rphf3;
-lookup rphf4 {
-sub uni0D85 uni0DCF by uni0D86;
-sub uni0D85 uni0DD0 by uni0D87;
-sub uni0D85 uni0DD1 by uni0D88;
-sub uni0D8B uni0DDF by uni0D8C;
-sub uni0D8D uni0DD8 by uni0D8E;
-sub uni0D94 uni0DCA by uni0D95;
-sub uni0D94 uni0DDF by uni0D96;
-} rphf4;
+ script sinh;
+     language dflt ;
+      lookup rphf0;
+      lookup rphf1;
+      lookup rphf2;
+      lookup rphf3;
+      lookup rphf4;
 } rphf;
 
 feature pstf {
-script sinh;
-sub uni0DDA by uni0DDA.sechalf;
-sub uni0DDC by uni0DDC.sechalf;
-sub uni0DDD by uni0DDD.sechalf;
-sub uni0DDE by uni0DDE.sechalf;
+ script sinh;
+     language dflt ;
+      lookup pstfPostBaseFormsinSinhalalookup5;
 } pstf;
 
 feature psts {
-script sinh;
-sub uni0D9A uni0DD4 by uni0DA40DCF;
-sub uni0D9A uni0DD6 by uni0DA4.rakar;
-sub uni0D9C uni0DD4 by uni0D9C0DD4;
-sub uni0D9C uni0DD6 by uni0D9C0DD6;
-sub uni0D9F uni0DD4 by uni0D9F0DD4;
-sub uni0D9F uni0DD6 by uni0D9F0DD6;
-sub uni0DAD uni0DD4 by uni0DAD0DD4;
-sub uni0DAD uni0DD6 by uni0DC10DD2.rakar;
-sub uni0DB7 uni0DD4 by uni0DB70DD4;
-sub uni0DB7 uni0DD6 by uni0DB70DD6;
-sub uni0DBB uni0DD0 by uni0DBB0DD0;
-sub uni0DBB uni0DD1 by uni0DBB0DD1;
-sub uni0DBB uni0DD4 by uni0DA50DCF;
-sub uni0DBB uni0DD6 by uni0DA5.rakar;
-sub uni0DC1 uni0DD4 by uni0DC10DD4;
-sub uni0DC1 uni0DD6 by uni0DC10DD6;
+ script sinh;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionsinSinhalalookup6;
 } psts;
 
 feature akhn {
-script sinh;
-sub uni0D9A uni0DCA uni200D uni0DC2 by uni0D9A0DCA200D0DC2;
+ script sinh;
+     language dflt ;
+      lookup akhnAkhandinSinhalalookup7;
 } akhn;
 
 feature abvs {
-script sinh;
-sub uni0D9B uni0DCA by uni0D9B0DCA;
-sub uni0D9B uni0DDA.sechalf by uni0D9B0DCA;
-sub uni0D9B uni0DD2 by uni0D9B0DD2;
-sub uni0D9B uni0DD3 by uni0D9B0DD3;
-sub uni0D9B rakar uni0DCA by kra;
-sub uni0D9B rakar uni0DDA.sechalf by kra;
-sub uni0D9E uni0DCA by uni0D9E0DCA;
-sub uni0D9E uni0DDA.sechalf by uni0D9E0DCA;
-sub uni0D9E uni0DD2 by uni0D9E0DD2;
-sub uni0D9E uni0DD3 by uni0D9E0DD3;
-sub uni0DA0 uni0DCA by uni0DA00DCA;
-sub uni0DA0 uni0DDA.sechalf by uni0DA00DCA;
-sub uni0DA0 uni0DD2 by uni0DA00DD2;
-sub uni0DA0 uni0DD3 by uni0DA00DD3;
-sub uni0DA0 rakar uni0DCA by chroo;
-sub uni0DA0 rakar uni0DDA.sechalf by chroo;
-sub uni0DA1 uni0DCA by uni0DA10DCA;
-sub uni0DA2 uni0DCA by uni0DA20DCA;
-sub uni0DA7 uni0DCA by uni0DA70DCA;
-sub uni0DA7 uni0DDA.sechalf by uni0DA70DCA;
-sub uni0DA7 uni0DD2 by uni0DA70DD2;
-sub uni0DA7 uni0DD3 by uni0DA70DD3;
-sub uni0DA7 rakar uni0DCA by troo;
-sub uni0DA7 rakar uni0DDA.sechalf by troo;
-sub uni0DA9 uni0DCA by uni0DA90DCA;
-sub uni0DA9 uni0DDA.sechalf by uni0DA90DCA;
-sub uni0DA9 uni0DD2 by uni0DA90DD2;
-sub uni0DA9 uni0DD3 by uni0DA90DD3;
-sub uni0DA9 rakar uni0DCA by Droo;
-sub uni0DA9 rakar uni0DDA.sechalf by Droo;
-sub uni0DAA uni0DCA by uni0DAA0DCA;
-sub uni0DAA uni0DD2 by uni0DAA0DD2;
-sub uni0DAA uni0DD3 by uni0DAA0DD3;
-sub uni0DAC uni0DCA by uni0DAC0DCA;
-sub uni0DAC uni0DDA.sechalf by uni0DAC0DCA;
-sub uni0DAC uni0DD2 by uni0DAC0DD2;
-sub uni0DAC uni0DD3 by uni0DAC0DD3;
-sub uni0DAC rakar uni0DCA by unidroo;
-sub uni0DAC rakar uni0DDA.sechalf by unidroo;
-sub uni0DB0 uni0DCA by uni0DB00DCA;
-sub uni0DB0 uni0DDA.sechalf by uni0DB00DCA;
-sub uni0DB0 uni0DD2 by uni0DB00DD2;
-sub uni0DB0 uni0DD3 by uni0DB00DD3;
-sub uni0DB6 uni0DCA by uni0DB60DCA;
-sub uni0DB6 uni0DDA.sechalf by uni0DB60DCA;
-sub uni0DB6 uni0DD2 by uni0DB60DD2;
-sub uni0DB6 uni0DD3 by uni0DB60DD3;
-sub uni0DB6 rakar uni0DCA by braoo;
-sub uni0DB6 rakar uni0DDA.sechalf by braoo;
-sub uni0DB8 uni0DCA by uni0DB80DCA;
-sub uni0DB8 uni0DDA.sechalf by uni0DB80DCA;
-sub uni0DB8 uni0DD2 by uni0DB80DD2;
-sub uni0DB8 uni0DD3 by uni0DB80DD3;
-sub uni0DB8 rakar uni0DCA by unimraoo;
-sub uni0DB8 rakar uni0DDA.sechalf by unimraoo;
-sub uni0DB9 uni0DCA by uni0DB90DCA;
-sub uni0DB9 uni0DDA.sechalf by uni0DB90DCA;
-sub uni0DB9 uni0DD2 by uni0DB90DD2;
-sub uni0DB9 uni0DD3 by uni0DB90DD3;
-sub uni0DB9 rakar uni0DCA by UniMbra;
-sub uni0DB9 rakar uni0DDA.sechalf by UniMbra;
-sub uni0DBB uni0DCA by uni0DBB0DCA;
-sub uni0DBB uni0DDA.sechalf by uni0DBB0DCA;
-sub uni0DC0 uni0DCA by uni0DC00DCA;
-sub uni0DC0 uni0DDA.sechalf by uni0DC00DCA;
-sub uni0DC0 uni0DD2 by uni0DC00DD2;
-sub uni0DC0 uni0DD3 by uni0DC00DD3;
-sub uni0DC0 rakar uni0DCA by uniVra;
-sub uni0DC0 rakar uni0DDA.sechalf by uniVra;
+ script sinh;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionsinSinhalalookup8;
 } abvs;
 
 feature blws {
-script sinh;
-sub uni0DA4 uni0DD4 by uni0DA40DD4;
-sub uni0DA4 uni0DD6 by uni0DA40DD6;
-sub uni0DA5 uni0DD4 by uni0DA50DD4;
-sub uni0DA5 uni0DD6 by uni0DA50DD6;
-sub uni0DAF uni200D uni0DCF by uni0DAF0DCF;
-sub uni0DAF uni0DD4 by uni0DAF0DD4;
-sub uni0DAF uni0DD6 by uni0DAF0DD6;
-sub uni0DAF uni200D uni0DD8 by uni0DAF0DD8;
-sub uni0DAF rakar by uni0DAF.rakar;
-sub uni0DB3 uni200D uni0DCF by uni0DB30DCF;
-sub uni0DB3 uni0DD4 by uni0DB30DD4;
-sub uni0DB3 uni0DD6 by uni0DB30DD6;
-sub uni0DB3 rakar by uni0DB3.rakar;
-sub uni0DBD uni0DD4 by uni0DBD0DD4;
-sub uni0DBD uni0DD6 by uni0DBD0DD6;
-sub uni0DC1 rakar uni0DD3 by uni0DC10DD3.rakar;
-sub uni0DC5 uni0DD4 by uni0DC50DD4;
-sub uni0DC5 uni0DD6 by uni0DC50DD6;
+ script sinh;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionsinSinhalalookup9;
 } blws;
 

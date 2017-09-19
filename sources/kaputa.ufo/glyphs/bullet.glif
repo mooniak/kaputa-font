@@ -2,35 +2,20 @@
 <glyph name="bullet" format="1">
   <advance width="617"/>
   <unicode hex="2022"/>
-  <note>
-    bullet
-  </note>
   <outline>
     <contour>
-      <point x="410" y="-20"/>
-      <point x="478" y="10"/>
-      <point x="527" y="59" type="curve" smooth="yes"/>
-      <point x="576" y="108"/>
-      <point x="606" y="176"/>
-      <point x="606" y="250" type="curve" smooth="yes"/>
-      <point x="606" y="324"/>
-      <point x="576" y="392"/>
-      <point x="527" y="441" type="curve" smooth="yes"/>
-      <point x="478" y="490"/>
-      <point x="410" y="520"/>
-      <point x="336" y="520" type="curve" smooth="yes"/>
-      <point x="262" y="520"/>
-      <point x="194" y="490"/>
-      <point x="145" y="441" type="curve" smooth="yes"/>
-      <point x="96" y="392"/>
-      <point x="66" y="324"/>
       <point x="66" y="250" type="curve" smooth="yes"/>
-      <point x="66" y="176"/>
-      <point x="96" y="108"/>
-      <point x="145" y="59" type="curve" smooth="yes"/>
-      <point x="194" y="10"/>
-      <point x="262" y="-20"/>
+      <point x="66" y="101"/>
+      <point x="187" y="-20"/>
       <point x="336" y="-20" type="curve" smooth="yes"/>
+      <point x="485" y="-20"/>
+      <point x="606" y="101"/>
+      <point x="606" y="250" type="curve" smooth="yes"/>
+      <point x="606" y="399"/>
+      <point x="485" y="520"/>
+      <point x="336" y="520" type="curve" smooth="yes"/>
+      <point x="187" y="520"/>
+      <point x="66" y="399"/>
     </contour>
   </outline>
   <lib>

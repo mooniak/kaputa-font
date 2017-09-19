@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinVirama" format="1">
+  <advance width="1"/>
+  <unicode hex="0DCA"/>
+  <outline>
+    <contour>
+      <point x="-203" y="665" type="line"/>
+      <point x="-199" y="488" type="line"/>
+      <point x="-156" y="487" type="line"/>
+      <point x="-158" y="665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-18 08:47:20 +0000</string>
+    </dict>
+  </lib>
+</glyph>

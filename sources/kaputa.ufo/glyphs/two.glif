@@ -2,16 +2,14 @@
 <glyph name="two" format="1">
   <advance width="600"/>
   <unicode hex="0032"/>
-  <note>
-    two
-  </note>
   <outline>
     <contour>
+      <point x="93" y="0" type="line"/>
       <point x="495" y="0" type="line"/>
       <point x="495" y="46" type="line"/>
-      <point x="453" y="46" type="line"/>
-      <point x="453" y="46" type="line"/>
-      <point x="148" y="46" type="line"/>
+      <point x="379" y="46"/>
+      <point x="264" y="46"/>
+      <point x="148" y="46" type="curve"/>
       <point x="148" y="49" type="line"/>
       <point x="208" y="101"/>
       <point x="268" y="136"/>
@@ -38,7 +36,6 @@
       <point x="241" y="172"/>
       <point x="177" y="135"/>
       <point x="93" y="61" type="curve"/>
-      <point x="93" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

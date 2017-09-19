@@ -2,11 +2,11 @@
 <glyph name="uni22C6" format="1">
   <advance width="741"/>
   <unicode hex="22C6"/>
-  <note>
-    uni22C6
-  </note>
   <outline>
     <contour>
+      <point x="79" y="361" type="line"/>
+      <point x="277" y="215" type="line"/>
+      <point x="201" y="-27" type="line"/>
       <point x="406" y="119" type="line"/>
       <point x="611" y="-27" type="line"/>
       <point x="535" y="215" type="line"/>
@@ -14,9 +14,6 @@
       <point x="485" y="361" type="line"/>
       <point x="406" y="599" type="line"/>
       <point x="327" y="361" type="line"/>
-      <point x="79" y="361" type="line"/>
-      <point x="277" y="215" type="line"/>
-      <point x="201" y="-27" type="line"/>
     </contour>
   </outline>
   <lib>

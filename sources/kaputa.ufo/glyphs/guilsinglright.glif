@@ -2,11 +2,10 @@
 <glyph name="guilsinglright" format="1">
   <advance width="213"/>
   <unicode hex="203A"/>
-  <note>
-    guilsinglright
-  </note>
   <outline>
     <contour>
+      <point x="49" y="35" type="line"/>
+      <point x="64" y="25" type="line"/>
       <point x="102" y="70"/>
       <point x="135" y="108"/>
       <point x="165" y="136" type="curve"/>
@@ -16,8 +15,6 @@
       <point x="64" y="253" type="curve"/>
       <point x="49" y="244" type="line"/>
       <point x="113" y="139" type="line"/>
-      <point x="49" y="35" type="line"/>
-      <point x="64" y="25" type="line"/>
     </contour>
   </outline>
   <lib>
