@@ -6,12 +6,12 @@
 	<string>_notdef.glif</string>
 	<key>.null</key>
 	<string>_null.glif</string>
+	<key>CR</key>
+	<string>C_R_.glif</string>
 	<key>Droo</key>
 	<string>D_roo.glif</string>
 	<key>UniMbra</key>
 	<string>U_niM_bra.glif</string>
-	<key>_ai</key>
-	<string>_ai.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>asciitilde</key>
@@ -38,8 +38,6 @@
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
-	<key>cent</key>
-	<string>cent.glif</string>
 	<key>chroo</key>
 	<string>chroo.glif</string>
 	<key>colon</key>
@@ -96,8 +94,6 @@
 	<string>kra.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
-	<key>logicalnot</key>
-	<string>logicalnot.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>nbspace</key>
@@ -140,10 +136,6 @@
 	<string>quoteright.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
-	<key>rakar</key>
-	<string>rakar.glif</string>
-	<key>rapaya</key>
-	<string>rapaya.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
 	<key>section</key>
@@ -294,6 +286,10 @@
 	<string>sinP_ha.glif</string>
 	<key>sinRa</key>
 	<string>sinR_a.glif</string>
+	<key>sinRakar</key>
+	<string>sinR_akar.glif</string>
+	<key>sinRepaya</key>
+	<string>sinR_epaya.glif</string>
 	<key>sinSa</key>
 	<string>sinS_a.glif</string>
 	<key>sinSha</key>
@@ -320,6 +316,8 @@
 	<string>sinV_isarga.glif</string>
 	<key>sinYa</key>
 	<string>sinY_a.glif</string>
+	<key>sinYansaya</key>
+	<string>sinY_ansaya.glif</string>
 	<key>sinvocalicL</key>
 	<string>sinvocalicL_.glif</string>
 	<key>sinvocalicLL</key>
@@ -344,8 +342,6 @@
 	<string>troo.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
-	<key>uni000D</key>
-	<string>uni000D_.glif</string>
 	<key>uni0D9A0DCA200D0DC2</key>
 	<string>uni0D_9A_0D_C_A_200D_0D_C_2.glif</string>
 	<key>uni0D9B0DCA</key>
@@ -512,8 +508,6 @@
 	<string>unidroo.glif</string>
 	<key>unimraoo</key>
 	<string>unimraoo.glif</string>
-	<key>yansaya</key>
-	<string>yansaya.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
 	<key>zero</key>

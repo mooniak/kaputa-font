@@ -975,7 +975,6 @@
 	<array>
 		<string>.notdef</string>
 		<string>.null</string>
-		<string>uni000D</string>
 		<string>space</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
@@ -1027,7 +1026,6 @@
 		<string>bullet</string>
 		<string>endash</string>
 		<string>emdash</string>
-		<string>cent</string>
 		<string>sterling</string>
 		<string>currency</string>
 		<string>yen</string>
@@ -1038,7 +1036,6 @@
 		<string>trademark</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
-		<string>logicalnot</string>
 		<string>degree</string>
 		<string>multiply</string>
 		<string>divide</string>
@@ -1111,12 +1108,9 @@
 		<string>uni0DB90DCA</string>
 		<string>uni0DB90DD2</string>
 		<string>uni0DB90DD3</string>
-		<string>yansaya</string>
 		<string>uni0DBB0DCA</string>
 		<string>uni0DBB0DD0</string>
 		<string>uni0DBB0DD1</string>
-		<string>rapaya</string>
-		<string>rakar</string>
 		<string>uni0DBD0DD4</string>
 		<string>uni0DBD0DD6</string>
 		<string>uni0DC00DCA</string>
@@ -1128,7 +1122,6 @@
 		<string>uni0DC10DD3.rakar</string>
 		<string>uni0DC50DD4</string>
 		<string>uni0DC50DD6</string>
-		<string>_ai</string>
 		<string>kra</string>
 		<string>chroo</string>
 		<string>troo</string>
@@ -1207,6 +1200,7 @@
 		<string>nbspace</string>
 		<string>zerowidthjoiner</string>
 		<string>zerowidthnonjoiner</string>
+		<string>CR</string>
 		<string>euro</string>
 		<string>dottedCircle</string>
 		<string>sinMatraI</string>
@@ -1233,6 +1227,9 @@
 		<string>sinMatraEe.sechalf</string>
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
+		<string>sinYansaya</string>
+		<string>sinRepaya</string>
+		<string>sinRakar</string>
 	</array>
 </dict>
 </plist>
