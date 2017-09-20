@@ -7,13 +7,13 @@
 	<key>capHeight</key>
 	<integer>571</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2017 Kaputa Libre Project Authors , Copyright 2012 The Encode Project Authors (impallari@gmail.com)</string>
+	<string>Copyright (c) 2017 Kaputa Font Project Authors, Copyright 2012 The Encode Project Authors (impallari@gmail.com)</string>
 	<key>descender</key>
 	<integer>-254</integer>
 	<key>familyName</key>
-	<string>Kaputa Libre</string>
+	<string>Kaputa</string>
 	<key>openTypeHeadCreated</key>
-	<string>2017/09/20 00:05:57</string>
+	<string>2017/09/20 17:48:05</string>
 	<key>openTypeHheaAscender</key>
 	<integer>747</integer>
 	<key>openTypeHheaDescender</key>
@@ -21,7 +21,7 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
-	<string> Multiple designers</string>
+	<string>Multiple designers</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://textual.works</string>
 	<key>openTypeNameManufacturer</key>
@@ -29,7 +29,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://textual.works</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Kaputa Libre</string>
+	<string>Kaputa</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2TypoAscender</key>
@@ -38,6 +38,8 @@
 	<integer>-254</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>36</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>MS</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -50,7 +52,7 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>KaputaLibre-Regular</string>
+	<string>Kaputa-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>

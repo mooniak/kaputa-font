@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinKa" format="1">
-  <advance width="605"/>
+  <advance width="616"/>
   <unicode hex="0D9A"/>
   <outline>
     <contour>
@@ -50,8 +50,8 @@
       <point x="228" y="427"/>
       <point x="228" y="429" type="curve" smooth="yes"/>
       <point x="228" y="474"/>
-      <point x="194" y="507"/>
-      <point x="141" y="507" type="curve" smooth="yes"/>
+      <point x="192" y="507"/>
+      <point x="142" y="507" type="curve" smooth="yes"/>
       <point x="58" y="507"/>
       <point x="36" y="428"/>
       <point x="36" y="373" type="curve"/>
@@ -96,7 +96,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 17:18:05 +0000</string>
+      <string>2017-09-19 19:24:50 +0000</string>
     </dict>
   </lib>
 </glyph>
