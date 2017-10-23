@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVa" format="1">
-  <advance width="525"/>
+  <advance width="523"/>
   <unicode hex="0DC0"/>
   <outline>
     <contour>
@@ -63,7 +63,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 18:14:52 +0000</string>
+      <string>2017-09-24 06:48:31 +0000</string>
     </dict>
   </lib>
 </glyph>

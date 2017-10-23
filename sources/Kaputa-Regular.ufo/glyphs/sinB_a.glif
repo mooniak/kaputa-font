@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBa" format="1">
-  <advance width="524"/>
+  <advance width="533"/>
   <unicode hex="0DB6"/>
   <outline>
     <contour>
       <point x="16" y="202" type="curve" smooth="yes"/>
       <point x="16" y="89"/>
-      <point x="55" y="1"/>
+      <point x="56" y="1"/>
       <point x="153" y="1" type="curve" smooth="yes"/>
-      <point x="156" y="1"/>
-      <point x="166" y="1"/>
-      <point x="184" y="3" type="curve"/>
+      <point x="168" y="1"/>
+      <point x="176" y="2"/>
+      <point x="194" y="7" type="curve"/>
       <point x="183" y="42" type="line"/>
-      <point x="172" y="42" type="line" smooth="yes"/>
-      <point x="82" y="42"/>
+      <point x="176" y="39"/>
+      <point x="169" y="38"/>
+      <point x="162" y="38" type="curve" smooth="yes"/>
+      <point x="85" y="38"/>
       <point x="55" y="98"/>
       <point x="55" y="212" type="curve" smooth="yes"/>
       <point x="55" y="335"/>
@@ -64,7 +66,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 18:09:49 +0000</string>
+      <string>2017-10-23 04:29:39 +0000</string>
     </dict>
   </lib>
 </glyph>
