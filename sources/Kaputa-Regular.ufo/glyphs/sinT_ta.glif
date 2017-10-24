@@ -41,11 +41,14 @@
       <point x="264" y="417" type="line"/>
       <point x="217" y="418" type="line" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="129" y="579" type="move" name="sinVirama"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 19:10:56 +0000</string>
+      <string>2017-10-24 13:54:55 +0000</string>
     </dict>
   </lib>
 </glyph>

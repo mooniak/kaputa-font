@@ -1044,41 +1044,28 @@
 		<string>plusminus</string>
 		<string>paragraph</string>
 		<string>periodcentered</string>
-		<string>uni0D9A0DCA200D0DC2</string>
-		<string>uni0D9B0DCA</string>
 		<string>uni0D9B0DD2</string>
 		<string>uni0D9B0DD3</string>
-		<string>uni0D9C0DD4</string>
 		<string>uni0D9C0DD6</string>
-		<string>uni0D9E0DCA</string>
 		<string>uni0D9E0DD2</string>
 		<string>uni0D9E0DD3</string>
 		<string>uni0D9F0DD4</string>
 		<string>uni0D9F0DD6</string>
-		<string>uni0DA00DCA</string>
 		<string>uni0DA00DD2</string>
 		<string>uni0DA00DD3</string>
-		<string>uni0DA10DCA</string>
-		<string>uni0DA20DCA</string>
-		<string>uni0DA40DCF</string>
 		<string>uni0DA40DD4</string>
 		<string>uni0DA40DD6</string>
 		<string>uni0DA50DCF</string>
 		<string>uni0DA50DD4</string>
 		<string>uni0DA50DD6</string>
-		<string>uni0DA70DCA</string>
 		<string>uni0DA70DD2</string>
 		<string>uni0DA70DD3</string>
-		<string>uni0DA80DCA</string>
 		<string>uni0DA80DD2</string>
 		<string>uni0DA80DD3</string>
-		<string>uni0DA90DCA</string>
 		<string>uni0DA90DD2</string>
 		<string>uni0DA90DD3</string>
-		<string>uni0DAA0DCA</string>
 		<string>uni0DAA0DD2</string>
 		<string>uni0DAA0DD3</string>
-		<string>uni0DAC0DCA</string>
 		<string>uni0DAC0DD2</string>
 		<string>uni0DAC0DD3</string>
 		<string>uni0DAD0DD4</string>
@@ -1086,27 +1073,16 @@
 		<string>uni0DAF0DD4</string>
 		<string>uni0DAF0DD6</string>
 		<string>uni0DAF0DD8</string>
-		<string>uni0DB00DCA</string>
 		<string>uni0DB00DD2</string>
 		<string>uni0DB00DD3</string>
 		<string>uni0DB30DCF</string>
 		<string>uni0DB30DD4</string>
 		<string>uni0DB30DD6</string>
-		<string>uni0DB30DCA200D0DA80DCA</string>
-		<string>uni0DB30DCA200D0DA80DD2</string>
-		<string>uni0DB30DCA200D0DA80DD3</string>
-		<string>uni0DB30DCA200D0DB00DCA</string>
-		<string>uni0DB30DCA200D0DB00DD2</string>
-		<string>uni0DB30DCA200D0DB00DD3</string>
-		<string>uni0DB60DCA</string>
 		<string>uni0DB60DD2</string>
 		<string>uni0DB60DD3</string>
-		<string>uni0DB70DD4</string>
 		<string>uni0DB70DD6</string>
-		<string>uni0DB80DCA</string>
 		<string>uni0DB80DD2</string>
 		<string>uni0DB80DD3</string>
-		<string>uni0DB90DCA</string>
 		<string>uni0DB90DD2</string>
 		<string>uni0DB90DD3</string>
 		<string>uni0DBB0DCA</string>
@@ -1114,10 +1090,8 @@
 		<string>uni0DBB0DD1</string>
 		<string>uni0DBD0DD4</string>
 		<string>uni0DBD0DD6</string>
-		<string>uni0DC00DCA</string>
 		<string>uni0DC00DD2</string>
 		<string>uni0DC00DD3</string>
-		<string>uni0DC10DD4</string>
 		<string>uni0DC10DD6</string>
 		<string>uni0DC10DD2.rakar</string>
 		<string>uni0DC10DD3.rakar</string>
@@ -1187,6 +1161,7 @@
 		<string>unimraoo</string>
 		<string>UniMbra</string>
 		<string>uniVra</string>
+		<string>uni0DB30DCA200D0DA8</string>
 		<string>sinA</string>
 		<string>sinAa</string>
 		<string>sinAae</string>
@@ -1241,17 +1216,27 @@
 		<string>sinU</string>
 		<string>sinUu</string>
 		<string>sinVa</string>
+		<string>sinVocalicR</string>
+		<string>sinVocalicl</string>
+		<string>sinVocalicll</string>
 		<string>sinYa</string>
-		<string>sinvocalicL</string>
-		<string>sinvocalicLL</string>
-		<string>sinvocalicR</string>
+		<string>sinNa.half</string>
+		<string>sinYa.post</string>
 		<string>sinDa.rakar</string>
 		<string>sinJnya.rakar</string>
 		<string>sinNda.rakar</string>
 		<string>sinNya.rakar</string>
-		<string>onehalf</string>
-		<string>onequarter</string>
-		<string>threequarters</string>
+		<string>sinKa.half</string>
+		<string>sinZerolith</string>
+		<string>sinOnelith</string>
+		<string>sinTwolith</string>
+		<string>sinThreelith</string>
+		<string>sinFourlith</string>
+		<string>sinFivelith</string>
+		<string>sinSixlith</string>
+		<string>sinSevenlith</string>
+		<string>sinEightlith</string>
+		<string>sinNinelith</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
 		<string>sinKundaliya</string>
@@ -1260,7 +1245,6 @@
 		<string>zerowidthjoiner</string>
 		<string>zerowidthnonjoiner</string>
 		<string>CR</string>
-		<string>euro</string>
 		<string>minus</string>
 		<string>notequal</string>
 		<string>greaterequal</string>
@@ -1283,7 +1267,6 @@
 		<string>approxequal.osf</string>
 		<string>asciitilde.osf</string>
 		<string>logicalnot.osf</string>
-		<string>infinity.osf</string>
 		<string>uni2219.tf</string>
 		<string>uni2215.tf</string>
 		<string>plus.tf</string>
@@ -1305,6 +1288,11 @@
 		<string>sinMatraUu</string>
 		<string>sinRakar</string>
 		<string>sinVirama</string>
+		<string>sinMatraI.alt</string>
+		<string>sinMatraIi.alt</string>
+		<string>sinMatraU.alt</string>
+		<string>sinMatraUu.alt</string>
+		<string>sinVirama.alt</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
 		<string>sinMatraAe</string>
@@ -1320,13 +1308,12 @@
 		<string>sinMatraR</string>
 		<string>sinMatraRr</string>
 		<string>sinVisarga</string>
+		<string>sinVocalicRr</string>
 		<string>sinMatraAu.sechalf</string>
 		<string>sinMatraEe.sechalf</string>
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
 		<string>sinRepaya</string>
-		<string>sinvocalicRr</string>
-		<string>sinYansaya</string>
 	</array>
 </dict>
 </plist>

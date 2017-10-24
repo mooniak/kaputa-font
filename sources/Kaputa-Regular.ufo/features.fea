@@ -3,6 +3,14 @@ languagesystem sinh dflt;
 
 # Prefix: Prefix
 # GSUB 
+lookup akhnAkhandinSinhalalookup7 {
+  lookupflag 0;
+    sub sinKa sinVirama zerowidthjoiner by sinKa.half;
+    sub sinNa sinVirama zerowidthjoiner by sinNa.half;
+
+} akhnAkhandinSinhalalookup7;
+
+
 lookup rphf0 {
   lookupflag 0;
     sub sinRa sinVirama zerowidthjoiner  by sinRepaya;
@@ -15,7 +23,7 @@ lookup rphf1 {
 
 lookup vatu1 {
   lookupflag 0;
-    sub sinVirama zerowidthjoiner sinYa  by sinYansaya;
+    sub sinVirama zerowidthjoiner sinYa  by sinYa.post;
 } vatu1;
 
 lookup pstf1 {
@@ -35,7 +43,7 @@ lookup rphf4 {
     sub sinA sinMatraAe  by sinAae;
     sub sinA sinMatraAea  by sinAe;
     sub sinU sinMatraLs  by sinUu;
-    sub sinvocalicR sinMatraR  by sinvocalicRr;
+    sub sinVocalicR sinMatraR  by sinVocalicRr;
     sub sinO sinVirama  by sinOo;
     sub sinO sinMatraLs  by sinAu;
 } rphf4;
@@ -50,28 +58,41 @@ lookup pstfPostBaseFormsinSinhalalookup5 {
 
 lookup pstsPostBaseSubstitutionsinSinhalalookup6 {
   lookupflag 0;
-    sub sinGa sinMatraU  by uni0D9C0DD4;
-    sub sinGa sinMatraUu  by uni0D9C0DD6;
-    sub sinNnga sinMatraU  by uni0D9F0DD4;
-    sub sinNnga sinMatraUu  by uni0D9F0DD6;
-    sub sinKa sinMatraUu  by sinNya.rakar;
-    sub sinKa sinMatraU  by uni0DA40DCF;
-    sub sinRa sinMatraUu  by sinJnya.rakar;
-    sub sinRa sinMatraU  by uni0DA50DCF;
-    sub sinTa sinMatraU  by uni0DAD0DD4;
-    sub sinBha sinMatraU  by uni0DB70DD4;
-    sub sinBha sinMatraUu  by uni0DB70DD6;
+#     sub sinGa sinMatraU  by uni0D9C0DD4;
+#     sub sinGa sinMatraUu  by uni0D9C0DD6;
+#     sub sinNnga sinMatraU  by uni0D9F0DD4;
+#     sub sinNnga sinMatraUu  by uni0D9F0DD6;
+#     sub sinKa sinMatraUu  by sinNya.rakar;
+#     sub sinKa sinMatraU  by uni0DA40DCF;
+#     sub sinTa sinMatraU  by uni0DAD0DD4;
+#     sub sinBha sinMatraU  by uni0DB70DD4;
+#     sub sinBha sinMatraUu  by uni0DB70DD6;
+# 	sub sinTa sinMatraUu  by uni0DC10DD2.rakar;
+#     sub sinSha sinMatraU  by uni0DC10DD4;
+#     sub sinSha sinMatraUu  by uni0DC10DD6;
+    sub sinRa sinMatraUu  by sinJnya.rakar; #check
     sub sinRa sinMatraAe  by uni0DBB0DD0;
     sub sinRa sinMatraAea  by uni0DBB0DD1;
-    sub sinTa sinMatraUu  by uni0DC10DD2.rakar;
-    sub sinSha sinMatraU  by uni0DC10DD4;
-    sub sinSha sinMatraUu  by uni0DC10DD6;
+    sub sinRa sinMatraU  by uni0DA50DCF;
+
 } pstsPostBaseSubstitutionsinSinhalalookup6;
 
-lookup akhnAkhandinSinhalalookup7 {
+lookup psts_02{
   lookupflag 0;
-    sub sinKa sinVirama zerowidthjoiner sinSsa  by uni0D9A0DCA200D0DC2;
-} akhnAkhandinSinhalalookup7;
+   sub [sinGa sinNnga sinKa sinTa sinBha sinSha] [sinMatraU ]'  by [sinMatraU.alt ];
+   sub [sinGa sinNnga sinKa sinTa sinBha sinSha] [sinMatraUu ]'  by [sinMatraUu.alt ];
+
+} psts_02;
+
+lookup abvs_halant {
+  lookupflag 0;
+    sub [sinKha sinNga sinCa sinTta sinDda sinNndda sinDha sinBa sinMa sinMba sinVa] [sinVirama sinMatraEe.sechalf ]'  by [sinVirama.alt ];
+} abvs_halant;
+
+lookup abvs_matrai {
+  lookupflag 0;
+    sub [sinDa sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
+} abvs_matrai;
 
 lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
   lookupflag 0;
@@ -87,55 +108,40 @@ lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
     sub sinKha sinRakar sinVirama  by kra;
     sub sinTta sinRakar sinMatraEe.sechalf  by troo;
     sub sinTta sinRakar sinVirama  by troo;
-    sub sinKha sinMatraEe.sechalf  by uni0D9B0DCA;
-    sub sinKha sinVirama  by uni0D9B0DCA;
+
     sub sinKha sinMatraI  by uni0D9B0DD2;
     sub sinKha sinMatraIi  by uni0D9B0DD3;
-    sub sinNga sinMatraEe.sechalf  by uni0D9E0DCA;
-    sub sinNga sinVirama  by uni0D9E0DCA;
+
     sub sinNga sinMatraI  by uni0D9E0DD2;
     sub sinNga sinMatraIi  by uni0D9E0DD3;
-    sub sinCa sinMatraEe.sechalf  by uni0DA00DCA;
-    sub sinCa sinVirama  by uni0DA00DCA;
+
     sub sinCa sinMatraI  by uni0DA00DD2;
     sub sinCa sinMatraIi  by uni0DA00DD3;
-    sub sinCha sinVirama  by uni0DA10DCA;
-    sub sinJa sinVirama  by uni0DA20DCA;
-    sub sinTta sinMatraEe.sechalf  by uni0DA70DCA;
-    sub sinTta sinVirama  by uni0DA70DCA;
+
     sub sinTta sinMatraI  by uni0DA70DD2;
     sub sinTta sinMatraIi  by uni0DA70DD3;
-    sub sinDda sinMatraEe.sechalf  by uni0DA90DCA;
-    sub sinDda sinVirama  by uni0DA90DCA;
+
     sub sinDda sinMatraI  by uni0DA90DD2;
     sub sinDda sinMatraIi  by uni0DA90DD3;
-    sub sinDdha sinVirama  by uni0DAA0DCA;
     sub sinDdha sinMatraI  by uni0DAA0DD2;
     sub sinDdha sinMatraIi  by uni0DAA0DD3;
-    sub sinNndda sinMatraEe.sechalf  by uni0DAC0DCA;
-    sub sinNndda sinVirama  by uni0DAC0DCA;
+
     sub sinNndda sinMatraI  by uni0DAC0DD2;
     sub sinNndda sinMatraIi  by uni0DAC0DD3;
-    sub sinDha sinMatraEe.sechalf  by uni0DB00DCA;
-    sub sinDha sinVirama  by uni0DB00DCA;
+
     sub sinDha sinMatraI  by uni0DB00DD2;
     sub sinDha sinMatraIi  by uni0DB00DD3;
-    sub sinBa sinMatraEe.sechalf  by uni0DB60DCA;
-    sub sinBa sinVirama  by uni0DB60DCA;
+
     sub sinBa sinMatraI  by uni0DB60DD2;
     sub sinBa sinMatraIi  by uni0DB60DD3;
-    sub sinMa sinMatraEe.sechalf  by uni0DB80DCA;
-    sub sinMa sinVirama  by uni0DB80DCA;
+
     sub sinMa sinMatraI  by uni0DB80DD2;
     sub sinMa sinMatraIi  by uni0DB80DD3;
-    sub sinMba sinMatraEe.sechalf  by uni0DB90DCA;
-    sub sinMba sinVirama  by uni0DB90DCA;
+
     sub sinMba sinMatraI  by uni0DB90DD2;
     sub sinMba sinMatraIi  by uni0DB90DD3;
     sub sinRa sinMatraEe.sechalf  by uni0DBB0DCA;
-    sub sinRa sinVirama  by uni0DBB0DCA;
-    sub sinVa sinMatraEe.sechalf  by uni0DC00DCA;
-    sub sinVa sinVirama  by uni0DC00DCA;
+    
     sub sinVa sinMatraI  by uni0DC00DD2;
     sub sinVa sinMatraIi  by uni0DC00DD3;
     sub sinVa sinRakar sinMatraEe.sechalf  by uniVra;
@@ -194,6 +200,7 @@ feature psts {
  script sinh;
      language dflt ;
       lookup pstsPostBaseSubstitutionsinSinhalalookup6;
+      lookup psts_02;
 } psts;
 
 feature akhn {
@@ -206,6 +213,8 @@ feature abvs {
  script sinh;
      language dflt ;
       lookup abvsAboveBaseSubstitutionsinSinhalalookup8;
+      lookup abvs_halant;
+      lookup abvs_matrai;
 } abvs;
 
 feature blws {

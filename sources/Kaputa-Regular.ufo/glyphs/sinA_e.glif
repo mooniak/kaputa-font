@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAe" format="1">
   <advance width="780"/>
-  <unicode hex="0D88"/>
+  <unicode hex="0D87"/>
   <outline>
     <component base="sinA"/>
     <component base="sinMatraAea" xOffset="522"/>
@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-23 04:28:10 +0000</string>
+      <string>2017-10-24 13:25:55 +0000</string>
     </dict>
   </lib>
 </glyph>

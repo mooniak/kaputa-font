@@ -2,18 +2,13 @@
 <glyph name="uni0DBB0DCA" format="1">
   <advance width="495"/>
   <outline>
-    <contour>
-      <point x="121" y="450" type="line"/>
-      <point x="162" y="462" type="line"/>
-      <point x="162" y="645" type="line"/>
-      <point x="121" y="645" type="line"/>
-    </contour>
     <component base="sinRa"/>
+    <component base="sinVirama" xOffset="337" yOffset="-8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 13:30:21 +0000</string>
+      <string>2017-10-24 13:07:42 +0000</string>
     </dict>
   </lib>
 </glyph>
