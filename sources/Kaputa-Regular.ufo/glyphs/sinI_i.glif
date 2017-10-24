@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinIi" format="1">
-  <advance width="496"/>
+  <advance width="486"/>
   <unicode hex="0D8A"/>
   <outline>
     <contour>
@@ -74,7 +74,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:43:28 +0000</string>
+      <string>2017-10-24 18:45:44 +0000</string>
     </dict>
   </lib>
 </glyph>

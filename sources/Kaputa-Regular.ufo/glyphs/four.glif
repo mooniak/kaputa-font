@@ -7,27 +7,27 @@
   </note>
   <outline>
     <contour>
-      <point x="23" y="169" type="line"/>
-      <point x="467" y="169" type="line"/>
-      <point x="467" y="208" type="line"/>
-      <point x="61" y="208" type="line"/>
-      <point x="69" y="194" type="line"/>
-      <point x="320" y="667" type="line"/>
-      <point x="273" y="667" type="line"/>
-      <point x="23" y="195" type="line"/>
+      <point x="23" y="143" type="line"/>
+      <point x="390" y="143" type="line"/>
+      <point x="390" y="175" type="line"/>
+      <point x="54" y="175" type="line"/>
+      <point x="61" y="163" type="line"/>
+      <point x="268" y="554" type="line"/>
+      <point x="230" y="554" type="line"/>
+      <point x="23" y="164" type="line"/>
     </contour>
     <contour>
-      <point x="331" y="0" type="line"/>
-      <point x="375" y="0" type="line"/>
-      <point x="375" y="442" type="line"/>
-      <point x="339" y="442" type="line"/>
-      <point x="331" y="208" type="line"/>
+      <point x="278" y="3" type="line"/>
+      <point x="314" y="3" type="line"/>
+      <point x="314" y="368" type="line"/>
+      <point x="284" y="368" type="line"/>
+      <point x="278" y="175" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:05 +0000</string>
+      <string>2017-10-24 20:09:06 +0000</string>
     </dict>
   </lib>
 </glyph>

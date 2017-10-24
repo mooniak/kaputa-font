@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraI" format="1">
-  <advance width="42"/>
+  <advance width="0"/>
   <unicode hex="0DD2"/>
   <outline>
     <contour>
-      <point x="-464" y="552" type="curve"/>
-      <point x="-419" y="552" type="line"/>
-      <point x="-417" y="631"/>
-      <point x="-358" y="662"/>
-      <point x="-260" y="662" type="curve" smooth="yes"/>
-      <point x="-167" y="662"/>
-      <point x="-95" y="636"/>
-      <point x="-92" y="552" type="curve"/>
-      <point x="-49" y="552" type="line"/>
-      <point x="-49" y="666"/>
-      <point x="-126" y="706"/>
-      <point x="-260" y="706" type="curve" smooth="yes"/>
-      <point x="-392" y="706"/>
-      <point x="-461" y="652"/>
+      <point x="-201" y="552" type="curve"/>
+      <point x="-156" y="552" type="line"/>
+      <point x="-154" y="631"/>
+      <point x="-95" y="662"/>
+      <point x="3" y="662" type="curve" smooth="yes"/>
+      <point x="96" y="662"/>
+      <point x="168" y="636"/>
+      <point x="171" y="552" type="curve"/>
+      <point x="214" y="552" type="line"/>
+      <point x="214" y="666"/>
+      <point x="137" y="706"/>
+      <point x="3" y="706" type="curve" smooth="yes"/>
+      <point x="-129" y="706"/>
+      <point x="-198" y="652"/>
     </contour>
     <contour>
-      <point x="-464" y="553" type="move" name="_sinMatraI"/>
+      <point x="-201" y="553" type="move" name="_sinMatraI"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:43:28 +0000</string>
+      <string>2017-10-24 19:00:42 +0000</string>
     </dict>
   </lib>
 </glyph>

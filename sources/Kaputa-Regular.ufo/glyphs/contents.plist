@@ -406,8 +406,6 @@
 	<string>sinN_nga.glif</string>
 	<key>sinNya</key>
 	<string>sinN_ya.glif</string>
-	<key>sinNya.rakar</key>
-	<string>sinN_ya.rakar.glif</string>
 	<key>sinO</key>
 	<string>sinO_.glif</string>
 	<key>sinOnelith</key>
@@ -422,8 +420,8 @@
 	<string>sinR_a.glif</string>
 	<key>sinRakar</key>
 	<string>sinR_akar.glif</string>
-	<key>sinRepaya</key>
-	<string>sinR_epaya.glif</string>
+	<key>sinReph</key>
+	<string>sinR_eph.glif</string>
 	<key>sinSa</key>
 	<string>sinS_a.glif</string>
 	<key>sinSevenlith</key>
@@ -480,8 +478,6 @@
 	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
-	<key>space.001</key>
-	<string>space.001.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>three</key>

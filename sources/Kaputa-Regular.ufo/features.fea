@@ -8,11 +8,9 @@ lookup akhnAkhandinSinhalalookup7 {
     sub sinKa' sinVirama zerowidthjoiner sinSsa by sinKa.half;
     sub sinNa' sinVirama zerowidthjoiner by sinNa.half;
 } akhnAkhandinSinhalalookup7;
-
-
 lookup rphf0 {
   lookupflag 0;
-    sub sinRa sinVirama zerowidthjoiner  by sinRepaya;
+    sub sinRa sinVirama zerowidthjoiner  by sinReph;
 } rphf0;
 
 lookup rphf1 {
@@ -166,8 +164,6 @@ lookup blwsBelowBaseSubstitutionsinSinhalalookup9 {
     sub sinLla sinMatraU  by uni0DC50DD4;
     sub sinLla sinMatraUu  by uni0DC50DD6;
 } blwsBelowBaseSubstitutionsinSinhalalookup9;
-
-
 lookup sin_touching_1 {
   sub sinKa zerowidthjoiner sinVirama'  by sinVirama.touch;
   sub sinGa zerowidthjoiner sinVirama'  by sinVirama.touch;

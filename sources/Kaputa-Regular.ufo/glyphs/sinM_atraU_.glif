@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraU" format="1">
-  <advance width="43"/>
+  <advance width="0"/>
   <unicode hex="0DD4"/>
   <outline>
     <contour>
-      <point x="-450" y="-109" type="line"/>
-      <point x="-450" y="-152" type="line"/>
-      <point x="-42" y="-152" type="line"/>
-      <point x="-42" y="114" type="line"/>
-      <point x="-84" y="68" type="line"/>
-      <point x="-84" y="-108" type="line"/>
+      <point x="-469" y="-109" type="line"/>
+      <point x="-469" y="-152" type="line"/>
+      <point x="-61" y="-152" type="line"/>
+      <point x="-61" y="114" type="line"/>
+      <point x="-103" y="68" type="line"/>
+      <point x="-103" y="-108" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:43:28 +0000</string>
+      <string>2017-10-24 18:51:38 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1215,7 +1215,6 @@
 		<string>sinDa.rakar</string>
 		<string>sinJnya.rakar</string>
 		<string>sinNda.rakar</string>
-		<string>sinNya.rakar</string>
 		<string>sinKa.half</string>
 		<string>sinZerolith</string>
 		<string>sinOnelith</string>
@@ -1231,7 +1230,6 @@
 		<string>guillemetright</string>
 		<string>sinKundaliya</string>
 		<string>nbspace</string>
-		<string>space.001</string>
 		<string>zerowidthjoiner</string>
 		<string>zerowidthnonjoiner</string>
 		<string>CR</string>
@@ -1277,6 +1275,7 @@
 		<string>sinMatraU</string>
 		<string>sinMatraUu</string>
 		<string>sinRakar</string>
+		<string>sinReph</string>
 		<string>sinVirama</string>
 		<string>sinMatraI.alt</string>
 		<string>sinMatraIi.alt</string>
@@ -1305,7 +1304,6 @@
 		<string>sinMatraEe.sechalf</string>
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
-		<string>sinRepaya</string>
 		<string>mooniak</string>
 	</array>
 </dict>

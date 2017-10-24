@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJa" format="1">
-  <advance width="517"/>
+  <advance width="551"/>
   <unicode hex="0DA2"/>
   <outline>
     <contour>
-      <point x="412" y="488" type="line"/>
-      <point x="444" y="466" type="line"/>
-      <point x="533" y="575" type="line"/>
-      <point x="488" y="575" type="line"/>
+      <point x="420" y="488" type="line"/>
+      <point x="452" y="466" type="line"/>
+      <point x="541" y="575" type="line"/>
+      <point x="496" y="575" type="line"/>
     </contour>
-    <component base="sinPa" xOffset="-1"/>
+    <component base="sinPa"/>
     <contour>
-      <point x="358" y="489" type="move" name="sinVirama"/>
-    </contour>
-    <contour>
-      <point x="74" y="533" type="move" name="sinMatraI"/>
+      <point x="465" y="52" type="move" name="sin_Rakar"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:43:28 +0000</string>
+      <string>2017-10-24 19:51:58 +0000</string>
     </dict>
   </lib>
 </glyph>
