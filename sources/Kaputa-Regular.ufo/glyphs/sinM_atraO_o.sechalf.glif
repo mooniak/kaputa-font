@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraOo.sechalf" format="1">
-  <advance width="238"/>
+  <advance width="237"/>
   <outline>
     <contour>
       <point x="2" y="2" type="line"/>
@@ -40,7 +40,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-18 08:47:20 +0000</string>
+      <string>2017-10-24 18:43:28 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVirama.alt" format="1">
-  <advance width="0"/>
+  <advance width="29"/>
   <outline>
     <contour>
-      <point x="-135" y="589"/>
-      <point x="-145" y="609"/>
-      <point x="-145" y="622" type="curve" smooth="yes"/>
-      <point x="-145" y="676"/>
-      <point x="-76" y="688"/>
-      <point x="-7" y="688" type="curve" smooth="yes"/>
-      <point x="102" y="688"/>
-      <point x="168" y="647"/>
-      <point x="175" y="563" type="curve"/>
-      <point x="217" y="562" type="line"/>
-      <point x="217" y="685"/>
-      <point x="120" y="732"/>
-      <point x="-8" y="732" type="curve" smooth="yes"/>
-      <point x="-104" y="732"/>
-      <point x="-193" y="705"/>
-      <point x="-193" y="629" type="curve" smooth="yes"/>
-      <point x="-193" y="614"/>
-      <point x="-186" y="590"/>
-      <point x="-179" y="575" type="curve"/>
-      <point x="-128" y="579" type="line"/>
+      <point x="-126" y="589"/>
+      <point x="-136" y="609"/>
+      <point x="-136" y="622" type="curve" smooth="yes"/>
+      <point x="-136" y="676"/>
+      <point x="-67" y="688"/>
+      <point x="2" y="688" type="curve" smooth="yes"/>
+      <point x="111" y="688"/>
+      <point x="177" y="647"/>
+      <point x="184" y="563" type="curve"/>
+      <point x="226" y="562" type="line"/>
+      <point x="226" y="685"/>
+      <point x="129" y="732"/>
+      <point x="1" y="732" type="curve" smooth="yes"/>
+      <point x="-95" y="732"/>
+      <point x="-184" y="705"/>
+      <point x="-184" y="629" type="curve" smooth="yes"/>
+      <point x="-184" y="614"/>
+      <point x="-177" y="590"/>
+      <point x="-170" y="575" type="curve"/>
+      <point x="-119" y="579" type="line"/>
     </contour>
     <contour>
-      <point x="-161" y="589" type="move" name="_sinVirama"/>
+      <point x="-152" y="589" type="move" name="_sinVirama"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 13:54:29 +0000</string>
+      <string>2017-10-24 18:43:28 +0000</string>
     </dict>
   </lib>
 </glyph>

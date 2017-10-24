@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinDa" format="1">
-  <advance width="475"/>
+  <advance width="474"/>
   <unicode hex="0DAF"/>
   <outline>
     <contour>
@@ -64,11 +64,14 @@
     <contour>
       <point x="300" y="476" type="move" name="sinVirama"/>
     </contour>
+    <contour>
+      <point x="26" y="526" type="move" name="sinMatraI"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 13:22:49 +0000</string>
+      <string>2017-10-24 18:43:28 +0000</string>
     </dict>
   </lib>
 </glyph>

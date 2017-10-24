@@ -83,7 +83,8 @@ lookup abvs_halant_02 {
 
 lookup abvs_matrai {
   lookupflag 0;
-    sub [sinDa sinLa sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
+    sub [sinDa sinNda sinJnya sinNya sinLa sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
+    sub [ sinCha sinJa sinNdja ] [sinMatraI]'  by [sinMatraI.alt1 ];
 } abvs_matrai;
 
 lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {

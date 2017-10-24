@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVocalicR" format="1">
-  <advance width="754"/>
+  <advance width="756"/>
   <unicode hex="0D8D"/>
   <outline>
     <contour>
@@ -150,7 +150,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 13:25:55 +0000</string>
+      <string>2017-10-24 18:43:28 +0000</string>
     </dict>
   </lib>
 </glyph>

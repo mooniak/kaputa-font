@@ -1,54 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTta" format="1">
-  <advance width="523"/>
+  <advance width="521"/>
   <unicode hex="0DA7"/>
   <outline>
     <contour>
-      <point x="89" y="421"/>
-      <point x="28" y="341"/>
-      <point x="28" y="229" type="curve" smooth="yes"/>
-      <point x="28" y="85"/>
-      <point x="109" y="-2"/>
-      <point x="251" y="-2" type="curve" smooth="yes"/>
-      <point x="418" y="-2"/>
-      <point x="495" y="138"/>
-      <point x="495" y="306" type="curve" smooth="yes"/>
-      <point x="495" y="499"/>
-      <point x="374" y="600"/>
-      <point x="216" y="600" type="curve" smooth="yes"/>
-      <point x="173" y="600"/>
-      <point x="129" y="595"/>
-      <point x="71" y="578" type="curve"/>
-      <point x="73" y="534" type="line"/>
-      <point x="109" y="545"/>
-      <point x="141" y="555"/>
-      <point x="213" y="555" type="curve" smooth="yes"/>
-      <point x="343" y="555"/>
-      <point x="451" y="474"/>
-      <point x="451" y="304" type="curve" smooth="yes"/>
-      <point x="451" y="161"/>
-      <point x="382" y="48"/>
-      <point x="253" y="48" type="curve" smooth="yes"/>
-      <point x="147" y="48"/>
-      <point x="72" y="104"/>
-      <point x="72" y="230" type="curve" smooth="yes"/>
-      <point x="72" y="321"/>
-      <point x="129" y="376"/>
-      <point x="213" y="376" type="curve" smooth="yes"/>
-      <point x="242" y="376"/>
-      <point x="257" y="376"/>
-      <point x="260" y="376" type="curve"/>
-      <point x="264" y="417" type="line"/>
-      <point x="217" y="418" type="line" smooth="yes"/>
+      <point x="88" y="421"/>
+      <point x="27" y="341"/>
+      <point x="27" y="229" type="curve" smooth="yes"/>
+      <point x="27" y="85"/>
+      <point x="108" y="-2"/>
+      <point x="250" y="-2" type="curve" smooth="yes"/>
+      <point x="417" y="-2"/>
+      <point x="494" y="138"/>
+      <point x="494" y="306" type="curve" smooth="yes"/>
+      <point x="494" y="499"/>
+      <point x="373" y="600"/>
+      <point x="215" y="600" type="curve" smooth="yes"/>
+      <point x="172" y="600"/>
+      <point x="128" y="595"/>
+      <point x="70" y="578" type="curve"/>
+      <point x="72" y="534" type="line"/>
+      <point x="108" y="545"/>
+      <point x="140" y="555"/>
+      <point x="212" y="555" type="curve" smooth="yes"/>
+      <point x="342" y="555"/>
+      <point x="450" y="474"/>
+      <point x="450" y="304" type="curve" smooth="yes"/>
+      <point x="450" y="161"/>
+      <point x="381" y="48"/>
+      <point x="252" y="48" type="curve" smooth="yes"/>
+      <point x="146" y="48"/>
+      <point x="71" y="104"/>
+      <point x="71" y="230" type="curve" smooth="yes"/>
+      <point x="71" y="321"/>
+      <point x="128" y="376"/>
+      <point x="212" y="376" type="curve" smooth="yes"/>
+      <point x="241" y="376"/>
+      <point x="256" y="376"/>
+      <point x="259" y="376" type="curve"/>
+      <point x="263" y="417" type="line"/>
+      <point x="216" y="418" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="129" y="579" type="move" name="sinVirama"/>
+      <point x="128" y="579" type="move" name="sinVirama"/>
+    </contour>
+    <contour>
+      <point x="432" y="102" type="move" name="sin_Rakar"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 13:54:55 +0000</string>
+      <string>2017-10-24 18:43:28 +0000</string>
     </dict>
   </lib>
 </glyph>

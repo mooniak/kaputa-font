@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVirama.touch" format="1">
-  <advance width="0"/>
+  <advance width="3"/>
   <outline>
     <contour>
-      <point x="-178" y="487" type="move" name="_sinVirama"/>
+      <point x="-193" y="665" type="line"/>
+      <point x="-189" y="488" type="line"/>
+      <point x="-146" y="487" type="line"/>
+      <point x="-148" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="-168" y="487" type="move" name="_sinVirama"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 17:16:51 +0000</string>
+      <string>2017-10-24 18:43:28 +0000</string>
     </dict>
   </lib>
 </glyph>

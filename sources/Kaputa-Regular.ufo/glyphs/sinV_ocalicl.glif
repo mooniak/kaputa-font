@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVocalicl" format="1">
-  <advance width="662"/>
+  <advance width="661"/>
   <unicode hex="0D8F"/>
   <outline>
     <contour>
@@ -42,12 +42,12 @@
       <point x="649" y="377"/>
       <point x="606" y="451"/>
     </contour>
-    <component base="sinPa" xOffset="80"/>
+    <component base="sinPa" xOffset="79"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 13:25:55 +0000</string>
+      <string>2017-10-24 18:43:28 +0000</string>
     </dict>
   </lib>
 </glyph>
