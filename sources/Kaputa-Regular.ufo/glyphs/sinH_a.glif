@@ -138,6 +138,9 @@
       <point x="62" y="106"/>
     </contour>
     <contour>
+      <point x="58" y="533" type="move" name="sinMatraI"/>
+    </contour>
+    <contour>
       <point x="419" y="479" type="move" name="sinVirama"/>
     </contour>
     <contour>
@@ -147,7 +150,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 15:27:03 +0000</string>
+      <string>2017-10-24 18:10:04 +0000</string>
     </dict>
   </lib>
 </glyph>

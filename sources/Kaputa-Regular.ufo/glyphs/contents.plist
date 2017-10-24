@@ -16,8 +16,6 @@
 	<string>C_R_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
-	<key>Droo</key>
-	<string>D_roo.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
 	<key>F</key>
@@ -52,8 +50,6 @@
 	<string>T_.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
-	<key>UniMbra</key>
-	<string>U_niM_bra.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>W</key>
@@ -92,14 +88,10 @@
 	<string>bracketleft.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
-	<key>braoo</key>
-	<string>braoo.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
-	<key>chroo</key>
-	<string>chroo.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -166,8 +158,6 @@
 	<string>j.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
-	<key>kra</key>
-	<string>kra.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>less</key>
@@ -192,6 +182,8 @@
 	<string>minus.osf.glif</string>
 	<key>minus.tf</key>
 	<string>minus.tf.glif</string>
+	<key>mooniak</key>
+	<string>mooniak.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>multiply.osf</key>
@@ -462,6 +454,8 @@
 	<string>sinV_irama.glif</string>
 	<key>sinVirama.alt</key>
 	<string>sinV_irama.alt.glif</string>
+	<key>sinVirama.touch</key>
+	<string>sinV_irama.touch.glif</string>
 	<key>sinVisarga</key>
 	<string>sinV_isarga.glif</string>
 	<key>sinVocalicR</key>
@@ -492,8 +486,6 @@
 	<string>three.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
-	<key>troo</key>
-	<string>troo.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>
@@ -584,8 +576,6 @@
 	<string>uni0D_B_90D_D_2.glif</string>
 	<key>uni0DB90DD3</key>
 	<string>uni0D_B_90D_D_3.glif</string>
-	<key>uni0DBB0DCA</key>
-	<string>uni0D_B_B_0D_C_A_.glif</string>
 	<key>uni0DBB0DD0</key>
 	<string>uni0D_B_B_0D_D_0.glif</string>
 	<key>uni0DBB0DD1</key>
@@ -618,12 +608,6 @@
 	<string>uni2219.osf.glif</string>
 	<key>uni2219.tf</key>
 	<string>uni2219.tf.glif</string>
-	<key>uniVra</key>
-	<string>uniV_ra.glif</string>
-	<key>unidroo</key>
-	<string>unidroo.glif</string>
-	<key>unimraoo</key>
-	<string>unimraoo.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>

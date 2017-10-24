@@ -19,11 +19,14 @@
       <point x="-415" y="706"/>
       <point x="-484" y="652"/>
     </contour>
+    <contour>
+      <point x="-487" y="553" type="move" name="_sinMatraI"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 13:08:25 +0000</string>
+      <string>2017-10-24 18:09:27 +0000</string>
     </dict>
   </lib>
 </glyph>

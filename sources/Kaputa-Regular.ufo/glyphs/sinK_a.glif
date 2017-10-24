@@ -93,16 +93,22 @@
       <point x="88" y="235" type="line"/>
     </contour>
     <contour>
-      <point x="459" y="479" type="move" name="sinVirama"/>
+      <point x="27" y="-1" type="move" name="_cursive"/>
     </contour>
     <contour>
       <point x="431" y="38" type="move" name="sinMatraU"/>
+    </contour>
+    <contour>
+      <point x="567" y="1" type="move" name="cursive"/>
+    </contour>
+    <contour>
+      <point x="459" y="479" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 15:39:50 +0000</string>
+      <string>2017-10-24 16:34:07 +0000</string>
     </dict>
   </lib>
 </glyph>

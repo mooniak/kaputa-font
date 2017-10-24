@@ -1085,7 +1085,6 @@
 		<string>uni0DB80DD3</string>
 		<string>uni0DB90DD2</string>
 		<string>uni0DB90DD3</string>
-		<string>uni0DBB0DCA</string>
 		<string>uni0DBB0DD0</string>
 		<string>uni0DBB0DD1</string>
 		<string>uni0DBD0DD4</string>
@@ -1152,15 +1151,6 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
-		<string>kra</string>
-		<string>chroo</string>
-		<string>troo</string>
-		<string>Droo</string>
-		<string>unidroo</string>
-		<string>braoo</string>
-		<string>unimraoo</string>
-		<string>UniMbra</string>
-		<string>uniVra</string>
 		<string>uni0DB30DCA200D0DA8</string>
 		<string>sinA</string>
 		<string>sinAa</string>
@@ -1293,6 +1283,7 @@
 		<string>sinMatraU.alt</string>
 		<string>sinMatraUu.alt</string>
 		<string>sinVirama.alt</string>
+		<string>sinVirama.touch</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
 		<string>sinMatraAe</string>
@@ -1314,6 +1305,7 @@
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
 		<string>sinRepaya</string>
+		<string>mooniak</string>
 	</array>
 </dict>
 </plist>

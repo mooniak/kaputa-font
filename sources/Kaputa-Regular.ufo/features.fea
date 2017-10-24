@@ -5,9 +5,8 @@ languagesystem sinh dflt;
 # GSUB 
 lookup akhnAkhandinSinhalalookup7 {
   lookupflag 0;
-    sub sinKa sinVirama zerowidthjoiner by sinKa.half;
-    sub sinNa sinVirama zerowidthjoiner by sinNa.half;
-
+    sub sinKa' sinVirama zerowidthjoiner sinSsa by sinKa.half;
+    sub sinNa' sinVirama zerowidthjoiner by sinNa.half;
 } akhnAkhandinSinhalalookup7;
 
 
@@ -58,18 +57,6 @@ lookup pstfPostBaseFormsinSinhalalookup5 {
 
 lookup pstsPostBaseSubstitutionsinSinhalalookup6 {
   lookupflag 0;
-#     sub sinGa sinMatraU  by uni0D9C0DD4;
-#     sub sinGa sinMatraUu  by uni0D9C0DD6;
-#     sub sinNnga sinMatraU  by uni0D9F0DD4;
-#     sub sinNnga sinMatraUu  by uni0D9F0DD6;
-#     sub sinKa sinMatraUu  by sinNya.rakar;
-#     sub sinKa sinMatraU  by uni0DA40DCF;
-#     sub sinTa sinMatraU  by uni0DAD0DD4;
-#     sub sinBha sinMatraU  by uni0DB70DD4;
-#     sub sinBha sinMatraUu  by uni0DB70DD6;
-# 	sub sinTa sinMatraUu  by uni0DC10DD2.rakar;
-#     sub sinSha sinMatraU  by uni0DC10DD4;
-#     sub sinSha sinMatraUu  by uni0DC10DD6;
     sub sinRa sinMatraUu  by sinJnya.rakar; #check
     sub sinRa sinMatraAe  by uni0DBB0DD0;
     sub sinRa sinMatraAea  by uni0DBB0DD1;
@@ -89,25 +76,36 @@ lookup abvs_halant {
     sub [sinKha sinNga sinCa sinTta sinDda sinNndda sinDha sinBa sinMa sinMba sinVa] [sinVirama sinMatraEe.sechalf ]'  by [sinVirama.alt ];
 } abvs_halant;
 
+lookup abvs_halant_02 {
+  lookupflag 0;
+    sub [sinKha sinNga sinCa sinTta sinDda sinNndda sinDha sinBa sinMa sinMba sinVa] [sinRakar ] [sinVirama sinMatraEe.sechalf ]'  by [sinVirama.alt ];
+} abvs_halant_02;
+
 lookup abvs_matrai {
   lookupflag 0;
-    sub [sinDa sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
+    sub [sinDa sinLa sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
 } abvs_matrai;
 
 lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
   lookupflag 0;
-    sub sinDda sinRakar sinMatraEe.sechalf  by Droo;
-    sub sinDda sinRakar sinVirama  by Droo;
-    sub sinMba sinRakar sinMatraEe.sechalf  by UniMbra;
-    sub sinMba sinRakar sinVirama  by UniMbra;
-    sub sinBa sinRakar sinMatraEe.sechalf  by braoo;
-    sub sinBa sinRakar sinVirama  by braoo;
-    sub sinCa sinRakar sinMatraEe.sechalf  by chroo;
-    sub sinCa sinRakar sinVirama  by chroo;
-    sub sinKha sinRakar sinMatraEe.sechalf  by kra;
-    sub sinKha sinRakar sinVirama  by kra;
-    sub sinTta sinRakar sinMatraEe.sechalf  by troo;
-    sub sinTta sinRakar sinVirama  by troo;
+#     sub sinDda sinRakar sinMatraEe.sechalf  by Droo;
+#     sub sinDda sinRakar sinVirama  by Droo;
+#     sub sinMba sinRakar sinMatraEe.sechalf  by UniMbra;
+#     sub sinMba sinRakar sinVirama  by UniMbra;
+#     sub sinBa sinRakar sinMatraEe.sechalf  by braoo;
+#     sub sinBa sinRakar sinVirama  by braoo;
+#     sub sinCa sinRakar sinMatraEe.sechalf  by chroo;
+#     sub sinCa sinRakar sinVirama  by chroo;
+#     sub sinKha sinRakar sinMatraEe.sechalf  by kra;
+#     sub sinKha sinRakar sinVirama  by kra;
+#     sub sinTta sinRakar sinMatraEe.sechalf  by troo;
+#     sub sinTta sinRakar sinVirama  by troo;
+#     sub sinVa sinRakar sinMatraEe.sechalf  by uniVra;
+#     sub sinVa sinRakar sinVirama  by uniVra;
+#     sub sinNndda sinRakar sinMatraEe.sechalf  by unidroo;
+#     sub sinNndda sinRakar sinVirama  by unidroo;
+#     sub sinMa sinRakar sinMatraEe.sechalf  by unimraoo;
+#     sub sinMa sinRakar sinVirama  by unimraoo;
 
     sub sinKha sinMatraI  by uni0D9B0DD2;
     sub sinKha sinMatraIi  by uni0D9B0DD3;
@@ -140,16 +138,10 @@ lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
 
     sub sinMba sinMatraI  by uni0DB90DD2;
     sub sinMba sinMatraIi  by uni0DB90DD3;
-    sub sinRa sinMatraEe.sechalf  by uni0DBB0DCA;
     
     sub sinVa sinMatraI  by uni0DC00DD2;
     sub sinVa sinMatraIi  by uni0DC00DD3;
-    sub sinVa sinRakar sinMatraEe.sechalf  by uniVra;
-    sub sinVa sinRakar sinVirama  by uniVra;
-    sub sinNndda sinRakar sinMatraEe.sechalf  by unidroo;
-    sub sinNndda sinRakar sinVirama  by unidroo;
-    sub sinMa sinRakar sinMatraEe.sechalf  by unimraoo;
-    sub sinMa sinRakar sinVirama  by unimraoo;
+
 } abvsAboveBaseSubstitutionsinSinhalalookup8;
 
 lookup blwsBelowBaseSubstitutionsinSinhalalookup9 {
@@ -173,6 +165,63 @@ lookup blwsBelowBaseSubstitutionsinSinhalalookup9 {
     sub sinLla sinMatraU  by uni0DC50DD4;
     sub sinLla sinMatraUu  by uni0DC50DD6;
 } blwsBelowBaseSubstitutionsinSinhalalookup9;
+
+
+lookup sin_touching_1 {
+  sub sinKa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinGa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinJa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinTta zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinDda zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinNna zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinTa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinDa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinNa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinPa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinBa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinMa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinLa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinMa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinSa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinSha zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinHa zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinNga zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinNya zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinNga zerowidthjoiner sinVirama'  by sinVirama.touch;
+  sub sinNga zerowidthjoiner sinVirama'  by sinVirama.touch;
+
+} sin_touching_1;
+	
+lookup sin_touching_2 {
+ pos sinKa' sinVirama.touch sinKa <0 0 -65 0> ;
+ pos sinKa' sinVirama.touch sinTa <0 0 -75 0> ;
+ pos sinKa' sinVirama.touch sinMa <0 0 -80 0> ;
+
+ pos sinKa' sinVirama.touch <0 0 -50 0> ;
+
+ pos sinGa' sinVirama.touch <0 0 -50 0> ;
+ pos sinJa' sinVirama.touch <0 0 -50 0> ;
+ pos sinTta' sinVirama.touch <0 0 -50 0> ;
+ pos sinDda' sinVirama.touch <0 0 -50 0> ;
+ pos sinNna' sinVirama.touch <0 0 -50 0> ;
+ pos sinTa' sinVirama.touch <0 0 -50 0> ;
+ pos sinDa' sinVirama.touch <0 0 -50 0> ;
+ pos sinNa' sinVirama.touch <0 0 -50 0> ;
+  pos sinPa' sinVirama.touch sinPa <0 0 -100 0> ;
+   pos sinPa' sinVirama.touch <0 0 -50 0> ;
+
+ pos sinBa' sinVirama.touch <0 0 -50 0> ;
+ pos sinMa' sinVirama.touch <0 0 -50 0> ;
+ pos sinLa' sinVirama.touch <0 0 -50 0> ;
+ pos sinMa' sinVirama.touch <0 0 -50 0> ;
+ pos sinSa' sinVirama.touch <0 0 -50 0> ;
+ pos sinSha' sinVirama.touch <0 0 -50 0> ;
+ pos sinHa' sinVirama.touch <0 0 -50 0> ;
+ pos sinNga' sinVirama.touch <0 0 -50 0> ;
+ pos sinNya' sinVirama.touch <0 0 -50 0> ;
+ pos sinNga' sinVirama.touch <0 0 -50 0> ;
+ pos sinNga' sinVirama.touch <0 0 -50 0> ;
+} sin_touching_2;
 
 feature rphf {
  script sinh;
@@ -207,6 +256,8 @@ feature akhn {
  script sinh;
      language dflt ;
       lookup akhnAkhandinSinhalalookup7;
+      lookup sin_touching_1;
+      lookup sin_touching_2;
 } akhn;
 
 feature abvs {
@@ -215,6 +266,7 @@ feature abvs {
       lookup abvsAboveBaseSubstitutionsinSinhalalookup8;
       lookup abvs_halant;
       lookup abvs_matrai;
+      lookup abvs_halant_02;
 } abvs;
 
 feature blws {
