@@ -17,7 +17,10 @@ lookup akhn_02 {
     sub sinTa' sinVirama.attatch sinVa by sinTa.half;
     sub sinTa' sinVirama.attatch sinVa by sinTa.half;
    	sub sinTa' sinVirama.attatch sinTha by sinTa.half;
-	sub sinNa' sinVirama.attatch by sinNa.half;
+	sub sinNa' sinVirama.attatch sinDa by sinNa.half;
+	sub sinNa' sinVirama.attatch sinVa by sinNa.half;
+	sub sinNa' sinVirama.attatch sinTha by sinNa.half;
+
 } akhn_02;
 
 
@@ -136,10 +139,61 @@ lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
 
 lookup abvs_06{
   lookupflag 0;
-    sub sinTta' sinRakar sinMatraI  by sinTtI;
-   
+    sub sinKha sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinNga sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinCa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinTta sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinDda sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinNndda sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinDha sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinBa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinMa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinMba sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinVa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinJha sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinKha sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinNga sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinCa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinTta sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinDda sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinNndda sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinDha sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinBa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinMa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinMba sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinVa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinJha sinRakar sinMatraIi'  by sinMatraIi.empty;
 
 } abvs_06;
+
+lookup abvs_07{
+  lookupflag 0;
+    sub sinKha' sinRakar sinMatraI.empty by sinKhI;
+	sub sinNga' sinRakar sinMatraI.empty by sinNgI;
+	sub sinCa' sinRakar sinMatraI.empty by sinCI;
+	sub sinTta' sinRakar sinMatraI.empty by sinTtI;
+	sub sinDda' sinRakar sinMatraI.empty by sinDdI;
+	sub sinNndda' sinRakar sinMatraI.empty by sinNnddI;
+	sub sinDha' sinRakar sinMatraI.empty by sinDhI;
+	sub sinBa' sinRakar sinMatraI.empty by sinBI;
+	sub sinMa' sinRakar sinMatraI.empty by sinMI;
+	sub sinMba' sinRakar sinMatraI.empty by sinMbI;
+	sub sinVa' sinRakar sinMatraI.empty by sinVI;
+	sub sinJha' sinRakar sinMatraI.empty by sinJhI;
+	sub sinKha' sinRakar sinMatraIi.empty by sinKhIi;
+sub sinNga' sinRakar sinMatraIi.empty by sinNgIi;
+sub sinCa' sinRakar sinMatraIi.empty by sinCIi;
+sub sinTta' sinRakar sinMatraIi.empty by sinTtIi;
+sub sinDda' sinRakar sinMatraIi.empty by sinDdIi;
+sub sinNndda' sinRakar sinMatraIi.empty by sinNnddIi;
+sub sinDha' sinRakar sinMatraIi.empty by sinDhIi;
+sub sinBa' sinRakar sinMatraIi.empty by sinBIi;
+sub sinMa' sinRakar sinMatraIi.empty by sinMIi;
+sub sinMba' sinRakar sinMatraIi.empty by sinMbIi;
+sub sinVa' sinRakar sinMatraIi.empty by sinVIi;
+sub sinJha' sinRakar sinMatraIi.empty by sinJhIi;
+    
+} abvs_07;
 
 lookup blwsBelowBaseSubstitutionsinSinhalalookup9{
   lookupflag 0;
@@ -249,10 +303,11 @@ feature abvs {
  script sinh;
      language dflt ;
       lookup abvsAboveBaseSubstitutionsinSinhalalookup8;
+      lookup abvs_06;
+      lookup abvs_07;
       lookup abvs_halant;
       lookup abvs_matrai;
       lookup abvs_halant_02;
-      lookup abvs_06;
 } abvs;
 
 feature rphf {
