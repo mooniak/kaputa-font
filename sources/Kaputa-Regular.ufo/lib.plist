@@ -323,7 +323,40 @@
 		<string>uniVra</string>
 	</array>
 	<key>com.schriftgestaltung.font.license</key>
-	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<string><![CDATA[This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Exception statement follows:
+
+As a special exception, if you create a document which uses this
+font, and embed this font or portions of this font (either
+transformed or not) into the document, this font does not by itself
+cause the resulting document as a whole to be covered by the GNU
+General Public License.  This exception does not however invalidate
+any other reasons why the document might be covered by the GNU
+General Public License.  The material from this font remains
+covered by the GNU General Public License, version 3 or later, even
+when included in the document.
+
+If the font material thus embedded into the document is
+substantially transformed, you may accompany it by a copy of this
+license statement, plus a web reference (URL) to the GNU General
+Public License version 3 instead of a complete copy of that
+license.  If the transformed material is converted back into a
+font, this second exception does not apply to the resulting font.
+
+If you modify this font, you may extend this exception to your
+version of the font, but you are not obligated to do so. If you do
+not wish to do so, delete this exception statement from your
+version and use instead only the text before the words "Exception
+statement follows."]]></string>
 	<key>com.schriftgestaltung.font.unicodeRanges</key>
 	<array>
 		<integer>0</integer>
