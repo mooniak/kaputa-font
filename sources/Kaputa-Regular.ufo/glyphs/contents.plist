@@ -354,6 +354,8 @@
 	<string>sinM_atraI_.alt.glif</string>
 	<key>sinMatraI.alt1</key>
 	<string>sinM_atraI_.alt1.glif</string>
+	<key>sinMatraI.alt2</key>
+	<string>sinM_atraI_.alt2.glif</string>
 	<key>sinMatraIi</key>
 	<string>sinM_atraI_i.glif</string>
 	<key>sinMatraIi.alt</key>
@@ -434,6 +436,8 @@
 	<string>sinS_sa.glif</string>
 	<key>sinTa</key>
 	<string>sinT_a.glif</string>
+	<key>sinTa.half</key>
+	<string>sinT_a.half.glif</string>
 	<key>sinTha</key>
 	<string>sinT_ha.glif</string>
 	<key>sinThreelith</key>

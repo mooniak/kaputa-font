@@ -1211,6 +1211,7 @@
 		<string>sinVocalicll</string>
 		<string>sinYa</string>
 		<string>sinNa.half</string>
+		<string>sinTa.half</string>
 		<string>sinYa.post</string>
 		<string>sinDa.rakar</string>
 		<string>sinJnya.rakar</string>
@@ -1283,6 +1284,7 @@
 		<string>sinMatraUu.alt</string>
 		<string>sinVirama.alt</string>
 		<string>sinMatraI.alt1</string>
+		<string>sinMatraI.alt2</string>
 		<string>sinVirama.touch</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>

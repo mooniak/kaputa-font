@@ -6,7 +6,14 @@ languagesystem sinh dflt;
 lookup akhnAkhandinSinhalalookup7 {
   lookupflag 0;
     sub sinKa' sinVirama zerowidthjoiner sinSsa by sinKa.half;
+   	sub sinKa' sinVirama zerowidthjoiner sinVa by sinKa.half;
+   	sub sinKa' sinVirama zerowidthjoiner sinVa by sinKa.half;
+    sub sinTa' sinVirama zerowidthjoiner sinVa by sinTa.half;
+    sub sinTa' sinVirama zerowidthjoiner sinVa by sinTa.half;
+   	sub sinTa' sinVirama zerowidthjoiner sinTha by sinTa.half;
+
     sub sinNa' sinVirama zerowidthjoiner by sinNa.half;
+
 } akhnAkhandinSinhalalookup7;
 lookup rphf0 {
   lookupflag 0;
@@ -71,7 +78,7 @@ lookup psts_02{
 
 lookup abvs_halant {
   lookupflag 0;
-    sub [sinKha sinNga sinCa sinTta sinDda sinNndda sinDha sinBa sinMa sinMba sinVa] [sinVirama sinMatraEe.sechalf ]'  by [sinVirama.alt ];
+    sub [sinKha sinJha sinNga sinCa sinTta sinDda sinNndda sinDha sinBa sinMa sinMba sinVa] [sinVirama sinMatraEe.sechalf ]'  by [sinVirama.alt ];
 } abvs_halant;
 
 lookup abvs_halant_02 {
@@ -83,7 +90,9 @@ lookup abvs_matrai {
   lookupflag 0;
     sub [sinDa sinNda sinJnya sinNya sinLa sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
     sub [ sinCha sinJa sinNdja ] [sinMatraI]'  by [sinMatraI.alt1 ];
+    sub [ sinTha sinPha sinTtha ] [sinMatraI]'  by [sinMatraI.alt2 ];
 } abvs_matrai;
+
 
 lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
   lookupflag 0;
@@ -218,7 +227,7 @@ lookup sin_touching_2 {
  pos sinNya' sinVirama.touch <0 0 -50 0> ;
  pos sinNga' sinVirama.touch <0 0 -50 0> ;
  pos sinNga' sinVirama.touch <0 0 -50 0> ;
-} sin_touching_2;
+} sin_touching_2;    
 
 feature rphf {
  script sinh;

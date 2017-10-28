@@ -85,13 +85,13 @@
       <point x="73" y="176" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="497" y="479" type="move" name="sinVirama"/>
+    </contour>
+    <contour>
       <point x="399" y="41" type="move" name="sinMatraU"/>
     </contour>
     <contour>
       <point x="116" y="533" type="move" name="sinMatraI"/>
-    </contour>
-    <contour>
-      <point x="497" y="479" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>

@@ -105,10 +105,10 @@
       <point x="566" y="1" type="move" name="cursive"/>
     </contour>
     <contour>
-      <point x="485" y="479" type="move" name="sinVirama"/>
+      <point x="114" y="533" type="move" name="sinMatraI"/>
     </contour>
     <contour>
-      <point x="114" y="533" type="move" name="sinMatraI"/>
+      <point x="485" y="479" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>

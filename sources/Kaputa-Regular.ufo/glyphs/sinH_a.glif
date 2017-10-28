@@ -141,13 +141,13 @@
       <point x="462" y="72" type="move" name="sin_Rakar"/>
     </contour>
     <contour>
-      <point x="74" y="533" type="move" name="sinMatraI"/>
+      <point x="455" y="479" type="move" name="sinVirama"/>
     </contour>
     <contour>
       <point x="344" y="38" type="move" name="sinMatraU"/>
     </contour>
     <contour>
-      <point x="455" y="479" type="move" name="sinVirama"/>
+      <point x="74" y="533" type="move" name="sinMatraI"/>
     </contour>
   </outline>
   <lib>

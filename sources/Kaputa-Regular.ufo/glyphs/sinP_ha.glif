@@ -30,11 +30,11 @@
       <point x="169" y="613"/>
       <point x="146" y="611"/>
       <point x="121" y="608" type="curve"/>
-      <point x="82" y="552" type="line"/>
-      <point x="151" y="559"/>
-      <point x="194" y="562"/>
-      <point x="212" y="562" type="curve" smooth="yes"/>
-      <point x="233" y="562"/>
+      <point x="102" y="567" type="line"/>
+      <point x="171" y="574"/>
+      <point x="194" y="567"/>
+      <point x="212" y="567" type="curve" smooth="yes"/>
+      <point x="233" y="567"/>
       <point x="245" y="559"/>
       <point x="248" y="552" type="curve"/>
       <point x="255" y="547"/>
@@ -127,13 +127,19 @@
       <point x="283" y="428"/>
     </contour>
     <contour>
+      <point x="84" y="526" type="move" name="sinMatraI"/>
+    </contour>
+    <contour>
       <point x="451" y="92" type="move" name="sin_Rakar"/>
+    </contour>
+    <contour>
+      <point x="409" y="508" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:45:44 +0000</string>
+      <string>2017-10-28 05:21:08 +0000</string>
     </dict>
   </lib>
 </glyph>

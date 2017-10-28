@@ -176,6 +176,9 @@
       <point x="268" y="443" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="84" y="506" type="move" name="sinMatraI"/>
+    </contour>
+    <contour>
       <point x="443" y="489" type="move" name="sinVirama"/>
     </contour>
     <contour>
@@ -185,7 +188,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:46:52 +0000</string>
+      <string>2017-10-28 05:21:52 +0000</string>
     </dict>
   </lib>
 </glyph>
