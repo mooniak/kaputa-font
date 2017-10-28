@@ -260,6 +260,22 @@ lookup sin_touching_2 {
  pos sinNga' sinVirama.touch <0 0 -50 0> ;
 } sin_touching_2;
 
+#----------- Sinhala Numerals------------
+#---------------------------------
+
+lookup sin_lithnum_style {
+	sub zero by sinZerolith;
+	sub one by sinOnelith;
+	sub two by sinTwolith;
+	sub three by sinThreelith;
+	sub four by sinFourlith;
+	sub five by sinFivelith;
+	sub six by sinSixlith;
+	sub seven by sinSevenlith;
+	sub eight by sinEightlith;
+	sub nine by sinNinelith;
+} sin_lithnum_style;
+
 feature vatu {
  script sinh;
      language dflt ;
@@ -315,4 +331,10 @@ feature blws {
      language dflt ;
       lookup blwsBelowBaseSubstitutionsinSinhalalookup9;
 } blws;
+
+feature ss06 {
+  script sinh;
+    language dflt ;
+    lookup sin_lithnum_style;
+} ss06;
 
