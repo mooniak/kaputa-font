@@ -4,7 +4,7 @@
   <outline>
     <contour>
       <point x="70" y="120" type="line"/>
-      <point x="70" y="241" type="line"/>
+      <point x="70" y="241" type="line" smooth="yes"/>
       <point x="70" y="322"/>
       <point x="96" y="377"/>
       <point x="163" y="388" type="curve"/>
@@ -23,7 +23,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 09:57:17 +0000</string>
+      <string>2017-10-28 11:19:22 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

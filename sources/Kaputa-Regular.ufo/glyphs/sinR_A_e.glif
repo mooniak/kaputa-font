@@ -3,14 +3,6 @@
   <advance width="769"/>
   <outline>
     <contour>
-      <point x="461" y="587" type="line"/>
-      <point x="621" y="587" type="line"/>
-      <point x="542" y="433"/>
-      <point x="500" y="331"/>
-      <point x="500" y="212" type="curve" smooth="yes"/>
-      <point x="500" y="79"/>
-      <point x="539" y="12"/>
-      <point x="617" y="12" type="curve" smooth="yes"/>
       <point x="702" y="12"/>
       <point x="750" y="69"/>
       <point x="750" y="154" type="curve" smooth="yes"/>
@@ -27,13 +19,21 @@
       <point x="670" y="590" type="curve"/>
       <point x="670" y="627" type="line"/>
       <point x="461" y="627" type="line"/>
+      <point x="461" y="587" type="line"/>
+      <point x="621" y="587" type="line"/>
+      <point x="542" y="433"/>
+      <point x="500" y="331"/>
+      <point x="500" y="212" type="curve" smooth="yes"/>
+      <point x="500" y="79"/>
+      <point x="539" y="12"/>
+      <point x="617" y="12" type="curve" smooth="yes"/>
     </contour>
     <component base="sinRa"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 06:20:30 +0000</string>
+      <string>2017-10-28 11:19:22 +0000</string>
     </dict>
   </lib>
 </glyph>

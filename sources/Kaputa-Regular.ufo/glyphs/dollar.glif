@@ -49,22 +49,22 @@
       <point x="184" y="-8" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="195" y="-108" type="line"/>
       <point x="237" y="-108" type="line"/>
       <point x="237" y="10" type="line"/>
       <point x="195" y="4" type="line"/>
+      <point x="195" y="-108" type="line"/>
     </contour>
     <contour>
-      <point x="195" y="665" type="line"/>
       <point x="237" y="665" type="line"/>
       <point x="237" y="775" type="line"/>
       <point x="195" y="775" type="line"/>
+      <point x="195" y="665" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:05 +0000</string>
+      <string>2017-10-28 11:19:26 +0000</string>
     </dict>
   </lib>
 </glyph>

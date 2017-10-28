@@ -4,10 +4,6 @@
   <unicode hex="0DE9"/>
   <outline>
     <contour>
-      <point x="838" y="47" type="line"/>
-      <point x="850" y="27"/>
-      <point x="902" y="2"/>
-      <point x="953" y="3" type="curve" smooth="yes"/>
       <point x="1060" y="5"/>
       <point x="1136" y="73"/>
       <point x="1136" y="248" type="curve" smooth="yes"/>
@@ -29,6 +25,10 @@
       <point x="872" y="74"/>
       <point x="860" y="79"/>
       <point x="849" y="83" type="curve"/>
+      <point x="838" y="47" type="line"/>
+      <point x="850" y="27"/>
+      <point x="902" y="2"/>
+      <point x="953" y="3" type="curve" smooth="yes"/>
     </contour>
     <component base="sinTwolith" xOffset="28"/>
   </outline>
@@ -37,7 +37,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 06:59:27 +0000</string>
+      <string>2017-10-28 11:19:26 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

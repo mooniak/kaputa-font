@@ -11,10 +11,13 @@
     </contour>
     <component base="sinPa"/>
     <contour>
+      <point x="465" y="52" type="move" name="sin_Rakar"/>
+    </contour>
+    <contour>
       <point x="285" y="517" type="move" name="sinReph"/>
     </contour>
     <contour>
-      <point x="465" y="52" type="move" name="sin_Rakar"/>
+      <point x="122" y="514" type="move" name="sinMatraI"/>
     </contour>
     <contour>
       <point x="381" y="489" type="move" name="sinVirama"/>
@@ -25,7 +28,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 09:57:17 +0000</string>
+      <string>2017-10-28 12:16:01 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

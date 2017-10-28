@@ -6,10 +6,10 @@
   </note>
   <outline>
     <contour>
-      <point x="73" y="323" type="line"/>
       <point x="409" y="323" type="line"/>
       <point x="409" y="362" type="line"/>
       <point x="73" y="362" type="line"/>
+      <point x="73" y="323" type="line"/>
     </contour>
     <contour>
       <point x="261" y="156"/>
@@ -43,7 +43,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:43 +0000</string>
+      <string>2017-10-28 11:19:26 +0000</string>
     </dict>
   </lib>
 </glyph>

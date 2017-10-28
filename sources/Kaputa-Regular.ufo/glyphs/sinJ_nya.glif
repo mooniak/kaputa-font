@@ -10,26 +10,24 @@
       <point x="460" y="161"/>
       <point x="462" y="180"/>
       <point x="462" y="196" type="curve" smooth="yes"/>
-      <point x="462" y="199"/>
-      <point x="462" y="202"/>
-      <point x="462" y="205" type="curve" smooth="yes"/>
+      <point x="462" y="205" type="line"/>
       <point x="460" y="238" type="line"/>
       <point x="455" y="267" type="line"/>
       <point x="448" y="289"/>
       <point x="440" y="303"/>
-      <point x="432" y="309" type="curve" smooth="yes"/>
-      <point x="406" y="330" type="line" smooth="yes"/>
+      <point x="432" y="309" type="curve"/>
+      <point x="406" y="330" type="line"/>
       <point x="400" y="334"/>
       <point x="391" y="336"/>
-      <point x="380" y="338" type="curve" smooth="yes"/>
+      <point x="380" y="338" type="curve"/>
       <point x="355" y="341" type="line"/>
       <point x="311" y="339" type="line"/>
       <point x="317" y="365"/>
       <point x="322" y="383"/>
-      <point x="325" y="392" type="curve" smooth="yes"/>
+      <point x="325" y="392" type="curve"/>
       <point x="325" y="394"/>
       <point x="326" y="395"/>
-      <point x="326" y="396" type="curve" smooth="yes"/>
+      <point x="326" y="396" type="curve"/>
       <point x="343" y="442"/>
       <point x="375" y="466"/>
       <point x="421" y="466" type="curve" smooth="yes"/>
@@ -37,9 +35,7 @@
       <point x="506" y="435"/>
       <point x="510" y="393" type="curve"/>
       <point x="550" y="393" type="line"/>
-      <point x="550" y="397"/>
-      <point x="550" y="401"/>
-      <point x="550" y="405" type="curve" smooth="yes"/>
+      <point x="550" y="405" type="line" smooth="yes"/>
       <point x="551" y="440"/>
       <point x="551" y="489"/>
       <point x="527" y="461" type="curve"/>
@@ -72,10 +68,8 @@
       <point x="397" y="293"/>
       <point x="413" y="276"/>
       <point x="418" y="229" type="curve"/>
-      <point x="419" y="211" type="line" smooth="yes"/>
-      <point x="419" y="210"/>
-      <point x="419" y="208"/>
-      <point x="419" y="206" type="curve" smooth="yes"/>
+      <point x="419" y="211" type="line"/>
+      <point x="419" y="206" type="line"/>
       <point x="420" y="204"/>
       <point x="420" y="202"/>
       <point x="420" y="200" type="curve" smooth="yes"/>
@@ -94,13 +88,13 @@
       <point x="144" y="324" type="line" smooth="yes"/>
       <point x="148" y="363"/>
       <point x="183" y="443"/>
-      <point x="231" y="458" type="curve" smooth="yes"/>
+      <point x="231" y="458" type="curve"/>
       <point x="233" y="458"/>
       <point x="234" y="459"/>
-      <point x="236" y="459" type="curve" smooth="yes"/>
+      <point x="236" y="459" type="curve"/>
       <point x="244" y="462"/>
       <point x="251" y="464"/>
-      <point x="258" y="465" type="curve" smooth="yes"/>
+      <point x="258" y="465" type="curve"/>
       <point x="263" y="466"/>
       <point x="277" y="467"/>
       <point x="299" y="467" type="curve"/>
@@ -131,14 +125,20 @@
       <point x="102" y="335" type="line"/>
       <point x="97" y="320"/>
       <point x="95" y="306"/>
-      <point x="95" y="295" type="curve" smooth="yes"/>
+      <point x="95" y="295" type="curve"/>
       <point x="94" y="267" type="line"/>
       <point x="94" y="238" type="line"/>
       <point x="95" y="208" type="line"/>
     </contour>
     <component base="sinDa" xOffset="462"/>
     <contour>
-      <point x="685" y="567" type="move" name="sinReph"/>
+      <point x="695" y="556" type="move" name="sinReph"/>
+    </contour>
+    <contour>
+      <point x="553" y="533" type="move" name="sinMatraI"/>
+    </contour>
+    <contour>
+      <point x="807" y="476" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>
@@ -146,7 +146,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 09:57:17 +0000</string>
+      <string>2017-10-28 12:17:27 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

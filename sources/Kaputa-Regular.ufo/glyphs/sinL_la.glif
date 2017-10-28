@@ -17,13 +17,13 @@
       <point x="57" y="220"/>
       <point x="72" y="296"/>
       <point x="106" y="330" type="curve"/>
-      <point x="106" y="271" type="line"/>
+      <point x="106" y="271" type="line" smooth="yes"/>
       <point x="106" y="156"/>
       <point x="166" y="72"/>
       <point x="282" y="72" type="curve" smooth="yes"/>
       <point x="400" y="72"/>
       <point x="468" y="154"/>
-      <point x="468" y="228" type="curve"/>
+      <point x="468" y="228" type="curve" smooth="yes"/>
       <point x="468" y="255" type="line"/>
       <point x="428" y="255" type="line"/>
       <point x="428" y="169"/>
@@ -34,10 +34,8 @@
       <point x="146" y="271" type="curve"/>
       <point x="148" y="343" type="line"/>
       <point x="468" y="343" type="line"/>
-      <point x="471" y="384" type="line" smooth="yes"/>
-      <point x="471" y="387"/>
-      <point x="471" y="390"/>
-      <point x="471" y="393" type="curve" smooth="yes"/>
+      <point x="471" y="384" type="line"/>
+      <point x="471" y="393" type="line" smooth="yes"/>
       <point x="471" y="451"/>
       <point x="441" y="506"/>
       <point x="378" y="506" type="curve" smooth="yes"/>
@@ -94,7 +92,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 10:03:39 +0000</string>
+      <string>2017-10-28 11:19:22 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

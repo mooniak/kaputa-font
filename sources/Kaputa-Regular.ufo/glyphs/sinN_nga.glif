@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="76" y="125" type="line"/>
-      <point x="76" y="304" type="line"/>
+      <point x="76" y="304" type="line" smooth="yes"/>
       <point x="76" y="385"/>
       <point x="113" y="448"/>
       <point x="183" y="458" type="curve"/>
       <point x="268" y="466" type="line"/>
       <point x="281" y="505" type="line"/>
-      <point x="179" y="494" type="line"/>
+      <point x="179" y="494" type="line" smooth="yes"/>
       <point x="85" y="484"/>
       <point x="35" y="419"/>
       <point x="35" y="302" type="curve" smooth="yes"/>
@@ -19,7 +19,16 @@
     </contour>
     <component base="sinGa" xOffset="92"/>
     <contour>
+      <point x="545" y="479" type="move" name="sinVirama"/>
+    </contour>
+    <contour>
       <point x="375" y="527" type="move" name="sinReph"/>
+    </contour>
+    <contour>
+      <point x="464" y="37" type="move" name="sinMatraU"/>
+    </contour>
+    <contour>
+      <point x="163" y="533" type="move" name="sinMatraI"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +36,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 09:57:17 +0000</string>
+      <string>2017-10-28 12:41:29 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>sinGa</string>
       <key>public.markColor</key>

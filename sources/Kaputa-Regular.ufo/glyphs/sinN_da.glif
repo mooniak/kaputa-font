@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="90" y="125" type="line"/>
-      <point x="90" y="246" type="line"/>
+      <point x="90" y="246" type="line" smooth="yes"/>
       <point x="90" y="327"/>
       <point x="116" y="382"/>
       <point x="183" y="393" type="curve"/>
@@ -24,13 +24,16 @@
     <contour>
       <point x="403" y="489" type="move" name="sinVirama"/>
     </contour>
+    <contour>
+      <point x="172" y="494" type="move" name="sinMatraI"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 09:57:17 +0000</string>
+      <string>2017-10-28 12:16:18 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

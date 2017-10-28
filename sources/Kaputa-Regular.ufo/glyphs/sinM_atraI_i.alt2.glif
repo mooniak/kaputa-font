@@ -3,19 +3,6 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-5" y="703" type="line"/>
-      <point x="-5" y="706" type="line"/>
-      <point x="-106" y="706"/>
-      <point x="-175" y="654"/>
-      <point x="-175" y="571" type="curve" smooth="yes"/>
-      <point x="-175" y="569" type="line"/>
-      <point x="-176" y="564"/>
-      <point x="-176" y="558"/>
-      <point x="-176" y="552" type="curve"/>
-      <point x="-173" y="552" type="line"/>
-      <point x="-166" y="517"/>
-      <point x="-139" y="476"/>
-      <point x="-103" y="476" type="curve"/>
       <point x="-94" y="516" type="line"/>
       <point x="-108" y="516"/>
       <point x="-125" y="538"/>
@@ -39,6 +26,13 @@
       <point x="176" y="670"/>
       <point x="98" y="701"/>
       <point x="4" y="703" type="curve" smooth="yes"/>
+      <point x="-5" y="703" type="line"/>
+      <point x="-117" y="696"/>
+      <point x="-174" y="622"/>
+      <point x="-173" y="552" type="curve" smooth="yes"/>
+      <point x="-172" y="516"/>
+      <point x="-139" y="476"/>
+      <point x="-103" y="476" type="curve"/>
     </contour>
     <contour>
       <point x="68" y="571"/>
@@ -61,7 +55,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 08:07:05 +0000</string>
+      <string>2017-10-28 12:22:23 +0000</string>
     </dict>
   </lib>
 </glyph>

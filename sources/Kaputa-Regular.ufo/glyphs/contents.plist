@@ -60,6 +60,10 @@
 	<string>Y_.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
+	<key>_i.part</key>
+	<string>_i.part.glif</string>
+	<key>_ii.part</key>
+	<string>_ii.part.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>ampersand</key>
@@ -284,14 +288,12 @@
 	<string>sinC_a.glif</string>
 	<key>sinCha</key>
 	<string>sinC_ha.glif</string>
-	<key>sinDDha</key>
-	<string>sinD_D_ha.glif</string>
+	<key>sinCha.001</key>
+	<string>sinC_ha.001.glif</string>
 	<key>sinDU</key>
 	<string>sinD_U_.glif</string>
 	<key>sinDUu</key>
 	<string>sinD_U_u.glif</string>
-	<key>sinDVa</key>
-	<string>sinD_V_a.glif</string>
 	<key>sinDa</key>
 	<string>sinD_a.glif</string>
 	<key>sinDa.rakar</key>
@@ -444,8 +446,6 @@
 	<string>sinM_bI_i.glif</string>
 	<key>sinMba</key>
 	<string>sinM_ba.glif</string>
-	<key>sinMba.001</key>
-	<string>sinM_ba.001.glif</string>
 	<key>sinNa</key>
 	<string>sinN_a.glif</string>
 	<key>sinNa.half</key>
@@ -528,8 +528,6 @@
 	<string>sinT_tI_.glif</string>
 	<key>sinTtIi</key>
 	<string>sinT_tI_i.glif</string>
-	<key>sinTtTtha</key>
-	<string>sinT_tT_tha.glif</string>
 	<key>sinTta</key>
 	<string>sinT_ta.glif</string>
 	<key>sinTtha</key>

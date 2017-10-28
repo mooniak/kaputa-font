@@ -12,9 +12,9 @@
 	</array>
 	<key>@MMK_L_B</key>
 	<array>
+		<string>B</string>
 		<string>three</string>
 		<string>eight</string>
-		<string>B</string>
 	</array>
 	<key>@MMK_L_C</key>
 	<array>
@@ -22,14 +22,14 @@
 	</array>
 	<key>@MMK_L_D</key>
 	<array>
-		<string>parenright</string>
-		<string>zero</string>
-		<string>nine</string>
-		<string>at</string>
-		<string>copyright</string>
 		<string>D</string>
 		<string>O</string>
 		<string>Q</string>
+		<string>zero</string>
+		<string>nine</string>
+		<string>parenright</string>
+		<string>at</string>
+		<string>copyright</string>
 	</array>
 	<key>@MMK_L_F</key>
 	<array>
@@ -41,14 +41,14 @@
 	</array>
 	<key>@MMK_L_H</key>
 	<array>
-		<string>one</string>
-		<string>bracketright</string>
-		<string>paragraph</string>
 		<string>H</string>
 		<string>I</string>
 		<string>J</string>
 		<string>M</string>
 		<string>N</string>
+		<string>one</string>
+		<string>bracketright</string>
+		<string>paragraph</string>
 	</array>
 	<key>@MMK_L_K</key>
 	<array>
@@ -68,8 +68,8 @@
 	</array>
 	<key>@MMK_L_S</key>
 	<array>
-		<string>dollar</string>
 		<string>S</string>
+		<string>dollar</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
@@ -81,9 +81,9 @@
 	</array>
 	<key>@MMK_L_V</key>
 	<array>
-		<string>seven</string>
 		<string>V</string>
 		<string>W</string>
+		<string>seven</string>
 	</array>
 	<key>@MMK_L_X</key>
 	<array>
@@ -116,8 +116,8 @@
 	</array>
 	<key>@MMK_L_braceleft</key>
 	<array>
-		<string>parenleft</string>
 		<string>bracketleft</string>
+		<string>parenleft</string>
 	</array>
 	<key>@MMK_L_c</key>
 	<array>
@@ -135,11 +135,11 @@
 	</array>
 	<key>@MMK_L_d</key>
 	<array>
-		<string>exclam</string>
 		<string>d</string>
 		<string>i</string>
 		<string>j</string>
 		<string>l</string>
+		<string>exclam</string>
 	</array>
 	<key>@MMK_L_f</key>
 	<array>
@@ -165,13 +165,13 @@
 	</array>
 	<key>@MMK_L_multiply</key>
 	<array>
-		<string>less</string>
-		<string>equal</string>
 		<string>multiply</string>
-		<string>plusminus</string>
+		<string>equal</string>
 		<string>notequal</string>
+		<string>less</string>
 		<string>greaterequal</string>
 		<string>lessequal</string>
+		<string>plusminus</string>
 		<string>approxequal</string>
 	</array>
 	<key>@MMK_L_multiply.osf</key>
@@ -244,10 +244,10 @@
 	<key>@MMK_L_uni2219</key>
 	<array>
 		<string>plus</string>
+		<string>minus</string>
+		<string>divide</string>
 		<string>greater</string>
 		<string>asciitilde</string>
-		<string>divide</string>
-		<string>minus</string>
 		<string>uni2219</string>
 	</array>
 	<key>@MMK_L_v</key>
@@ -266,7 +266,6 @@
 	</array>
 	<key>@MMK_R_B</key>
 	<array>
-		<string>bracketleft</string>
 		<string>B</string>
 		<string>D</string>
 		<string>E</string>
@@ -280,23 +279,24 @@
 		<string>N</string>
 		<string>P</string>
 		<string>R</string>
+		<string>bracketleft</string>
 	</array>
 	<key>@MMK_R_C</key>
 	<array>
-		<string>parenleft</string>
-		<string>zero</string>
-		<string>six</string>
-		<string>at</string>
-		<string>copyright</string>
 		<string>C</string>
 		<string>G</string>
 		<string>O</string>
 		<string>Q</string>
+		<string>zero</string>
+		<string>six</string>
+		<string>parenleft</string>
+		<string>at</string>
+		<string>copyright</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
-		<string>dollar</string>
 		<string>S</string>
+		<string>dollar</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
@@ -333,17 +333,17 @@
 	</array>
 	<key>@MMK_R_b</key>
 	<array>
-		<string>exclam</string>
 		<string>b</string>
 		<string>h</string>
 		<string>i</string>
 		<string>k</string>
 		<string>l</string>
+		<string>exclam</string>
 	</array>
 	<key>@MMK_R_braceright</key>
 	<array>
-		<string>parenright</string>
 		<string>bracketright</string>
+		<string>parenright</string>
 	</array>
 	<key>@MMK_R_c</key>
 	<array>
@@ -394,13 +394,13 @@
 	</array>
 	<key>@MMK_R_multiply</key>
 	<array>
-		<string>equal</string>
-		<string>greater</string>
 		<string>multiply</string>
-		<string>plusminus</string>
+		<string>equal</string>
 		<string>notequal</string>
+		<string>greater</string>
 		<string>greaterequal</string>
 		<string>lessequal</string>
+		<string>plusminus</string>
 		<string>approxequal</string>
 	</array>
 	<key>@MMK_R_multiply.osf</key>
@@ -478,10 +478,10 @@
 	<key>@MMK_R_uni2219</key>
 	<array>
 		<string>plus</string>
+		<string>minus</string>
+		<string>divide</string>
 		<string>less</string>
 		<string>asciitilde</string>
-		<string>divide</string>
-		<string>minus</string>
 		<string>uni2219</string>
 	</array>
 	<key>@MMK_R_v</key>

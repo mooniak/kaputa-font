@@ -15,7 +15,7 @@
       <point x="401" y="48" type="curve"/>
       <point x="394" y="43"/>
       <point x="385" y="41"/>
-      <point x="375" y="40" type="curve" smooth="yes"/>
+      <point x="375" y="40" type="curve"/>
       <point x="350" y="39" type="line"/>
       <point x="350" y="1" type="line"/>
       <point x="368" y="0" type="line"/>
@@ -26,12 +26,10 @@
       <point x="526" y="49"/>
       <point x="566" y="139"/>
       <point x="566" y="236" type="curve" smooth="yes"/>
-      <point x="566" y="239"/>
-      <point x="566" y="241"/>
-      <point x="566" y="244" type="curve" smooth="yes"/>
+      <point x="566" y="244" type="line"/>
       <point x="565" y="246"/>
       <point x="565" y="249"/>
-      <point x="565" y="251" type="curve" smooth="yes"/>
+      <point x="565" y="251" type="curve"/>
       <point x="564" y="272" type="line"/>
       <point x="561" y="308" type="line"/>
       <point x="550" y="371" type="line" smooth="yes"/>
@@ -56,10 +54,8 @@
       <point x="261" y="302" type="line" smooth="yes"/>
       <point x="292" y="302"/>
       <point x="314" y="295"/>
-      <point x="327" y="254" type="curve" smooth="yes"/>
-      <point x="327" y="253"/>
-      <point x="328" y="251"/>
-      <point x="328" y="250" type="curve" smooth="yes"/>
+      <point x="327" y="254" type="curve"/>
+      <point x="328" y="250" type="line"/>
       <point x="331" y="243"/>
       <point x="333" y="236"/>
       <point x="333" y="232" type="curve"/>
@@ -78,7 +74,7 @@
       <point x="76" y="169" type="line"/>
       <point x="71" y="203" type="line"/>
       <point x="67" y="235" type="line"/>
-      <point x="66" y="273" type="line" smooth="yes"/>
+      <point x="66" y="273" type="line"/>
       <point x="66" y="303"/>
       <point x="69" y="327"/>
       <point x="75" y="346" type="curve" smooth="yes"/>
@@ -92,7 +88,7 @@
       <point x="152" y="501" type="line" smooth="yes"/>
       <point x="135" y="499"/>
       <point x="119" y="492"/>
-      <point x="105" y="479" type="curve" smooth="yes"/>
+      <point x="105" y="479" type="curve"/>
       <point x="50" y="432"/>
       <point x="22" y="371"/>
       <point x="23" y="298" type="curve" smooth="yes"/>
@@ -107,7 +103,7 @@
     <contour>
       <point x="439" y="79"/>
       <point x="435" y="87"/>
-      <point x="431" y="89" type="curve" smooth="yes"/>
+      <point x="431" y="89" type="curve"/>
       <point x="425" y="93"/>
       <point x="422" y="95"/>
       <point x="418" y="95" type="curve"/>
@@ -128,7 +124,7 @@
       <point x="505" y="239" type="line" smooth="yes"/>
       <point x="498" y="249"/>
       <point x="486" y="255"/>
-      <point x="471" y="258" type="curve" smooth="yes"/>
+      <point x="471" y="258" type="curve"/>
       <point x="449" y="261" type="line"/>
       <point x="418" y="261"/>
       <point x="393" y="250"/>
@@ -142,7 +138,7 @@
       <point x="330" y="463" type="curve" smooth="yes"/>
       <point x="344" y="465"/>
       <point x="356" y="465"/>
-      <point x="365" y="465" type="curve" smooth="yes"/>
+      <point x="365" y="465" type="curve"/>
       <point x="411" y="461" type="line"/>
       <point x="449" y="453"/>
       <point x="476" y="432"/>
@@ -166,16 +162,16 @@
       <point x="491" y="52" type="move" name="sin_Rakar"/>
     </contour>
     <contour>
-      <point x="73" y="533" type="move" name="sinMatraI"/>
+      <point x="295" y="517" type="move" name="sinReph"/>
     </contour>
     <contour>
       <point x="350" y="38" type="move" name="sinMatraU"/>
     </contour>
     <contour>
-      <point x="295" y="517" type="move" name="sinReph"/>
+      <point x="474" y="489" type="move" name="sinVirama"/>
     </contour>
     <contour>
-      <point x="474" y="489" type="move" name="sinVirama"/>
+      <point x="73" y="533" type="move" name="sinMatraI"/>
     </contour>
   </outline>
   <lib>
@@ -183,7 +179,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 09:57:17 +0000</string>
+      <string>2017-10-28 11:19:22 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

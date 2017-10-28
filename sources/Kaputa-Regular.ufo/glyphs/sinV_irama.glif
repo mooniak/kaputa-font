@@ -4,10 +4,10 @@
   <unicode hex="0DCA"/>
   <outline>
     <contour>
-      <point x="-313" y="665" type="line"/>
-      <point x="-313" y="488" type="line"/>
       <point x="-268" y="488" type="line"/>
       <point x="-268" y="665" type="line"/>
+      <point x="-313" y="665" type="line"/>
+      <point x="-313" y="488" type="line"/>
     </contour>
     <contour>
       <point x="-288" y="487" type="move" name="_sinVirama"/>
@@ -16,7 +16,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:53:19 +0000</string>
+      <string>2017-10-28 11:19:22 +0000</string>
     </dict>
   </lib>
 </glyph>
