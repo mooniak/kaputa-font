@@ -4,21 +4,12 @@
   <unicode hex="0D8F"/>
   <outline>
     <contour>
-      <point x="93" y="478"/>
-      <point x="35" y="409"/>
-      <point x="35" y="317" type="curve" smooth="yes"/>
-      <point x="35" y="225"/>
-      <point x="82" y="161"/>
-      <point x="124" y="150" type="curve"/>
-      <point x="92" y="202"/>
-      <point x="74" y="245"/>
-      <point x="74" y="304" type="curve" smooth="yes"/>
-      <point x="74" y="360"/>
-      <point x="95" y="414"/>
-      <point x="137" y="437" type="curve"/>
-      <point x="167" y="478" type="line"/>
-    </contour>
-    <contour>
+      <point x="575" y="161"/>
+      <point x="622" y="225"/>
+      <point x="622" y="317" type="curve" smooth="yes"/>
+      <point x="622" y="409"/>
+      <point x="564" y="478"/>
+      <point x="490" y="478" type="curve"/>
       <point x="520" y="437" type="line"/>
       <point x="562" y="414"/>
       <point x="583" y="360"/>
@@ -26,19 +17,32 @@
       <point x="583" y="245"/>
       <point x="565" y="202"/>
       <point x="533" y="150" type="curve"/>
-      <point x="575" y="161"/>
-      <point x="622" y="225"/>
-      <point x="622" y="317" type="curve" smooth="yes"/>
-      <point x="622" y="409"/>
-      <point x="564" y="478"/>
-      <point x="490" y="478" type="curve"/>
+    </contour>
+    <contour>
+      <point x="92" y="202"/>
+      <point x="74" y="245"/>
+      <point x="74" y="304" type="curve" smooth="yes"/>
+      <point x="74" y="360"/>
+      <point x="95" y="414"/>
+      <point x="137" y="437" type="curve"/>
+      <point x="167" y="478" type="line"/>
+      <point x="93" y="478"/>
+      <point x="35" y="409"/>
+      <point x="35" y="317" type="curve" smooth="yes"/>
+      <point x="35" y="225"/>
+      <point x="82" y="161"/>
+      <point x="124" y="150" type="curve"/>
     </contour>
     <component base="sinPa" xOffset="45"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 07:15:38 +0000</string>
+      <string>2017-10-28 09:57:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

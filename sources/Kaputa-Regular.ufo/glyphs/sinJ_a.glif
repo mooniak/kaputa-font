@@ -4,10 +4,10 @@
   <unicode hex="0DA2"/>
   <outline>
     <contour>
-      <point x="420" y="488" type="line"/>
-      <point x="452" y="466" type="line"/>
       <point x="541" y="575" type="line"/>
       <point x="496" y="575" type="line"/>
+      <point x="420" y="488" type="line"/>
+      <point x="452" y="466" type="line"/>
     </contour>
     <component base="sinPa"/>
     <contour>
@@ -22,8 +22,12 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 08:38:26 +0000</string>
+      <string>2017-10-28 09:57:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -3,7 +3,6 @@
   <advance width="557"/>
   <outline>
     <contour>
-      <point x="29" y="120" type="line"/>
       <point x="70" y="120" type="line"/>
       <point x="70" y="241" type="line"/>
       <point x="70" y="322"/>
@@ -15,13 +14,18 @@
       <point x="79" y="414"/>
       <point x="29" y="356"/>
       <point x="29" y="239" type="curve" smooth="yes"/>
+      <point x="29" y="120" type="line"/>
     </contour>
     <component base="sinDa.rakar" xOffset="90"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 07:29:40 +0000</string>
+      <string>2017-10-28 09:57:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

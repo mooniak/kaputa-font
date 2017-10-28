@@ -103,13 +103,13 @@
       <point x="17" y="281"/>
     </contour>
     <contour>
-      <point x="433" y="102" type="move" name="sin_Rakar"/>
+      <point x="438" y="138" type="move" name="sin_Rakar"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 08:49:34 +0000</string>
+      <string>2017-10-28 09:00:35 +0000</string>
     </dict>
   </lib>
 </glyph>

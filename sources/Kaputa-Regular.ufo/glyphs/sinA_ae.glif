@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinAae" format="1">
-  <advance width="786"/>
+  <advance width="807"/>
   <unicode hex="0D88"/>
   <outline>
     <component base="sinA"/>
-    <component base="sinMatraAe" xOffset="540"/>
+    <component base="sinMatraAae" xOffset="540"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:45:44 +0000</string>
+      <string>2017-10-28 10:35:35 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraI.alt" format="1">
-  <advance width="45"/>
+  <advance width="0"/>
   <outline>
     <contour>
       <point x="-607" y="706"/>
@@ -25,7 +25,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:45:44 +0000</string>
+      <string>2017-10-28 09:32:58 +0000</string>
     </dict>
   </lib>
 </glyph>

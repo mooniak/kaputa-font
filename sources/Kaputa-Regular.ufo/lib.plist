@@ -1434,6 +1434,8 @@
 		<string>sinBha</string>
 		<string>sinCa</string>
 		<string>sinCha</string>
+		<string>sinDDha</string>
+		<string>sinDVa</string>
 		<string>sinDa</string>
 		<string>sinDda</string>
 		<string>sinDdha</string>
@@ -1473,6 +1475,7 @@
 		<string>sinSsa</string>
 		<string>sinTa</string>
 		<string>sinTha</string>
+		<string>sinTtTtha</string>
 		<string>sinTta</string>
 		<string>sinTtha</string>
 		<string>sinU</string>
@@ -1488,6 +1491,7 @@
 		<string>sinDa.rakar</string>
 		<string>sinNda.rakar</string>
 		<string>sinKa.half</string>
+		<string>sinMba.001</string>
 		<string>sinZerolith</string>
 		<string>sinOnelith</string>
 		<string>sinTwolith</string>
@@ -1559,6 +1563,8 @@
 		<string>sinMatraI.alt2</string>
 		<string>sinMatraIi.alt2</string>
 		<string>sinVirama.attatch</string>
+		<string>sinMatraI.empty</string>
+		<string>sinMatraIi.empty</string>
 		<string>sinVirama.touch</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
