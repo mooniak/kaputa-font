@@ -4,12 +4,12 @@
   <unicode hex="0D87"/>
   <outline>
     <component base="sinA"/>
-    <component base="sinMatraAea" xOffset="540"/>
+    <component base="sinMatraAae" xOffset="540"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:45:44 +0000</string>
+      <string>2017-10-28 06:18:00 +0000</string>
     </dict>
   </lib>
 </glyph>

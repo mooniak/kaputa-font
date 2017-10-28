@@ -4,8 +4,6 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
-	<key>com.schriftgestaltung.font.New Parameter</key>
-	<string>New Value</string>
 	<key>com.schriftgestaltung.font.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
@@ -665,8 +663,6 @@
 		<key>com.schriftgestaltung.font.vendorID</key>
 		<string>MS</string>
 	</dict>
-	<key>com.schriftgestaltung.font.vendorID</key>
-	<string>MS</string>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -1044,58 +1040,6 @@
 		<string>plusminus</string>
 		<string>paragraph</string>
 		<string>periodcentered</string>
-		<string>uni0D9B0DD2</string>
-		<string>uni0D9B0DD3</string>
-		<string>uni0D9C0DD6</string>
-		<string>uni0D9E0DD2</string>
-		<string>uni0D9E0DD3</string>
-		<string>uni0D9F0DD4</string>
-		<string>uni0D9F0DD6</string>
-		<string>uni0DA00DD2</string>
-		<string>uni0DA00DD3</string>
-		<string>uni0DA40DD4</string>
-		<string>uni0DA40DD6</string>
-		<string>uni0DA50DCF</string>
-		<string>uni0DA50DD4</string>
-		<string>uni0DA50DD6</string>
-		<string>uni0DA70DD2</string>
-		<string>uni0DA70DD3</string>
-		<string>uni0DA80DD2</string>
-		<string>uni0DA80DD3</string>
-		<string>uni0DA90DD2</string>
-		<string>uni0DA90DD3</string>
-		<string>uni0DAA0DD2</string>
-		<string>uni0DAA0DD3</string>
-		<string>uni0DAC0DD2</string>
-		<string>uni0DAC0DD3</string>
-		<string>uni0DAD0DD4</string>
-		<string>uni0DAF0DCF</string>
-		<string>uni0DAF0DD4</string>
-		<string>uni0DAF0DD6</string>
-		<string>uni0DAF0DD8</string>
-		<string>uni0DB00DD2</string>
-		<string>uni0DB00DD3</string>
-		<string>uni0DB30DCF</string>
-		<string>uni0DB30DD4</string>
-		<string>uni0DB30DD6</string>
-		<string>uni0DB60DD2</string>
-		<string>uni0DB60DD3</string>
-		<string>uni0DB70DD6</string>
-		<string>uni0DB80DD2</string>
-		<string>uni0DB80DD3</string>
-		<string>uni0DB90DD2</string>
-		<string>uni0DB90DD3</string>
-		<string>uni0DBB0DD0</string>
-		<string>uni0DBB0DD1</string>
-		<string>uni0DBD0DD4</string>
-		<string>uni0DBD0DD6</string>
-		<string>uni0DC00DD2</string>
-		<string>uni0DC00DD3</string>
-		<string>uni0DC10DD6</string>
-		<string>uni0DC10DD2.rakar</string>
-		<string>uni0DC10DD3.rakar</string>
-		<string>uni0DC50DD4</string>
-		<string>uni0DC50DD6</string>
 		<string>A</string>
 		<string>B</string>
 		<string>C</string>
@@ -1151,7 +1095,27 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>sinBI</string>
+		<string>sinBIi</string>
+		<string>sinCI</string>
+		<string>sinCIi</string>
+		<string>sinDdI</string>
+		<string>sinDdIi</string>
+		<string>sinDhI</string>
+		<string>sinDhIi</string>
+		<string>sinKhI</string>
+		<string>sinKhIi</string>
+		<string>sinMI</string>
+		<string>sinMIi</string>
+		<string>sinMbI</string>
+		<string>sinMbIi</string>
 		<string>uni0DB30DCA200D0DA8</string>
+		<string>sinNgI</string>
+		<string>sinNgIi</string>
+		<string>sinTtI</string>
+		<string>sinTtIi</string>
+		<string>sinVI</string>
+		<string>sinVIi</string>
 		<string>sinA</string>
 		<string>sinAa</string>
 		<string>sinAae</string>
@@ -1288,8 +1252,8 @@
 		<string>sinVirama.touch</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
+		<string>sinMatraAae</string>
 		<string>sinMatraAe</string>
-		<string>sinMatraAea</string>
 		<string>sinMatraAi</string>
 		<string>sinMatraAu</string>
 		<string>sinMatraE</string>
@@ -1306,6 +1270,23 @@
 		<string>sinMatraEe.sechalf</string>
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
+		<string>sinJnyUu</string>
+		<string>sinJnyU</string>
+		<string>sinNyUu</string>
+		<string>sinNyU</string>
+		<string>sinNdUu</string>
+		<string>sinNdU</string>
+		<string>sinDUu</string>
+		<string>sinDU</string>
+		<string>sinShRIi</string>
+		<string>sinRAae</string>
+		<string>sinRAe</string>
+		<string>sinNnddIi</string>
+		<string>sinNnddI</string>
+		<string>sinLUu</string>
+		<string>sinLU</string>
+		<string>sinLlUu</string>
+		<string>sinLlU</string>
 		<string>mooniak</string>
 	</array>
 </dict>
