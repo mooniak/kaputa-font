@@ -54,6 +54,9 @@
       <point x="22" y="370"/>
     </contour>
     <contour>
+      <point x="265" y="547" type="move" name="sinReph"/>
+    </contour>
+    <contour>
       <point x="414" y="469" type="move" name="sinVirama"/>
     </contour>
     <contour>
@@ -63,7 +66,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:46:52 +0000</string>
+      <string>2017-10-28 08:36:57 +0000</string>
     </dict>
   </lib>
 </glyph>

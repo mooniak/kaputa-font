@@ -93,10 +93,10 @@
       <point x="87" y="235" type="line"/>
     </contour>
     <contour>
-      <point x="522" y="52" type="move" name="sin_Rakar"/>
+      <point x="114" y="533" type="move" name="sinMatraI"/>
     </contour>
     <contour>
-      <point x="26" y="-1" type="move" name="_cursive"/>
+      <point x="522" y="52" type="move" name="sin_Rakar"/>
     </contour>
     <contour>
       <point x="430" y="38" type="move" name="sinMatraU"/>
@@ -105,16 +105,19 @@
       <point x="566" y="1" type="move" name="cursive"/>
     </contour>
     <contour>
-      <point x="114" y="533" type="move" name="sinMatraI"/>
+      <point x="485" y="479" type="move" name="sinVirama"/>
     </contour>
     <contour>
-      <point x="485" y="479" type="move" name="sinVirama"/>
+      <point x="305" y="538" type="move" name="sinReph"/>
+    </contour>
+    <contour>
+      <point x="26" y="-1" type="move" name="_cursive"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:46:52 +0000</string>
+      <string>2017-10-28 08:36:41 +0000</string>
     </dict>
   </lib>
 </glyph>

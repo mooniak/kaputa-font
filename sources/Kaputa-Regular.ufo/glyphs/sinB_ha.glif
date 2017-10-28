@@ -81,19 +81,22 @@
       <point x="454" y="52" type="move" name="sin_Rakar"/>
     </contour>
     <contour>
-      <point x="437" y="489" type="move" name="sinVirama"/>
+      <point x="76" y="533" type="move" name="sinMatraI"/>
     </contour>
     <contour>
       <point x="346" y="38" type="move" name="sinMatraU"/>
     </contour>
     <contour>
-      <point x="76" y="533" type="move" name="sinMatraI"/>
+      <point x="285" y="537" type="move" name="sinReph"/>
+    </contour>
+    <contour>
+      <point x="437" y="489" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:46:52 +0000</string>
+      <string>2017-10-28 08:34:40 +0000</string>
     </dict>
   </lib>
 </glyph>

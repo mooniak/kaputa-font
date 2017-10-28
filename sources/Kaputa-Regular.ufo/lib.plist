@@ -4,6 +4,8 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.font.New Parameter</key>
+	<string>New Value</string>
 	<key>com.schriftgestaltung.font.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
@@ -323,40 +325,7 @@
 		<string>uniVra</string>
 	</array>
 	<key>com.schriftgestaltung.font.license</key>
-	<string><![CDATA[This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-Exception statement follows:
-
-As a special exception, if you create a document which uses this
-font, and embed this font or portions of this font (either
-transformed or not) into the document, this font does not by itself
-cause the resulting document as a whole to be covered by the GNU
-General Public License.  This exception does not however invalidate
-any other reasons why the document might be covered by the GNU
-General Public License.  The material from this font remains
-covered by the GNU General Public License, version 3 or later, even
-when included in the document.
-
-If the font material thus embedded into the document is
-substantially transformed, you may accompany it by a copy of this
-license statement, plus a web reference (URL) to the GNU General
-Public License version 3 instead of a complete copy of that
-license.  If the transformed material is converted back into a
-font, this second exception does not apply to the resulting font.
-
-If you modify this font, you may extend this exception to your
-version of the font, but you are not obligated to do so. If you do
-not wish to do so, delete this exception statement from your
-version and use instead only the text before the words "Exception
-statement follows."]]></string>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>com.schriftgestaltung.font.unicodeRanges</key>
 	<array>
 		<integer>0</integer>
@@ -695,7 +664,311 @@ statement follows."]]></string>
 		</array>
 		<key>com.schriftgestaltung.font.vendorID</key>
 		<string>MS</string>
+		<key>org.unifiedfontobject.normalizer.modTimes</key>
+		<string>version: 0a1
+1509174055.0 fontinfo.plist
+1509174054.0 glyphs/A_.glif
+1509174054.0 glyphs/B_.glif
+1509174054.0 glyphs/C_.glif
+1509174054.0 glyphs/C_R_.glif
+1509174054.0 glyphs/D_.glif
+1509174054.0 glyphs/E_.glif
+1509174054.0 glyphs/F_.glif
+1509174054.0 glyphs/G_.glif
+1509174054.0 glyphs/H_.glif
+1509174054.0 glyphs/I_.glif
+1509174054.0 glyphs/J_.glif
+1509174054.0 glyphs/K_.glif
+1509174054.0 glyphs/L_.glif
+1509174054.0 glyphs/M_.glif
+1509174054.0 glyphs/N_.glif
+1509174054.0 glyphs/O_.glif
+1509174054.0 glyphs/P_.glif
+1509174054.0 glyphs/Q_.glif
+1509174054.0 glyphs/R_.glif
+1509174054.0 glyphs/S_.glif
+1509174054.0 glyphs/T_.glif
+1509174054.0 glyphs/U_.glif
+1509174054.0 glyphs/V_.glif
+1509174054.0 glyphs/W_.glif
+1509174054.0 glyphs/X_.glif
+1509174054.0 glyphs/Y_.glif
+1509174054.0 glyphs/Z_.glif
+1509174054.0 glyphs/_notdef.glif
+1509174054.0 glyphs/_null.glif
+1509174054.0 glyphs/a.glif
+1509174054.0 glyphs/ampersand.glif
+1509174054.0 glyphs/approxequal.glif
+1509174054.0 glyphs/approxequal.osf.glif
+1509174054.0 glyphs/approxequal.tf.glif
+1509174054.0 glyphs/asciicircum.glif
+1509174054.0 glyphs/asciitilde.glif
+1509174054.0 glyphs/asciitilde.osf.glif
+1509174054.0 glyphs/asterisk.glif
+1509174054.0 glyphs/at.glif
+1509174054.0 glyphs/b.glif
+1509174054.0 glyphs/backslash.glif
+1509174054.0 glyphs/bracketleft.glif
+1509174054.0 glyphs/bracketright.glif
+1509174054.0 glyphs/brokenbar.glif
+1509174054.0 glyphs/c.glif
+1509174054.0 glyphs/colon.glif
+1509174054.0 glyphs/comma.glif
+1509174054.0 glyphs/copyright.glif
+1509174054.0 glyphs/d.glif
+1509174054.0 glyphs/divide.glif
+1509174054.0 glyphs/divide.osf.glif
+1509174054.0 glyphs/divide.tf.glif
+1509174054.0 glyphs/dollar.glif
+1509174054.0 glyphs/dottedC_ircle.glif
+1509174054.0 glyphs/e.glif
+1509174054.0 glyphs/eight.glif
+1509174054.0 glyphs/equal.glif
+1509174054.0 glyphs/equal.osf.glif
+1509174054.0 glyphs/equal.tf.glif
+1509174054.0 glyphs/exclam.glif
+1509174054.0 glyphs/f.glif
+1509174054.0 glyphs/five.glif
+1509174054.0 glyphs/four.glif
+1509174054.0 glyphs/g.glif
+1509174054.0 glyphs/grave.glif
+1509174054.0 glyphs/greater.glif
+1509174054.0 glyphs/greater.osf.glif
+1509174054.0 glyphs/greater.tf.glif
+1509174054.0 glyphs/greaterequal.glif
+1509174054.0 glyphs/greaterequal.osf.glif
+1509174054.0 glyphs/greaterequal.tf.glif
+1509174054.0 glyphs/guillemetleft.glif
+1509174054.0 glyphs/guillemetright.glif
+1509174054.0 glyphs/h.glif
+1509174054.0 glyphs/hyphen.glif
+1509174054.0 glyphs/i.glif
+1509174054.0 glyphs/j.glif
+1509174054.0 glyphs/k.glif
+1509174054.0 glyphs/l.glif
+1509174054.0 glyphs/less.glif
+1509174054.0 glyphs/less.osf.glif
+1509174054.0 glyphs/less.tf.glif
+1509174054.0 glyphs/lessequal.glif
+1509174054.0 glyphs/lessequal.osf.glif
+1509174054.0 glyphs/lessequal.tf.glif
+1509174054.0 glyphs/logicalnot.osf.glif
+1509174054.0 glyphs/m.glif
+1509174054.0 glyphs/minus.glif
+1509174054.0 glyphs/minus.osf.glif
+1509174054.0 glyphs/minus.tf.glif
+1509174054.0 glyphs/mooniak.glif
+1509174054.0 glyphs/multiply.glif
+1509174054.0 glyphs/multiply.osf.glif
+1509174055.0 glyphs/multiply.tf.glif
+1509174055.0 glyphs/n.glif
+1509174055.0 glyphs/nbspace.glif
+1509174055.0 glyphs/nine.glif
+1509174055.0 glyphs/notequal.glif
+1509174055.0 glyphs/notequal.osf.glif
+1509174055.0 glyphs/notequal.tf.glif
+1509174055.0 glyphs/numbersign.glif
+1509174055.0 glyphs/o.glif
+1509174055.0 glyphs/one.glif
+1509174055.0 glyphs/p.glif
+1509174055.0 glyphs/paragraph.glif
+1509174055.0 glyphs/parenleft.glif
+1509174055.0 glyphs/parenright.glif
+1509174055.0 glyphs/percent.glif
+1509174055.0 glyphs/period.glif
+1509174055.0 glyphs/periodcentered.glif
+1509174055.0 glyphs/plus.glif
+1509174055.0 glyphs/plus.osf.glif
+1509174055.0 glyphs/plus.tf.glif
+1509174055.0 glyphs/plusminus.glif
+1509174055.0 glyphs/plusminus.osf.glif
+1509174055.0 glyphs/plusminus.tf.glif
+1509174055.0 glyphs/q.glif
+1509174055.0 glyphs/question.glif
+1509174055.0 glyphs/quotedbl.glif
+1509174055.0 glyphs/quotesingle.glif
+1509174055.0 glyphs/r.glif
+1509174055.0 glyphs/registered.glif
+1509174055.0 glyphs/s.glif
+1509174055.0 glyphs/section.glif
+1509174055.0 glyphs/semicolon.glif
+1509174055.0 glyphs/seven.glif
+1509174055.0 glyphs/sinA_.glif
+1509174055.0 glyphs/sinA_a.glif
+1509174055.0 glyphs/sinA_ae.glif
+1509174055.0 glyphs/sinA_e.glif
+1509174055.0 glyphs/sinA_i.glif
+1509174055.0 glyphs/sinA_nusvara.glif
+1509174055.0 glyphs/sinA_u.glif
+1509174055.0 glyphs/sinB_I_.glif
+1509174055.0 glyphs/sinB_I_i.glif
+1509174055.0 glyphs/sinB_a.glif
+1509174055.0 glyphs/sinB_ha.glif
+1509174055.0 glyphs/sinC_I_.glif
+1509174055.0 glyphs/sinC_I_i.glif
+1509174055.0 glyphs/sinC_a.glif
+1509174055.0 glyphs/sinC_ha.glif
+1509174055.0 glyphs/sinD_U_.glif
+1509174055.0 glyphs/sinD_U_u.glif
+1509174055.0 glyphs/sinD_a.glif
+1509174055.0 glyphs/sinD_a.rakar.glif
+1509174055.0 glyphs/sinD_dI_.glif
+1509174055.0 glyphs/sinD_dI_i.glif
+1509174055.0 glyphs/sinD_da.glif
+1509174055.0 glyphs/sinD_dha.glif
+1509174055.0 glyphs/sinD_hI_.glif
+1509174055.0 glyphs/sinD_hI_i.glif
+1509174055.0 glyphs/sinD_ha.glif
+1509174055.0 glyphs/sinE_.glif
+1509174055.0 glyphs/sinE_e.glif
+1509174055.0 glyphs/sinE_ightlith.glif
+1509174055.0 glyphs/sinF_a.glif
+1509174055.0 glyphs/sinF_ivelith.glif
+1509174055.0 glyphs/sinF_ourlith.glif
+1509174055.0 glyphs/sinG_a.glif
+1509174055.0 glyphs/sinG_ha.glif
+1509174055.0 glyphs/sinH_a.glif
+1509174055.0 glyphs/sinI_.glif
+1509174055.0 glyphs/sinI_i.glif
+1509174055.0 glyphs/sinJ_a.glif
+1509174055.0 glyphs/sinJ_ha.glif
+1509174055.0 glyphs/sinJ_nyU_.glif
+1509174055.0 glyphs/sinJ_nyU_u.glif
+1509174055.0 glyphs/sinJ_nya.glif
+1509174055.0 glyphs/sinJ_nya.rakar.glif
+1509174055.0 glyphs/sinK_a.glif
+1509174055.0 glyphs/sinK_a.half.glif
+1509174055.0 glyphs/sinK_hI_.glif
+1509174055.0 glyphs/sinK_hI_i.glif
+1509174055.0 glyphs/sinK_ha.glif
+1509174055.0 glyphs/sinK_undaliya.glif
+1509174055.0 glyphs/sinL_U_.glif
+1509174055.0 glyphs/sinL_U_u.glif
+1509174055.0 glyphs/sinL_a.glif
+1509174055.0 glyphs/sinL_lU_.glif
+1509174055.0 glyphs/sinL_lU_u.glif
+1509174055.0 glyphs/sinL_la.glif
+1509174055.0 glyphs/sinM_I_.glif
+1509174055.0 glyphs/sinM_I_i.glif
+1509174055.0 glyphs/sinM_a.glif
+1509174055.0 glyphs/sinM_atraA_a.glif
+1509174055.0 glyphs/sinM_atraA_ae.glif
+1509174055.0 glyphs/sinM_atraA_e.glif
+1509174055.0 glyphs/sinM_atraA_i.glif
+1509174055.0 glyphs/sinM_atraA_u.glif
+1509174055.0 glyphs/sinM_atraA_u.sechalf.glif
+1509174055.0 glyphs/sinM_atraE_.glif
+1509174055.0 glyphs/sinM_atraE_e.glif
+1509174055.0 glyphs/sinM_atraE_e.sechalf.glif
+1509174055.0 glyphs/sinM_atraI_.alt.glif
+1509174055.0 glyphs/sinM_atraI_.alt1.glif
+1509174055.0 glyphs/sinM_atraI_.alt2.glif
+1509174055.0 glyphs/sinM_atraI_.glif
+1509174055.0 glyphs/sinM_atraI_i.alt.glif
+1509174055.0 glyphs/sinM_atraI_i.glif
+1509174055.0 glyphs/sinM_atraL_l.glif
+1509174055.0 glyphs/sinM_atraL_s.glif
+1509174055.0 glyphs/sinM_atraO_.glif
+1509174055.0 glyphs/sinM_atraO_.sechalf.glif
+1509174055.0 glyphs/sinM_atraO_o.glif
+1509174055.0 glyphs/sinM_atraO_o.sechalf.glif
+1509174055.0 glyphs/sinM_atraR_.glif
+1509174055.0 glyphs/sinM_atraR_r.glif
+1509174055.0 glyphs/sinM_atraU_.alt.glif
+1509174055.0 glyphs/sinM_atraU_.glif
+1509174055.0 glyphs/sinM_atraU_u.alt.glif
+1509174055.0 glyphs/sinM_atraU_u.glif
+1509174055.0 glyphs/sinM_bI_.glif
+1509174055.0 glyphs/sinM_bI_i.glif
+1509174055.0 glyphs/sinM_ba.glif
+1509174055.0 glyphs/sinN_a.glif
+1509174055.0 glyphs/sinN_a.half.glif
+1509174055.0 glyphs/sinN_dU_.glif
+1509174055.0 glyphs/sinN_dU_u.glif
+1509174055.0 glyphs/sinN_da.glif
+1509174055.0 glyphs/sinN_da.rakar.glif
+1509174055.0 glyphs/sinN_dja.glif
+1509174055.0 glyphs/sinN_gI_.glif
+1509174055.0 glyphs/sinN_gI_i.glif
+1509174055.0 glyphs/sinN_ga.glif
+1509174055.0 glyphs/sinN_inelith.glif
+1509174055.0 glyphs/sinN_na.glif
+1509174055.0 glyphs/sinN_nddI_.glif
+1509174055.0 glyphs/sinN_nddI_i.glif
+1509174055.0 glyphs/sinN_ndda.glif
+1509174055.0 glyphs/sinN_nga.glif
+1509174055.0 glyphs/sinN_yU_.glif
+1509174055.0 glyphs/sinN_yU_u.glif
+1509174055.0 glyphs/sinN_ya.glif
+1509174055.0 glyphs/sinO_.glif
+1509174055.0 glyphs/sinO_nelith.glif
+1509174055.0 glyphs/sinO_o.glif
+1509174055.0 glyphs/sinP_a.glif
+1509174055.0 glyphs/sinP_ha.glif
+1509174055.0 glyphs/sinR_A_ae.glif
+1509174055.0 glyphs/sinR_A_e.glif
+1509174055.0 glyphs/sinR_a.glif
+1509174055.0 glyphs/sinR_akar.glif
+1509174055.0 glyphs/sinR_eph.glif
+1509174055.0 glyphs/sinS_a.glif
+1509174055.0 glyphs/sinS_evenlith.glif
+1509174055.0 glyphs/sinS_hR_I_i.glif
+1509174055.0 glyphs/sinS_ha.glif
+1509174055.0 glyphs/sinS_ixlith.glif
+1509174055.0 glyphs/sinS_sa.glif
+1509174055.0 glyphs/sinT_a.glif
+1509174055.0 glyphs/sinT_a.half.glif
+1509174055.0 glyphs/sinT_ha.glif
+1509174055.0 glyphs/sinT_hreelith.glif
+1509174055.0 glyphs/sinT_tI_.glif
+1509174055.0 glyphs/sinT_tI_i.glif
+1509174055.0 glyphs/sinT_ta.glif
+1509174055.0 glyphs/sinT_tha.glif
+1509174055.0 glyphs/sinT_wolith.glif
+1509174055.0 glyphs/sinU_.glif
+1509174055.0 glyphs/sinU_u.glif
+1509174055.0 glyphs/sinV_I_.glif
+1509174055.0 glyphs/sinV_I_i.glif
+1509174055.0 glyphs/sinV_a.glif
+1509174055.0 glyphs/sinV_irama.alt.glif
+1509174055.0 glyphs/sinV_irama.glif
+1509174055.0 glyphs/sinV_irama.touch.glif
+1509174055.0 glyphs/sinV_isarga.glif
+1509174055.0 glyphs/sinV_ocalicR_.glif
+1509174055.0 glyphs/sinV_ocalicR_r.glif
+1509174055.0 glyphs/sinV_ocalicl.glif
+1509174055.0 glyphs/sinV_ocalicll.glif
+1509174055.0 glyphs/sinY_a.glif
+1509174055.0 glyphs/sinY_a.post.glif
+1509174055.0 glyphs/sinZ_erolith.glif
+1509174055.0 glyphs/six.glif
+1509174055.0 glyphs/slash.glif
+1509174055.0 glyphs/space.glif
+1509174055.0 glyphs/t.glif
+1509174055.0 glyphs/three.glif
+1509174055.0 glyphs/trademark.glif
+1509174055.0 glyphs/two.glif
+1509174055.0 glyphs/u.glif
+1509174055.0 glyphs/underscore.glif
+1509174055.0 glyphs/uni0D_B_30D_C_A_200D_0D_A_8.glif
+1509174055.0 glyphs/uni2215.glif
+1509174055.0 glyphs/uni2215.tf.glif
+1509174055.0 glyphs/uni2219.glif
+1509174055.0 glyphs/uni2219.osf.glif
+1509174055.0 glyphs/uni2219.tf.glif
+1509174055.0 glyphs/v.glif
+1509174055.0 glyphs/w.glif
+1509174055.0 glyphs/x.glif
+1509174055.0 glyphs/y.glif
+1509174055.0 glyphs/z.glif
+1509174055.0 glyphs/zero.glif
+1509174055.0 glyphs/zerowidthjoiner.glif
+1509174055.0 glyphs/zerowidthnonjoiner.glif
+1509174055.0 groups.plist
+1509174055.0 metainfo.plist</string>
 	</dict>
+	<key>com.schriftgestaltung.font.vendorID</key>
+	<string>MS</string>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -1136,6 +1409,8 @@ statement follows."]]></string>
 		<string>sinDdIi</string>
 		<string>sinDhI</string>
 		<string>sinDhIi</string>
+		<string>sinJhI</string>
+		<string>sinJhIi</string>
 		<string>sinKhI</string>
 		<string>sinKhIi</string>
 		<string>sinMI</string>
@@ -1211,7 +1486,6 @@ statement follows."]]></string>
 		<string>sinTa.half</string>
 		<string>sinYa.post</string>
 		<string>sinDa.rakar</string>
-		<string>sinJnya.rakar</string>
 		<string>sinNda.rakar</string>
 		<string>sinKa.half</string>
 		<string>sinZerolith</string>
@@ -1281,7 +1555,10 @@ statement follows."]]></string>
 		<string>sinMatraUu.alt</string>
 		<string>sinVirama.alt</string>
 		<string>sinMatraI.alt1</string>
+		<string>sinMatraIi.alt1</string>
 		<string>sinMatraI.alt2</string>
+		<string>sinMatraIi.alt2</string>
+		<string>sinVirama.attatch</string>
 		<string>sinVirama.touch</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
@@ -1303,24 +1580,24 @@ statement follows."]]></string>
 		<string>sinMatraEe.sechalf</string>
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
-		<string>sinJnyUu</string>
-		<string>sinJnyU</string>
-		<string>sinNyUu</string>
-		<string>sinNyU</string>
-		<string>sinNdUu</string>
-		<string>sinNdU</string>
-		<string>sinDUu</string>
+		<string>mooniak</string>
 		<string>sinDU</string>
-		<string>sinShRIi</string>
-		<string>sinRAae</string>
-		<string>sinRAe</string>
-		<string>sinNnddIi</string>
-		<string>sinNnddI</string>
-		<string>sinLUu</string>
-		<string>sinLU</string>
+		<string>sinDUu</string>
+		<string>sinJnyU</string>
+		<string>sinJnyUu</string>
 		<string>sinLlUu</string>
 		<string>sinLlU</string>
-		<string>mooniak</string>
+		<string>sinLU</string>
+		<string>sinLUu</string>
+		<string>sinNdU</string>
+		<string>sinNdUu</string>
+		<string>sinNnddI</string>
+		<string>sinNyU</string>
+		<string>sinNnddIi</string>
+		<string>sinNyUu</string>
+		<string>sinRAae</string>
+		<string>sinRAe</string>
+		<string>sinShRIi</string>
 	</array>
 </dict>
 </plist>

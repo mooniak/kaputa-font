@@ -23,8 +23,11 @@
       <point x="1091" y="144"/>
       <point x="1061" y="46"/>
       <point x="949" y="49" type="curve" smooth="yes"/>
-      <point x="916" y="50"/>
-      <point x="882" y="72"/>
+      <point x="927" y="50"/>
+      <point x="905" y="59"/>
+      <point x="883" y="69" type="curve" smooth="yes"/>
+      <point x="872" y="74"/>
+      <point x="860" y="79"/>
       <point x="849" y="83" type="curve"/>
     </contour>
     <component base="sinTwolith" xOffset="28"/>
@@ -34,7 +37,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>0</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 20:13:27 +0000</string>
+      <string>2017-10-28 06:59:27 +0000</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

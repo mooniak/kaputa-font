@@ -60,11 +60,14 @@
       <point x="69" y="393"/>
       <point x="17" y="298"/>
     </contour>
+    <contour>
+      <point x="46" y="523" type="move" name="sinMatraI"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:45:44 +0000</string>
+      <string>2017-10-28 08:16:14 +0000</string>
     </dict>
   </lib>
 </glyph>

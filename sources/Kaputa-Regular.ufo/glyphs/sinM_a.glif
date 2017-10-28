@@ -38,8 +38,11 @@
       <point x="163" y="413"/>
       <point x="174" y="401"/>
       <point x="174" y="380" type="curve" smooth="yes"/>
-      <point x="174" y="348"/>
-      <point x="153" y="315"/>
+      <point x="174" y="366"/>
+      <point x="170" y="352"/>
+      <point x="165" y="336" type="curve" smooth="yes"/>
+      <point x="160" y="315"/>
+      <point x="153" y="292"/>
       <point x="153" y="264" type="curve" smooth="yes"/>
       <point x="153" y="203"/>
       <point x="194" y="163"/>
@@ -60,12 +63,18 @@
       <point x="218" y="208"/>
       <point x="195" y="229"/>
       <point x="195" y="270" type="curve" smooth="yes"/>
-      <point x="195" y="311"/>
-      <point x="220" y="347"/>
+      <point x="195" y="291"/>
+      <point x="201" y="310"/>
+      <point x="208" y="329" type="curve" smooth="yes"/>
+      <point x="214" y="348"/>
+      <point x="220" y="367"/>
       <point x="220" y="387" type="curve" smooth="yes"/>
       <point x="220" y="430"/>
       <point x="194" y="454"/>
       <point x="153" y="454" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="255" y="617" type="move" name="sinReph"/>
     </contour>
     <contour>
       <point x="146" y="549" type="move" name="sinVirama"/>
@@ -77,7 +86,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-24 18:46:52 +0000</string>
+      <string>2017-10-28 08:37:03 +0000</string>
     </dict>
   </lib>
 </glyph>

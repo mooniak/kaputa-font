@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinJha" format="1">
-  <advance width="1017"/>
-  <unicode hex="0DA3"/>
+<glyph name="sinJhIi" format="1">
+  <advance width="1018"/>
   <outline>
-    <component base="sinDha" xOffset="462"/>
     <component base="sinKa.half" xOffset="39"/>
-    <contour>
-      <point x="695" y="617" type="move" name="sinReph"/>
-    </contour>
+    <component base="sinDhIi" xOffset="470"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 08:36:22 +0000</string>
+      <string>2017-10-28 08:05:23 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>sinDha</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
@@ -22,14 +18,6 @@
           <integer>-1</integer>
           <key>index</key>
           <integer>0</integer>
-          <key>name</key>
-          <string>sinDha</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
           <key>name</key>
           <string>sinKa.half</string>
         </dict>

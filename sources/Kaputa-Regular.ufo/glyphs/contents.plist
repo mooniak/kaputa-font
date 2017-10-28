@@ -330,6 +330,10 @@
 	<string>sinI_i.glif</string>
 	<key>sinJa</key>
 	<string>sinJ_a.glif</string>
+	<key>sinJhI</key>
+	<string>sinJ_hI_.glif</string>
+	<key>sinJhIi</key>
+	<string>sinJ_hI_i.glif</string>
 	<key>sinJha</key>
 	<string>sinJ_ha.glif</string>
 	<key>sinJnyU</key>
@@ -338,8 +342,6 @@
 	<string>sinJ_nyU_u.glif</string>
 	<key>sinJnya</key>
 	<string>sinJ_nya.glif</string>
-	<key>sinJnya.rakar</key>
-	<string>sinJ_nya.rakar.glif</string>
 	<key>sinKa</key>
 	<string>sinK_a.glif</string>
 	<key>sinKa.half</key>
@@ -400,6 +402,10 @@
 	<string>sinM_atraI_i.glif</string>
 	<key>sinMatraIi.alt</key>
 	<string>sinM_atraI_i.alt.glif</string>
+	<key>sinMatraIi.alt1</key>
+	<string>sinM_atraI_i.alt1.glif</string>
+	<key>sinMatraIi.alt2</key>
+	<string>sinM_atraI_i.alt2.glif</string>
 	<key>sinMatraLl</key>
 	<string>sinM_atraL_l.glif</string>
 	<key>sinMatraLs</key>
@@ -532,6 +538,8 @@
 	<string>sinV_irama.glif</string>
 	<key>sinVirama.alt</key>
 	<string>sinV_irama.alt.glif</string>
+	<key>sinVirama.attatch</key>
+	<string>sinV_irama.attatch.glif</string>
 	<key>sinVirama.touch</key>
 	<string>sinV_irama.touch.glif</string>
 	<key>sinVisarga</key>

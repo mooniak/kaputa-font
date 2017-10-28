@@ -11,6 +11,9 @@
     </contour>
     <component base="sinPa"/>
     <contour>
+      <point x="285" y="517" type="move" name="sinReph"/>
+    </contour>
+    <contour>
       <point x="465" y="52" type="move" name="sin_Rakar"/>
     </contour>
     <contour>
@@ -20,7 +23,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 05:07:08 +0000</string>
+      <string>2017-10-28 08:38:26 +0000</string>
     </dict>
   </lib>
 </glyph>

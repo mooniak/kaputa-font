@@ -13,8 +13,11 @@
       <point x="384" y="435"/>
       <point x="354" y="420"/>
       <point x="319" y="420" type="curve" smooth="yes"/>
-      <point x="271" y="420"/>
-      <point x="223" y="472"/>
+      <point x="296" y="420"/>
+      <point x="274" y="431"/>
+      <point x="250" y="444" type="curve" smooth="yes"/>
+      <point x="223" y="457"/>
+      <point x="194" y="472"/>
       <point x="162" y="472" type="curve" smooth="yes"/>
       <point x="126" y="472"/>
       <point x="94" y="458"/>
@@ -23,8 +26,11 @@
       <point x="99" y="417"/>
       <point x="128" y="433"/>
       <point x="163" y="433" type="curve" smooth="yes"/>
-      <point x="211" y="433"/>
-      <point x="259" y="381"/>
+      <point x="186" y="433"/>
+      <point x="208" y="422"/>
+      <point x="232" y="409" type="curve" smooth="yes"/>
+      <point x="259" y="396"/>
+      <point x="288" y="381"/>
       <point x="320" y="381" type="curve" smooth="yes"/>
     </contour>
     <contour>
@@ -35,8 +41,11 @@
       <point x="384" y="268"/>
       <point x="354" y="252"/>
       <point x="319" y="252" type="curve" smooth="yes"/>
-      <point x="271" y="252"/>
-      <point x="223" y="304"/>
+      <point x="296" y="252"/>
+      <point x="274" y="263"/>
+      <point x="250" y="276" type="curve" smooth="yes"/>
+      <point x="223" y="289"/>
+      <point x="194" y="304"/>
       <point x="162" y="304" type="curve" smooth="yes"/>
       <point x="126" y="304"/>
       <point x="94" y="290"/>
@@ -45,15 +54,18 @@
       <point x="99" y="250"/>
       <point x="128" y="266"/>
       <point x="163" y="266" type="curve" smooth="yes"/>
-      <point x="211" y="266"/>
-      <point x="259" y="213"/>
+      <point x="186" y="266"/>
+      <point x="208" y="254"/>
+      <point x="232" y="242" type="curve" smooth="yes"/>
+      <point x="259" y="228"/>
+      <point x="288" y="213"/>
       <point x="320" y="213" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:43 +0000</string>
+      <string>2017-10-28 06:59:27 +0000</string>
     </dict>
   </lib>
 </glyph>

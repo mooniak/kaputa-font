@@ -4,24 +4,28 @@
   <unicode hex="0D9F"/>
   <outline>
     <contour>
-      <point x="43" y="195" type="line"/>
-      <point x="86" y="195" type="line"/>
-      <point x="85" y="248" type="line"/>
-      <point x="85" y="386"/>
-      <point x="103" y="468"/>
-      <point x="227" y="468" type="curve"/>
-      <point x="297" y="505" type="line"/>
-      <point x="207" y="503" type="line"/>
-      <point x="68" y="497"/>
-      <point x="43" y="410"/>
-      <point x="43" y="233" type="curve"/>
+      <point x="35" y="125" type="line"/>
+      <point x="76" y="125" type="line"/>
+      <point x="76" y="304" type="line"/>
+      <point x="76" y="385"/>
+      <point x="113" y="448"/>
+      <point x="183" y="458" type="curve"/>
+      <point x="268" y="466" type="line"/>
+      <point x="281" y="505" type="line"/>
+      <point x="179" y="494" type="line"/>
+      <point x="85" y="484"/>
+      <point x="35" y="419"/>
+      <point x="35" y="302" type="curve" smooth="yes"/>
     </contour>
     <component base="sinGa" xOffset="92"/>
+    <contour>
+      <point x="375" y="527" type="move" name="sinReph"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 06:10:17 +0000</string>
+      <string>2017-10-28 08:38:02 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>sinGa</string>
     </dict>

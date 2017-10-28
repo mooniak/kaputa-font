@@ -38,6 +38,8 @@
 	<integer>-254</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>36</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>MS</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -48,11 +50,21 @@
 	<integer>287</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-9</integer>
+		<integer>0</integer>
+		<integer>423</integer>
+		<integer>438</integer>
+		<integer>571</integer>
+		<integer>586</integer>
+		<integer>746</integer>
+		<integer>762</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Kaputa-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
+		<integer>-270</integer>
+		<integer>-254</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
