@@ -1,12 +1,15 @@
 # Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
 languagesystem sinh dflt;
 
 # Prefix: Prefix
-# GSUB 
+# GSUB
 lookup akhnAkhandinSinhalalookup7 {
   lookupflag 0;
     sub sinVirama zerowidthjoiner by sinVirama.attatch;
 } akhnAkhandinSinhalalookup7;
+
 lookup akhn_02 {
   lookupflag 0;
     sub sinKa' sinVirama.attatch sinSsa by sinKa.half;
@@ -129,6 +132,8 @@ lookup abvsAboveBaseSubstitutionsinSinhalalookup8 {
     sub sinVa sinMatraIi  by sinVIi;
     sub sinJha sinMatraI by sinJhI;
     sub sinJha sinMatraIi by sinJhIi;
+    sub sinRa sinMatraI by sinRI;
+    sub sinRa sinMatraIi by sinRIi;
 
 } abvsAboveBaseSubstitutionsinSinhalalookup8;
 lookup abvs_06{
@@ -186,7 +191,7 @@ sub sinMa' sinRakar sinMatraIi.empty by sinMIi;
 sub sinMba' sinRakar sinMatraIi.empty by sinMbIi;
 sub sinVa' sinRakar sinMatraIi.empty by sinVIi;
 sub sinJha' sinRakar sinMatraIi.empty by sinJhIi;
-    
+
 } abvs_07;
 
 lookup blwsBelowBaseSubstitutionsinSinhalalookup9{
@@ -231,7 +236,7 @@ lookup sin_touching_1 {
   sub sinNga zerowidthjoiner sinVirama'  by sinVirama.touch;
   sub sinNga zerowidthjoiner sinVirama'  by sinVirama.touch;
 } sin_touching_1;
-	
+
 lookup sin_touching_2 {
  pos sinKa' sinVirama.touch sinKa <0 0 -65 0> ;
  pos sinKa' sinVirama.touch sinTa <0 0 -75 0> ;
@@ -289,7 +294,7 @@ feature pstf {
      language dflt ;
       lookup pstf1;
       lookup pstfPostBaseFormsinSinhalalookup5;
-      
+
 } pstf;
 
 feature psts {
@@ -338,3 +343,89 @@ feature ss06 {
     lookup sin_lithnum_style;
 } ss06;
 
+feature aalt {
+# automatic
+feature lnum;
+feature pnum;
+feature tnum;
+feature onum;
+} aalt;
+
+feature lnum {
+# automatic
+sub uni2219.osf by uni2219;
+sub plus.osf by plus;
+sub minus.osf by minus;
+sub multiply.osf by multiply;
+sub divide.osf by divide;
+sub equal.osf by equal;
+sub notequal.osf by notequal;
+sub greater.osf by greater;
+sub less.osf by less;
+sub greaterequal.osf by greaterequal;
+sub lessequal.osf by lessequal;
+sub plusminus.osf by plusminus;
+sub approxequal.osf by approxequal;
+sub asciitilde.osf by asciitilde;
+} lnum;
+
+feature pnum {
+# automatic
+sub uni2219.tf by uni2219;
+sub uni2215.tf by uni2215;
+sub plus.tf by plus;
+sub minus.tf by minus;
+sub multiply.tf by multiply;
+sub divide.tf by divide;
+sub equal.tf by equal;
+sub notequal.tf by notequal;
+sub greater.tf by greater;
+sub less.tf by less;
+sub greaterequal.tf by greaterequal;
+sub lessequal.tf by lessequal;
+sub plusminus.tf by plusminus;
+sub approxequal.tf by approxequal;
+} pnum;
+
+feature tnum {
+# automatic
+sub uni2219 by uni2219.tf;
+sub uni2215 by uni2215.tf;
+sub plus by plus.tf;
+sub minus by minus.tf;
+sub multiply by multiply.tf;
+sub divide by divide.tf;
+sub equal by equal.tf;
+sub notequal by notequal.tf;
+sub greater by greater.tf;
+sub less by less.tf;
+sub greaterequal by greaterequal.tf;
+sub lessequal by lessequal.tf;
+sub plusminus by plusminus.tf;
+sub approxequal by approxequal.tf;
+} tnum;
+
+feature onum {
+# automatic
+sub uni2219 by uni2219.osf;
+sub plus by plus.osf;
+sub minus by minus.osf;
+sub multiply by multiply.osf;
+sub divide by divide.osf;
+sub equal by equal.osf;
+sub notequal by notequal.osf;
+sub greater by greater.osf;
+sub less by less.osf;
+sub greaterequal by greaterequal.osf;
+sub lessequal by lessequal.osf;
+sub plusminus by plusminus.osf;
+sub approxequal by approxequal.osf;
+sub asciitilde by asciitilde.osf;
+} onum;
+
+@BASE = [ sinBa sinBha sinCa sinCha sinDa sinDda sinDdha sinDha sinE sinEe sinFa sinGa sinGha sinHa sinI sinIi sinJa sinJha sinJnya sinKa sinKha sinLa sinLla sinMa sinMba sinNa sinNda sinNdja sinNga sinNna sinNndda sinNnga sinNya sinPa sinPha sinRa sinSa sinSha sinSsa sinTa sinTha sinTta sinTtha sinVa sinVocalicR sinVocalicRr sinVocalicl sinVocalicll sinYa sinDa.rakar sinKa.half sinNa.half sinNda.rakar sinTa.half  ];
+@MARKS = [ sinMatraI sinMatraIi sinMatraU sinMatraUu sinVirama sinMatraI.alt sinMatraI.alt1 sinMatraI.alt2 sinMatraI.empty sinMatraIi.alt sinMatraIi.alt1 sinMatraIi.alt2 sinMatraIi.empty sinMatraU.alt sinMatraUu.alt sinVirama.alt sinVirama.attatch sinVirama.touch sinMatraEe.sechalf ];
+
+table GDEF {
+  GlyphClassDef @BASE,,@MARKS,;
+} GDEF;

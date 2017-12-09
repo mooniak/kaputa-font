@@ -57,10 +57,10 @@
       <point x="265" y="547" type="move" name="sinReph"/>
     </contour>
     <contour>
-      <point x="414" y="469" type="move" name="sinVirama"/>
+      <point x="93" y="513" type="move" name="sinMatraI"/>
     </contour>
     <contour>
-      <point x="73" y="533" type="move" name="sinMatraI"/>
+      <point x="414" y="469" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>
@@ -68,7 +68,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:22 +0000</string>
+      <string>2017-12-09 07:38:51 +0000</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

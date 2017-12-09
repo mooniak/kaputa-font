@@ -70,10 +70,10 @@
       <point x="255" y="617" type="move" name="sinReph"/>
     </contour>
     <contour>
-      <point x="411" y="489" type="move" name="sinVirama"/>
+      <point x="84" y="526" type="move" name="sinMatraI"/>
     </contour>
     <contour>
-      <point x="84" y="526" type="move" name="sinMatraI"/>
+      <point x="411" y="489" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>

@@ -288,8 +288,6 @@
 	<string>sinC_a.glif</string>
 	<key>sinCha</key>
 	<string>sinC_ha.glif</string>
-	<key>sinCha.001</key>
-	<string>sinC_ha.001.glif</string>
 	<key>sinDU</key>
 	<string>sinD_U_.glif</string>
 	<key>sinDUu</key>
@@ -498,6 +496,10 @@
 	<string>sinR_A_ae.glif</string>
 	<key>sinRAe</key>
 	<string>sinR_A_e.glif</string>
+	<key>sinRI</key>
+	<string>sinR_I_.glif</string>
+	<key>sinRIi</key>
+	<string>sinR_I_i.glif</string>
 	<key>sinRa</key>
 	<string>sinR_a.glif</string>
 	<key>sinRakar</key>

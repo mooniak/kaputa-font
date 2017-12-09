@@ -118,16 +118,16 @@
       <point x="456" y="2" type="line"/>
     </contour>
     <contour>
-      <point x="601" y="702" type="line"/>
-      <point x="556" y="702" type="line"/>
-      <point x="560" y="525" type="line"/>
-      <point x="602" y="524" type="line"/>
+      <point x="581" y="662" type="line"/>
+      <point x="536" y="662" type="line"/>
+      <point x="540" y="485" type="line"/>
+      <point x="582" y="484" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:22 +0000</string>
+      <string>2017-12-09 07:22:55 +0000</string>
     </dict>
   </lib>
 </glyph>

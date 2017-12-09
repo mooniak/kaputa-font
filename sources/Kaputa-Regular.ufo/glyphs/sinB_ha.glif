@@ -87,10 +87,10 @@
       <point x="346" y="38" type="move" name="sinMatraU"/>
     </contour>
     <contour>
-      <point x="437" y="489" type="move" name="sinVirama"/>
+      <point x="76" y="533" type="move" name="sinMatraI"/>
     </contour>
     <contour>
-      <point x="76" y="533" type="move" name="sinMatraI"/>
+      <point x="437" y="489" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>

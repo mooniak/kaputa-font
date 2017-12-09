@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNnddI" format="1">
   <advance width="657"/>
-  <note>
-    
-  </note>
   <outline>
     <contour>
       <point x="86" y="125" type="line"/>
@@ -24,7 +21,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:57:09 +0000</string>
+      <string>2017-10-28 13:49:20 +0000</string>
     </dict>
   </lib>
 </glyph>

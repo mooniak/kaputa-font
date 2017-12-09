@@ -389,31 +389,7 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
-		<string>sinBI</string>
-		<string>sinBIi</string>
-		<string>sinCI</string>
-		<string>sinCIi</string>
-		<string>sinDdI</string>
-		<string>sinDdIi</string>
-		<string>sinDhI</string>
-		<string>sinDhIi</string>
-		<string>sinJhI</string>
-		<string>sinJhIi</string>
-		<string>sinKhI</string>
-		<string>sinKhIi</string>
-		<string>sinMI</string>
-		<string>sinMIi</string>
-		<string>sinMbI</string>
-		<string>sinMbIi</string>
 		<string>uni0DB30DCA200D0DA8</string>
-		<string>sinNgI</string>
-		<string>sinNgIi</string>
-		<string>sinNnddI</string>
-		<string>sinNnddIi</string>
-		<string>sinTtI</string>
-		<string>sinTtIi</string>
-		<string>sinVI</string>
-		<string>sinVIi</string>
 		<string>sinA</string>
 		<string>sinAa</string>
 		<string>sinAae</string>
@@ -469,16 +445,16 @@
 		<string>sinUu</string>
 		<string>sinVa</string>
 		<string>sinVocalicR</string>
+		<string>sinVocalicRr</string>
 		<string>sinVocalicl</string>
 		<string>sinVocalicll</string>
 		<string>sinYa</string>
+		<string>sinDa.rakar</string>
+		<string>sinKa.half</string>
 		<string>sinNa.half</string>
+		<string>sinNda.rakar</string>
 		<string>sinTa.half</string>
 		<string>sinYa.post</string>
-		<string>sinDa.rakar</string>
-		<string>sinNda.rakar</string>
-		<string>sinCha.001</string>
-		<string>sinKa.half</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -589,21 +565,19 @@
 		<string>sinMatraIi</string>
 		<string>sinMatraU</string>
 		<string>sinMatraUu</string>
-		<string>sinRakar</string>
-		<string>sinReph</string>
 		<string>sinVirama</string>
 		<string>sinMatraI.alt</string>
+		<string>sinMatraI.alt1</string>
+		<string>sinMatraI.alt2</string>
+		<string>sinMatraI.empty</string>
 		<string>sinMatraIi.alt</string>
+		<string>sinMatraIi.alt1</string>
+		<string>sinMatraIi.alt2</string>
+		<string>sinMatraIi.empty</string>
 		<string>sinMatraU.alt</string>
 		<string>sinMatraUu.alt</string>
 		<string>sinVirama.alt</string>
-		<string>sinMatraI.alt1</string>
-		<string>sinMatraIi.alt1</string>
-		<string>sinMatraI.alt2</string>
-		<string>sinMatraIi.alt2</string>
 		<string>sinVirama.attatch</string>
-		<string>sinMatraI.empty</string>
-		<string>sinMatraIi.empty</string>
 		<string>sinVirama.touch</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
@@ -620,29 +594,56 @@
 		<string>sinMatraR</string>
 		<string>sinMatraRr</string>
 		<string>sinVisarga</string>
-		<string>sinVocalicRr</string>
 		<string>sinMatraAu.sechalf</string>
 		<string>sinMatraEe.sechalf</string>
 		<string>sinMatraO.sechalf</string>
 		<string>sinMatraOo.sechalf</string>
+		<string>_i.part</string>
+		<string>_ii.part</string>
 		<string>mooniak</string>
+		<string>sinBI</string>
+		<string>sinBIi</string>
+		<string>sinCI</string>
+		<string>sinCIi</string>
+		<string>sinDdI</string>
+		<string>sinDhI</string>
+		<string>sinDdIi</string>
+		<string>sinDhIi</string>
 		<string>sinDU</string>
 		<string>sinDUu</string>
+		<string>sinJhI</string>
+		<string>sinJhIi</string>
 		<string>sinJnyU</string>
 		<string>sinJnyUu</string>
-		<string>sinLlU</string>
+		<string>sinKhI</string>
+		<string>sinKhIi</string>
 		<string>sinLlUu</string>
+		<string>sinLlU</string>
 		<string>sinLU</string>
 		<string>sinLUu</string>
+		<string>sinMbIi</string>
+		<string>sinMI</string>
+		<string>sinMbI</string>
+		<string>sinMIi</string>
 		<string>sinNdU</string>
 		<string>sinNdUu</string>
+		<string>sinNgI</string>
+		<string>sinNgIi</string>
+		<string>sinNnddI</string>
+		<string>sinNnddIi</string>
 		<string>sinNyU</string>
 		<string>sinNyUu</string>
 		<string>sinRAae</string>
 		<string>sinRAe</string>
+		<string>sinRakar</string>
+		<string>sinReph</string>
 		<string>sinShRIi</string>
-		<string>_i.part</string>
-		<string>_ii.part</string>
+		<string>sinTtIi</string>
+		<string>sinTtI</string>
+		<string>sinVI</string>
+		<string>sinVIi</string>
+		<string>sinRI</string>
+		<string>sinRIi</string>
 	</array>
 </dict>
 </plist>
