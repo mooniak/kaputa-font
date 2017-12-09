@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinVirama.alt" format="1">
-  <advance width="0"/>
+<glyph name="sinVirama.alt" format="2">
+  <anchor x="-436" y="559" name="_sinVirama"/>
   <outline>
     <contour>
       <point x="-63" y="532"/>
@@ -26,9 +26,6 @@
       <point x="-102" y="612"/>
       <point x="-102" y="547" type="curve"/>
       <point x="-65" y="528" type="line"/>
-    </contour>
-    <contour>
-      <point x="-436" y="559" type="move" name="_sinVirama"/>
     </contour>
   </outline>
   <lib>

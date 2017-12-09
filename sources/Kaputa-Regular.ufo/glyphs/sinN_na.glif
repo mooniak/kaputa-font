@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNna" format="1">
+<glyph name="sinNna" format="2">
   <advance width="754"/>
   <unicode hex="0DAB"/>
+  <anchor x="535" y="547" name="sinReph"/>
+  <anchor x="189" y="533" name="sinMatraI"/>
+  <anchor x="660" y="489" name="sinVirama"/>
   <outline>
     <contour>
       <point x="682" y="0"/>
@@ -122,15 +125,6 @@
       <point x="392" y="588" type="line"/>
       <point x="298" y="470" type="line"/>
       <point x="328" y="443" type="line"/>
-    </contour>
-    <contour>
-      <point x="535" y="547" type="move" name="sinReph"/>
-    </contour>
-    <contour>
-      <point x="189" y="533" type="move" name="sinMatraI"/>
-    </contour>
-    <contour>
-      <point x="660" y="489" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>

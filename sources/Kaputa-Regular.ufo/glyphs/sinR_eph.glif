@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinReph" format="1">
-  <advance width="0"/>
+<glyph name="sinReph" format="2">
+  <anchor x="-1" y="517" name="_sinReph"/>
   <outline>
     <contour>
       <point x="39" y="502"/>
@@ -64,9 +64,6 @@
       <point x="51" y="555"/>
       <point x="37" y="541"/>
       <point x="13" y="541" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-1" y="517" type="move" name="_sinReph"/>
     </contour>
   </outline>
   <lib>

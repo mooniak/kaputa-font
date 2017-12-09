@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinJnya" format="1">
+<glyph name="sinJnya" format="2">
   <advance width="938"/>
   <unicode hex="0DA5"/>
+  <anchor x="695" y="556" name="sinReph"/>
+  <anchor x="553" y="533" name="sinMatraI"/>
+  <anchor x="807" y="476" name="sinVirama"/>
   <outline>
     <contour>
       <point x="373" y="0"/>
@@ -131,15 +134,6 @@
       <point x="95" y="208" type="line"/>
     </contour>
     <component base="sinDa" xOffset="462"/>
-    <contour>
-      <point x="695" y="556" type="move" name="sinReph"/>
-    </contour>
-    <contour>
-      <point x="553" y="533" type="move" name="sinMatraI"/>
-    </contour>
-    <contour>
-      <point x="807" y="476" type="move" name="sinVirama"/>
-    </contour>
   </outline>
   <lib>
     <dict>

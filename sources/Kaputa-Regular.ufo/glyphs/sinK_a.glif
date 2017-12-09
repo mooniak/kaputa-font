@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinKa" format="1">
+<glyph name="sinKa" format="2">
   <advance width="632"/>
   <unicode hex="0D9A"/>
+  <anchor x="114" y="533" name="sinMatraI"/>
+  <anchor x="522" y="52" name="sin_Rakar"/>
+  <anchor x="430" y="38" name="sinMatraU"/>
+  <anchor x="485" y="462" name="sinVirama"/>
+  <anchor x="566" y="1" name="cursive"/>
+  <anchor x="305" y="538" name="sinReph"/>
+  <anchor x="26" y="-1" name="_cursive"/>
   <outline>
     <contour>
       <point x="548" y="-2"/>
@@ -89,27 +96,6 @@
       <point x="190" y="62"/>
       <point x="164" y="41"/>
       <point x="134" y="41" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="114" y="533" type="move" name="sinMatraI"/>
-    </contour>
-    <contour>
-      <point x="522" y="52" type="move" name="sin_Rakar"/>
-    </contour>
-    <contour>
-      <point x="430" y="38" type="move" name="sinMatraU"/>
-    </contour>
-    <contour>
-      <point x="485" y="462" type="move" name="sinVirama"/>
-    </contour>
-    <contour>
-      <point x="566" y="1" type="move" name="cursive"/>
-    </contour>
-    <contour>
-      <point x="305" y="538" type="move" name="sinReph"/>
-    </contour>
-    <contour>
-      <point x="26" y="-1" type="move" name="_cursive"/>
     </contour>
   </outline>
   <lib>

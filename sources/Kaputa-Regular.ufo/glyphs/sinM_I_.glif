@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMI" format="1">
+<glyph name="sinMI" format="2">
   <advance width="546"/>
+  <anchor x="453" y="102" name="sin_Rakar"/>
   <outline>
     <contour>
       <point x="408" y="-5"/>
@@ -55,9 +56,6 @@
       <point x="258" y="-5" type="curve" smooth="yes"/>
     </contour>
     <component base="_i.part" xOffset="27"/>
-    <contour>
-      <point x="453" y="102" type="move" name="sin_Rakar"/>
-    </contour>
   </outline>
   <lib>
     <dict>

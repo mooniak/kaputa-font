@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinGha" format="1">
+<glyph name="sinGha" format="2">
   <advance width="506"/>
   <unicode hex="0D9D"/>
+  <anchor x="437" y="52" name="sin_Rakar"/>
+  <anchor x="235" y="538" name="sinReph"/>
+  <anchor x="29" y="533" name="sinMatraI"/>
+  <anchor x="390" y="489" name="sinVirama"/>
   <outline>
     <contour>
       <point x="380" y="-1"/>
@@ -180,18 +184,6 @@
       <point x="416" y="391"/>
       <point x="416" y="389" type="curve"/>
       <point x="277" y="389" type="line"/>
-    </contour>
-    <contour>
-      <point x="437" y="52" type="move" name="sin_Rakar"/>
-    </contour>
-    <contour>
-      <point x="235" y="538" type="move" name="sinReph"/>
-    </contour>
-    <contour>
-      <point x="29" y="533" type="move" name="sinMatraI"/>
-    </contour>
-    <contour>
-      <point x="390" y="489" type="move" name="sinVirama"/>
     </contour>
   </outline>
   <lib>

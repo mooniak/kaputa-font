@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraIi.alt" format="1">
-  <advance width="0"/>
+<glyph name="sinMatraIi.alt" format="2">
+  <anchor x="-476" y="551" name="_sinMatraI"/>
   <outline>
     <contour>
       <point x="-144" y="530"/>
@@ -36,9 +36,6 @@
       <point x="-283" y="571"/>
       <point x="-268" y="530"/>
       <point x="-206" y="530" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-476" y="551" type="move" name="_sinMatraI"/>
     </contour>
   </outline>
   <lib>

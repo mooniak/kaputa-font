@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinVirama.touch" format="1">
-  <advance width="0"/>
+<glyph name="sinVirama.touch" format="2">
+  <anchor x="-288" y="487" name="_sinVirama"/>
   <outline>
-    <contour>
-      <point x="-288" y="487" type="move" name="_sinVirama"/>
-    </contour>
   </outline>
   <lib>
     <dict>

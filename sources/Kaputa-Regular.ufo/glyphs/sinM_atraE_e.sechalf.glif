@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraEe.sechalf" format="1">
-  <advance width="0"/>
+<glyph name="sinMatraEe.sechalf" format="2">
+  <anchor x="-100" y="467" name="_sinVirama"/>
   <outline>
     <contour>
       <point x="-77" y="468" type="line"/>
       <point x="-77" y="665" type="line"/>
       <point x="-122" y="665" type="line"/>
       <point x="-122" y="468" type="line"/>
-    </contour>
-    <contour>
-      <point x="-100" y="467" type="move" name="_sinVirama"/>
     </contour>
   </outline>
   <lib>
