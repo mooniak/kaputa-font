@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="2">
-  <advance width="269"/>
-  <unicode hex="005B"/>
-  <note>
-    bracketleft
+	<advance width="269"/>
+	<unicode hex="005B"/>
+	<note>
+		bracketleft
   </note>
-  <outline>
-    <contour>
-      <point x="287" y="-198" type="line"/>
-      <point x="287" y="-159" type="line"/>
-      <point x="131" y="-159" type="line"/>
-      <point x="131" y="689" type="line"/>
-      <point x="287" y="689" type="line"/>
-      <point x="287" y="729" type="line"/>
-      <point x="86" y="729" type="line"/>
-      <point x="86" y="-198" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:26 +0000</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="287" y="-198" type="line"/>
+			<point x="287" y="-159" type="line"/>
+			<point x="131" y="-159" type="line"/>
+			<point x="131" y="689" type="line"/>
+			<point x="287" y="689" type="line"/>
+			<point x="287" y="729" type="line"/>
+			<point x="86" y="729" type="line"/>
+			<point x="86" y="-198" type="line"/>
+		</contour>
+	</outline>
 </glyph>

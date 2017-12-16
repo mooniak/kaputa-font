@@ -1,54 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinFourlith" format="2">
-  <advance width="551"/>
-  <unicode hex="0DEA"/>
-  <anchor x="465" y="52" name="sin_Rakar"/>
-  <outline>
-    <contour>
-      <point x="251" y="471"/>
-      <point x="229" y="507"/>
-      <point x="178" y="506" type="curve" smooth="yes"/>
-      <point x="137" y="505"/>
-      <point x="71" y="482"/>
-      <point x="71" y="407" type="curve" smooth="yes"/>
-      <point x="71" y="365"/>
-      <point x="103" y="350"/>
-      <point x="147" y="350" type="curve" smooth="yes"/>
-      <point x="185" y="350"/>
-      <point x="199" y="392"/>
-      <point x="198" y="415" type="curve"/>
-      <point x="199" y="465"/>
-      <point x="145" y="488"/>
-      <point x="125" y="488" type="curve" smooth="yes"/>
-      <point x="25" y="488" type="line"/>
-      <point x="22" y="453" type="line"/>
-      <point x="123" y="453" type="line"/>
-      <point x="135" y="452"/>
-      <point x="166" y="442"/>
-      <point x="166" y="422" type="curve" smooth="yes"/>
-      <point x="166" y="401"/>
-      <point x="144" y="385"/>
-      <point x="135" y="386" type="curve" smooth="yes"/>
-      <point x="125" y="386"/>
-      <point x="110" y="391"/>
-      <point x="110" y="411" type="curve" smooth="yes"/>
-      <point x="110" y="434"/>
-      <point x="139" y="464"/>
-      <point x="178" y="464" type="curve" smooth="yes"/>
-      <point x="257" y="464"/>
-      <point x="237" y="436"/>
-      <point x="240" y="444" type="curve" smooth="yes"/>
-    </contour>
-    <component base="sinJa"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 13:10:48 +0000</string>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
+	<advance width="551"/>
+	<unicode hex="0DEA"/>
+	<outline>
+		<contour>
+			<point x="251" y="471"/>
+			<point x="229" y="507"/>
+			<point x="178" y="506" type="curve" smooth="yes"/>
+			<point x="137" y="505"/>
+			<point x="71" y="482"/>
+			<point x="71" y="407" type="curve" smooth="yes"/>
+			<point x="71" y="365"/>
+			<point x="103" y="350"/>
+			<point x="147" y="350" type="curve" smooth="yes"/>
+			<point x="185" y="350"/>
+			<point x="199" y="392"/>
+			<point x="198" y="415" type="curve"/>
+			<point x="199" y="465"/>
+			<point x="145" y="488"/>
+			<point x="125" y="488" type="curve" smooth="yes"/>
+			<point x="25" y="488" type="line"/>
+			<point x="22" y="453" type="line"/>
+			<point x="123" y="453" type="line"/>
+			<point x="135" y="452"/>
+			<point x="166" y="442"/>
+			<point x="166" y="422" type="curve" smooth="yes"/>
+			<point x="166" y="401"/>
+			<point x="144" y="385"/>
+			<point x="135" y="386" type="curve" smooth="yes"/>
+			<point x="125" y="386"/>
+			<point x="110" y="391"/>
+			<point x="110" y="411" type="curve" smooth="yes"/>
+			<point x="110" y="434"/>
+			<point x="139" y="464"/>
+			<point x="178" y="464" type="curve" smooth="yes"/>
+			<point x="257" y="464"/>
+			<point x="237" y="436"/>
+			<point x="240" y="444" type="curve" smooth="yes"/>
+		</contour>
+		<component base="sinJa"/>
+	</outline>
+	<anchor name="sin_Rakar" x="465" y="52"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>0</integer>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
 </glyph>

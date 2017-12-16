@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinVirama.attatch" format="2">
-  <anchor x="-288" y="487" name="_sinVirama"/>
-  <outline>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 07:40:06 +0000</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<outline>
+	</outline>
+	<anchor name="_sinVirama" x="-288" y="487"/>
 </glyph>

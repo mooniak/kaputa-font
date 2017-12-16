@@ -1,9 +1,13 @@
+@BASE = [ sinBa sinBha sinCa sinCha sinDa sinDda sinDdha sinDha sinE sinEe sinFa sinGa sinGha sinHa sinI sinIi sinJa sinJha sinJnya sinKa sinKha sinLa sinLla sinMa sinMba sinNa sinNda sinNdja sinNga sinNna sinNndda sinNnga sinNya sinPa sinPha sinRa sinSa sinSha sinSsa sinTa sinTha sinTta sinTtha sinVa sinVocalicR sinVocalicRr sinVocalicl sinVocalicll sinYa sinDa.rakar sinKa.half sinNa.half sinNda.rakar sinTa.half ];
+
+@MARKS = [ sinMatraI sinMatraIi sinMatraU sinMatraUu sinVirama sinMatraI.alt sinMatraI.alt1 sinMatraI.alt2 sinMatraI.empty sinMatraIi.alt sinMatraIi.alt1 sinMatraIi.alt2 sinMatraIi.empty sinMatraU.alt sinMatraUu.alt sinVirama.alt sinVirama.attatch sinVirama.touch sinMatraEe.sechalf ];
+
 # Prefix: Languagesystems
-# automatic
 languagesystem DFLT dflt;
 languagesystem sinh dflt;
 
 # Prefix: Prefix
+# automatic
 # GSUB
 lookup akhnAkhandinSinhalalookup7 {
   lookupflag 0;
@@ -281,6 +285,10 @@ lookup sin_lithnum_style {
 	sub nine by sinNinelith;
 } sin_lithnum_style;
 
+table GDEF {
+  GlyphClassDef @BASE,,@MARKS,;
+} GDEF;
+
 feature vatu {
  script sinh;
      language dflt ;
@@ -294,7 +302,6 @@ feature pstf {
      language dflt ;
       lookup pstf1;
       lookup pstfPostBaseFormsinSinhalalookup5;
-
 } pstf;
 
 feature psts {
@@ -423,9 +430,3 @@ sub approxequal by approxequal.osf;
 sub asciitilde by asciitilde.osf;
 } onum;
 
-@BASE = [ sinBa sinBha sinCa sinCha sinDa sinDda sinDdha sinDha sinE sinEe sinFa sinGa sinGha sinHa sinI sinIi sinJa sinJha sinJnya sinKa sinKha sinLa sinLla sinMa sinMba sinNa sinNda sinNdja sinNga sinNna sinNndda sinNnga sinNya sinPa sinPha sinRa sinSa sinSha sinSsa sinTa sinTha sinTta sinTtha sinVa sinVocalicR sinVocalicRr sinVocalicl sinVocalicll sinYa sinDa.rakar sinKa.half sinNa.half sinNda.rakar sinTa.half  ];
-@MARKS = [ sinMatraI sinMatraIi sinMatraU sinMatraUu sinVirama sinMatraI.alt sinMatraI.alt1 sinMatraI.alt2 sinMatraI.empty sinMatraIi.alt sinMatraIi.alt1 sinMatraIi.alt2 sinMatraIi.empty sinMatraU.alt sinMatraUu.alt sinVirama.alt sinVirama.attatch sinVirama.touch sinMatraEe.sechalf ];
-
-table GDEF {
-  GlyphClassDef @BASE,,@MARKS,;
-} GDEF;

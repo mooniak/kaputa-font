@@ -2,44 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>@MMK_L_A</key>
-	<array>
-		<string>A</string>
-	</array>
-	<key>@MMK_L_AE</key>
-	<array>
-		<string>E</string>
-	</array>
-	<key>@MMK_L_B</key>
+	<key>public.kern1.B</key>
 	<array>
 		<string>B</string>
 		<string>three</string>
 		<string>eight</string>
 	</array>
-	<key>@MMK_L_C</key>
-	<array>
-		<string>C</string>
-	</array>
-	<key>@MMK_L_D</key>
-	<array>
-		<string>D</string>
-		<string>O</string>
-		<string>Q</string>
-		<string>zero</string>
-		<string>nine</string>
-		<string>parenright</string>
-		<string>at</string>
-		<string>copyright</string>
-	</array>
-	<key>@MMK_L_F</key>
+	<key>public.kern1.F</key>
 	<array>
 		<string>F</string>
 	</array>
-	<key>@MMK_L_G</key>
+	<key>public.kern1.G</key>
 	<array>
 		<string>G</string>
 	</array>
-	<key>@MMK_L_H</key>
+	<key>public.kern1.H</key>
 	<array>
 		<string>H</string>
 		<string>I</string>
@@ -50,90 +27,64 @@
 		<string>bracketright</string>
 		<string>paragraph</string>
 	</array>
-	<key>@MMK_L_K</key>
+	<key>public.kern1.K</key>
 	<array>
 		<string>K</string>
 	</array>
-	<key>@MMK_L_L</key>
+	<key>public.kern1.L</key>
 	<array>
 		<string>L</string>
 	</array>
-	<key>@MMK_L_P</key>
-	<array>
-		<string>P</string>
-	</array>
-	<key>@MMK_L_R</key>
-	<array>
-		<string>R</string>
-	</array>
-	<key>@MMK_L_S</key>
+	<key>public.kern1.S</key>
 	<array>
 		<string>S</string>
 		<string>dollar</string>
 	</array>
-	<key>@MMK_L_T</key>
+	<key>public.kern1.T</key>
 	<array>
 		<string>T</string>
 	</array>
-	<key>@MMK_L_U</key>
+	<key>public.kern1.U</key>
 	<array>
 		<string>U</string>
 	</array>
-	<key>@MMK_L_V</key>
+	<key>public.kern1.V</key>
 	<array>
 		<string>V</string>
 		<string>W</string>
 		<string>seven</string>
 	</array>
-	<key>@MMK_L_X</key>
+	<key>public.kern1.X</key>
 	<array>
 		<string>X</string>
 	</array>
-	<key>@MMK_L_Y</key>
-	<array>
-		<string>Y</string>
-	</array>
-	<key>@MMK_L_a</key>
+	<key>public.kern1.a</key>
 	<array>
 		<string>a</string>
 		<string>h</string>
 		<string>m</string>
 		<string>n</string>
 	</array>
-	<key>@MMK_L_ae</key>
-	<array>
-		<string>e</string>
-	</array>
-	<key>@MMK_L_asterisk</key>
-	<array>
-		<string>asterisk</string>
-	</array>
-	<key>@MMK_L_b</key>
+	<key>public.kern1.b</key>
 	<array>
 		<string>b</string>
 		<string>o</string>
 		<string>p</string>
 	</array>
-	<key>@MMK_L_braceleft</key>
+	<key>public.kern1.braceleft</key>
 	<array>
 		<string>bracketleft</string>
 		<string>parenleft</string>
 	</array>
-	<key>@MMK_L_c</key>
+	<key>public.kern1.c</key>
 	<array>
 		<string>c</string>
 	</array>
-	<key>@MMK_L_colon</key>
+	<key>public.kern1.colon</key>
 	<array>
 		<string>colon</string>
 	</array>
-	<key>@MMK_L_comma</key>
-	<array>
-		<string>comma</string>
-		<string>period</string>
-		<string>underscore</string>
-	</array>
-	<key>@MMK_L_d</key>
+	<key>public.kern1.d</key>
 	<array>
 		<string>d</string>
 		<string>i</string>
@@ -141,29 +92,21 @@
 		<string>l</string>
 		<string>exclam</string>
 	</array>
-	<key>@MMK_L_f</key>
+	<key>public.kern1.f</key>
 	<array>
 		<string>f</string>
 	</array>
-	<key>@MMK_L_five</key>
+	<key>public.kern1.five</key>
 	<array>
 		<string>five</string>
 	</array>
-	<key>@MMK_L_four</key>
-	<array>
-		<string>four</string>
-	</array>
-	<key>@MMK_L_g</key>
+	<key>public.kern1.g</key>
 	<array>
 		<string>g</string>
 		<string>q</string>
 		<string>u</string>
 	</array>
-	<key>@MMK_L_k</key>
-	<array>
-		<string>k</string>
-	</array>
-	<key>@MMK_L_multiply</key>
+	<key>public.kern1.multiply</key>
 	<array>
 		<string>multiply</string>
 		<string>equal</string>
@@ -174,7 +117,74 @@
 		<string>plusminus</string>
 		<string>approxequal</string>
 	</array>
-	<key>@MMK_L_multiply.osf</key>
+	<key>public.kern1.periodcentered</key>
+	<array>
+		<string>hyphen</string>
+		<string>uni2219.osf</string>
+		<string>plus.osf</string>
+		<string>minus.osf</string>
+		<string>divide.osf</string>
+		<string>greater.osf</string>
+		<string>asciitilde.osf</string>
+	</array>
+	<key>public.kern1.public.kern1.A</key>
+	<array>
+		<string>A</string>
+	</array>
+	<key>public.kern1.public.kern1.AE</key>
+	<array>
+		<string>E</string>
+	</array>
+	<key>public.kern1.public.kern1.C</key>
+	<array>
+		<string>C</string>
+	</array>
+	<key>public.kern1.public.kern1.D</key>
+	<array>
+		<string>D</string>
+		<string>O</string>
+		<string>Q</string>
+		<string>zero</string>
+		<string>nine</string>
+		<string>parenright</string>
+		<string>at</string>
+		<string>copyright</string>
+	</array>
+	<key>public.kern1.public.kern1.P</key>
+	<array>
+		<string>P</string>
+	</array>
+	<key>public.kern1.public.kern1.R</key>
+	<array>
+		<string>R</string>
+	</array>
+	<key>public.kern1.public.kern1.Y</key>
+	<array>
+		<string>Y</string>
+	</array>
+	<key>public.kern1.public.kern1.ae</key>
+	<array>
+		<string>e</string>
+	</array>
+	<key>public.kern1.public.kern1.asterisk</key>
+	<array>
+		<string>asterisk</string>
+	</array>
+	<key>public.kern1.public.kern1.comma</key>
+	<array>
+		<string>comma</string>
+		<string>period</string>
+		<string>underscore</string>
+	</array>
+	<key>public.kern1.public.kern1.four</key>
+	<array>
+		<string>four</string>
+	</array>
+	<key>public.kern1.public.kern1.k</key>
+	<array>
+		<string>k</string>
+	</array>
+	<key>public.kern1.public.kern1.multiply.osf</key>
 	<array>
 		<string>multiply.osf</string>
 		<string>equal.osf</string>
@@ -185,63 +195,24 @@
 		<string>plusminus.osf</string>
 		<string>approxequal.osf</string>
 	</array>
-	<key>@MMK_L_periodcentered</key>
-	<array>
-		<string>hyphen</string>
-		<string>uni2219.osf</string>
-		<string>plus.osf</string>
-		<string>minus.osf</string>
-		<string>divide.osf</string>
-		<string>greater.osf</string>
-		<string>asciitilde.osf</string>
-	</array>
-	<key>@MMK_L_question</key>
-	<array>
-		<string>question</string>
-	</array>
-	<key>@MMK_L_quotedbl</key>
-	<array>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-	</array>
-	<key>@MMK_L_r</key>
+	<key>public.kern1.public.kern1.r</key>
 	<array>
 		<string>r</string>
 	</array>
-	<key>@MMK_L_s</key>
-	<array>
-		<string>s</string>
-	</array>
-	<key>@MMK_L_six</key>
-	<array>
-		<string>six</string>
-	</array>
-	<key>@MMK_L_slash</key>
+	<key>public.kern1.public.kern1.slash</key>
 	<array>
 		<string>slash</string>
 		<string>uni2215</string>
 	</array>
-	<key>@MMK_L_t</key>
+	<key>public.kern1.public.kern1.t</key>
 	<array>
 		<string>t</string>
 	</array>
-	<key>@MMK_L_trademark</key>
+	<key>public.kern1.public.kern1.trademark</key>
 	<array>
 		<string>trademark</string>
 	</array>
-	<key>@MMK_L_two</key>
-	<array>
-		<string>two</string>
-	</array>
-	<key>@MMK_L_uni01F1</key>
-	<array>
-		<string>Z</string>
-	</array>
-	<key>@MMK_L_uni01F2</key>
-	<array>
-		<string>z</string>
-	</array>
-	<key>@MMK_L_uni2219</key>
+	<key>public.kern1.public.kern1.uni2219</key>
 	<array>
 		<string>plus</string>
 		<string>minus</string>
@@ -250,21 +221,122 @@
 		<string>asciitilde</string>
 		<string>uni2219</string>
 	</array>
-	<key>@MMK_L_v</key>
+	<key>public.kern1.public.kern1.x</key>
+	<array>
+		<string>x</string>
+	</array>
+	<key>public.kern1.question</key>
+	<array>
+		<string>question</string>
+	</array>
+	<key>public.kern1.quotedbl</key>
+	<array>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
+	</array>
+	<key>public.kern1.s</key>
+	<array>
+		<string>s</string>
+	</array>
+	<key>public.kern1.six</key>
+	<array>
+		<string>six</string>
+	</array>
+	<key>public.kern1.two</key>
+	<array>
+		<string>two</string>
+	</array>
+	<key>public.kern1.uni01F1</key>
+	<array>
+		<string>Z</string>
+	</array>
+	<key>public.kern1.uni01F2</key>
+	<array>
+		<string>z</string>
+	</array>
+	<key>public.kern1.v</key>
 	<array>
 		<string>v</string>
 		<string>w</string>
 		<string>y</string>
 	</array>
-	<key>@MMK_L_x</key>
-	<array>
-		<string>x</string>
-	</array>
-	<key>@MMK_R_A</key>
+	<key>public.kern2.A</key>
 	<array>
 		<string>A</string>
 	</array>
-	<key>@MMK_R_B</key>
+	<key>public.kern2.S</key>
+	<array>
+		<string>S</string>
+		<string>dollar</string>
+	</array>
+	<key>public.kern2.X</key>
+	<array>
+		<string>X</string>
+	</array>
+	<key>public.kern2.Y</key>
+	<array>
+		<string>Y</string>
+	</array>
+	<key>public.kern2.Z</key>
+	<array>
+		<string>Z</string>
+	</array>
+	<key>public.kern2.b</key>
+	<array>
+		<string>b</string>
+		<string>h</string>
+		<string>i</string>
+		<string>k</string>
+		<string>l</string>
+		<string>exclam</string>
+	</array>
+	<key>public.kern2.colon</key>
+	<array>
+		<string>colon</string>
+	</array>
+	<key>public.kern2.comma</key>
+	<array>
+		<string>comma</string>
+		<string>period</string>
+		<string>underscore</string>
+	</array>
+	<key>public.kern2.f</key>
+	<array>
+		<string>f</string>
+		<string>t</string>
+	</array>
+	<key>public.kern2.five</key>
+	<array>
+		<string>five</string>
+	</array>
+	<key>public.kern2.four</key>
+	<array>
+		<string>four</string>
+	</array>
+	<key>public.kern2.multiply.osf</key>
+	<array>
+		<string>multiply.osf</string>
+		<string>equal.osf</string>
+		<string>notequal.osf</string>
+		<string>greater.osf</string>
+		<string>greaterequal.osf</string>
+		<string>lessequal.osf</string>
+		<string>plusminus.osf</string>
+		<string>approxequal.osf</string>
+	</array>
+	<key>public.kern2.nine</key>
+	<array>
+		<string>nine</string>
+	</array>
+	<key>public.kern2.one</key>
+	<array>
+		<string>one</string>
+	</array>
+	<key>public.kern2.ordfeminine</key>
+	<array>
+		<string>registered</string>
+	</array>
+	<key>public.kern2.public.kern2.B</key>
 	<array>
 		<string>B</string>
 		<string>D</string>
@@ -281,7 +353,7 @@
 		<string>R</string>
 		<string>bracketleft</string>
 	</array>
-	<key>@MMK_R_C</key>
+	<key>public.kern2.public.kern2.C</key>
 	<array>
 		<string>C</string>
 		<string>G</string>
@@ -293,59 +365,33 @@
 		<string>at</string>
 		<string>copyright</string>
 	</array>
-	<key>@MMK_R_S</key>
-	<array>
-		<string>S</string>
-		<string>dollar</string>
-	</array>
-	<key>@MMK_R_T</key>
+	<key>public.kern2.public.kern2.T</key>
 	<array>
 		<string>T</string>
 	</array>
-	<key>@MMK_R_U</key>
+	<key>public.kern2.public.kern2.U</key>
 	<array>
 		<string>U</string>
 	</array>
-	<key>@MMK_R_V</key>
+	<key>public.kern2.public.kern2.V</key>
 	<array>
 		<string>V</string>
 		<string>W</string>
 	</array>
-	<key>@MMK_R_X</key>
-	<array>
-		<string>X</string>
-	</array>
-	<key>@MMK_R_Y</key>
-	<array>
-		<string>Y</string>
-	</array>
-	<key>@MMK_R_Z</key>
-	<array>
-		<string>Z</string>
-	</array>
-	<key>@MMK_R_a</key>
+	<key>public.kern2.public.kern2.a</key>
 	<array>
 		<string>a</string>
 	</array>
-	<key>@MMK_R_asterisk</key>
+	<key>public.kern2.public.kern2.asterisk</key>
 	<array>
 		<string>asterisk</string>
 	</array>
-	<key>@MMK_R_b</key>
-	<array>
-		<string>b</string>
-		<string>h</string>
-		<string>i</string>
-		<string>k</string>
-		<string>l</string>
-		<string>exclam</string>
-	</array>
-	<key>@MMK_R_braceright</key>
+	<key>public.kern2.public.kern2.braceright</key>
 	<array>
 		<string>bracketright</string>
 		<string>parenright</string>
 	</array>
-	<key>@MMK_R_c</key>
+	<key>public.kern2.public.kern2.c</key>
 	<array>
 		<string>c</string>
 		<string>d</string>
@@ -354,45 +400,22 @@
 		<string>o</string>
 		<string>q</string>
 	</array>
-	<key>@MMK_R_colon</key>
-	<array>
-		<string>colon</string>
-	</array>
-	<key>@MMK_R_comma</key>
-	<array>
-		<string>comma</string>
-		<string>period</string>
-		<string>underscore</string>
-	</array>
-	<key>@MMK_R_dotlessi</key>
+	<key>public.kern2.public.kern2.dotlessi</key>
 	<array>
 		<string>m</string>
 		<string>n</string>
 		<string>p</string>
 		<string>r</string>
 	</array>
-	<key>@MMK_R_eight</key>
+	<key>public.kern2.public.kern2.eight</key>
 	<array>
 		<string>eight</string>
 	</array>
-	<key>@MMK_R_f</key>
-	<array>
-		<string>f</string>
-		<string>t</string>
-	</array>
-	<key>@MMK_R_five</key>
-	<array>
-		<string>five</string>
-	</array>
-	<key>@MMK_R_four</key>
-	<array>
-		<string>four</string>
-	</array>
-	<key>@MMK_R_j</key>
+	<key>public.kern2.public.kern2.j</key>
 	<array>
 		<string>j</string>
 	</array>
-	<key>@MMK_R_multiply</key>
+	<key>public.kern2.public.kern2.multiply</key>
 	<array>
 		<string>multiply</string>
 		<string>equal</string>
@@ -403,30 +426,7 @@
 		<string>plusminus</string>
 		<string>approxequal</string>
 	</array>
-	<key>@MMK_R_multiply.osf</key>
-	<array>
-		<string>multiply.osf</string>
-		<string>equal.osf</string>
-		<string>notequal.osf</string>
-		<string>greater.osf</string>
-		<string>greaterequal.osf</string>
-		<string>lessequal.osf</string>
-		<string>plusminus.osf</string>
-		<string>approxequal.osf</string>
-	</array>
-	<key>@MMK_R_nine</key>
-	<array>
-		<string>nine</string>
-	</array>
-	<key>@MMK_R_one</key>
-	<array>
-		<string>one</string>
-	</array>
-	<key>@MMK_R_ordfeminine</key>
-	<array>
-		<string>registered</string>
-	</array>
-	<key>@MMK_R_periodcentered</key>
+	<key>public.kern2.public.kern2.periodcentered</key>
 	<array>
 		<string>hyphen</string>
 		<string>uni2219.osf</string>
@@ -437,45 +437,51 @@
 		<string>asciitilde.osf</string>
 		<string>logicalnot.osf</string>
 	</array>
-	<key>@MMK_R_question</key>
-	<array>
-		<string>question</string>
-	</array>
-	<key>@MMK_R_quotedbl</key>
+	<key>public.kern2.public.kern2.quotedbl</key>
 	<array>
 		<string>quotedbl</string>
 		<string>quotesingle</string>
 	</array>
-	<key>@MMK_R_s</key>
-	<array>
-		<string>s</string>
-	</array>
-	<key>@MMK_R_seven</key>
-	<array>
-		<string>seven</string>
-	</array>
-	<key>@MMK_R_slash</key>
+	<key>public.kern2.public.kern2.slash</key>
 	<array>
 		<string>slash</string>
 		<string>uni2215</string>
 	</array>
-	<key>@MMK_R_three</key>
+	<key>public.kern2.public.kern2.three</key>
 	<array>
 		<string>three</string>
 	</array>
-	<key>@MMK_R_trademark</key>
+	<key>public.kern2.public.kern2.trademark</key>
 	<array>
 		<string>trademark</string>
 	</array>
-	<key>@MMK_R_two</key>
+	<key>public.kern2.public.kern2.two</key>
 	<array>
 		<string>two</string>
 	</array>
-	<key>@MMK_R_u</key>
+	<key>public.kern2.public.kern2.v</key>
+	<array>
+		<string>v</string>
+		<string>w</string>
+		<string>y</string>
+	</array>
+	<key>public.kern2.question</key>
+	<array>
+		<string>question</string>
+	</array>
+	<key>public.kern2.s</key>
+	<array>
+		<string>s</string>
+	</array>
+	<key>public.kern2.seven</key>
+	<array>
+		<string>seven</string>
+	</array>
+	<key>public.kern2.u</key>
 	<array>
 		<string>u</string>
 	</array>
-	<key>@MMK_R_uni2219</key>
+	<key>public.kern2.uni2219</key>
 	<array>
 		<string>plus</string>
 		<string>minus</string>
@@ -484,513 +490,11 @@
 		<string>asciitilde</string>
 		<string>uni2219</string>
 	</array>
-	<key>@MMK_R_v</key>
-	<array>
-		<string>v</string>
-		<string>w</string>
-		<string>y</string>
-	</array>
-	<key>@MMK_R_x</key>
+	<key>public.kern2.x</key>
 	<array>
 		<string>x</string>
 	</array>
-	<key>@MMK_R_z</key>
-	<array>
-		<string>z</string>
-	</array>
-	<key>public.kern1.@MMK_L_A</key>
-	<array>
-		<string>A</string>
-	</array>
-	<key>public.kern1.@MMK_L_AE</key>
-	<array>
-		<string>E</string>
-	</array>
-	<key>public.kern1.@MMK_L_B</key>
-	<array>
-		<string>B</string>
-		<string>three</string>
-		<string>eight</string>
-	</array>
-	<key>public.kern1.@MMK_L_C</key>
-	<array>
-		<string>C</string>
-	</array>
-	<key>public.kern1.@MMK_L_D</key>
-	<array>
-		<string>D</string>
-		<string>O</string>
-		<string>Q</string>
-		<string>zero</string>
-		<string>nine</string>
-		<string>parenright</string>
-		<string>at</string>
-		<string>copyright</string>
-	</array>
-	<key>public.kern1.@MMK_L_F</key>
-	<array>
-		<string>F</string>
-	</array>
-	<key>public.kern1.@MMK_L_G</key>
-	<array>
-		<string>G</string>
-	</array>
-	<key>public.kern1.@MMK_L_H</key>
-	<array>
-		<string>H</string>
-		<string>I</string>
-		<string>J</string>
-		<string>M</string>
-		<string>N</string>
-		<string>one</string>
-		<string>bracketright</string>
-		<string>paragraph</string>
-	</array>
-	<key>public.kern1.@MMK_L_K</key>
-	<array>
-		<string>K</string>
-	</array>
-	<key>public.kern1.@MMK_L_L</key>
-	<array>
-		<string>L</string>
-	</array>
-	<key>public.kern1.@MMK_L_P</key>
-	<array>
-		<string>P</string>
-	</array>
-	<key>public.kern1.@MMK_L_R</key>
-	<array>
-		<string>R</string>
-	</array>
-	<key>public.kern1.@MMK_L_S</key>
-	<array>
-		<string>S</string>
-		<string>dollar</string>
-	</array>
-	<key>public.kern1.@MMK_L_T</key>
-	<array>
-		<string>T</string>
-	</array>
-	<key>public.kern1.@MMK_L_U</key>
-	<array>
-		<string>U</string>
-	</array>
-	<key>public.kern1.@MMK_L_V</key>
-	<array>
-		<string>V</string>
-		<string>W</string>
-		<string>seven</string>
-	</array>
-	<key>public.kern1.@MMK_L_X</key>
-	<array>
-		<string>X</string>
-	</array>
-	<key>public.kern1.@MMK_L_Y</key>
-	<array>
-		<string>Y</string>
-	</array>
-	<key>public.kern1.@MMK_L_a</key>
-	<array>
-		<string>a</string>
-		<string>h</string>
-		<string>m</string>
-		<string>n</string>
-	</array>
-	<key>public.kern1.@MMK_L_ae</key>
-	<array>
-		<string>e</string>
-	</array>
-	<key>public.kern1.@MMK_L_asterisk</key>
-	<array>
-		<string>asterisk</string>
-	</array>
-	<key>public.kern1.@MMK_L_b</key>
-	<array>
-		<string>b</string>
-		<string>o</string>
-		<string>p</string>
-	</array>
-	<key>public.kern1.@MMK_L_braceleft</key>
-	<array>
-		<string>bracketleft</string>
-		<string>parenleft</string>
-	</array>
-	<key>public.kern1.@MMK_L_c</key>
-	<array>
-		<string>c</string>
-	</array>
-	<key>public.kern1.@MMK_L_colon</key>
-	<array>
-		<string>colon</string>
-	</array>
-	<key>public.kern1.@MMK_L_comma</key>
-	<array>
-		<string>comma</string>
-		<string>period</string>
-		<string>underscore</string>
-	</array>
-	<key>public.kern1.@MMK_L_d</key>
-	<array>
-		<string>d</string>
-		<string>i</string>
-		<string>j</string>
-		<string>l</string>
-		<string>exclam</string>
-	</array>
-	<key>public.kern1.@MMK_L_f</key>
-	<array>
-		<string>f</string>
-	</array>
-	<key>public.kern1.@MMK_L_five</key>
-	<array>
-		<string>five</string>
-	</array>
-	<key>public.kern1.@MMK_L_four</key>
-	<array>
-		<string>four</string>
-	</array>
-	<key>public.kern1.@MMK_L_g</key>
-	<array>
-		<string>g</string>
-		<string>q</string>
-		<string>u</string>
-	</array>
-	<key>public.kern1.@MMK_L_k</key>
-	<array>
-		<string>k</string>
-	</array>
-	<key>public.kern1.@MMK_L_multiply</key>
-	<array>
-		<string>multiply</string>
-		<string>equal</string>
-		<string>notequal</string>
-		<string>less</string>
-		<string>greaterequal</string>
-		<string>lessequal</string>
-		<string>plusminus</string>
-		<string>approxequal</string>
-	</array>
-	<key>public.kern1.@MMK_L_multiply.osf</key>
-	<array>
-		<string>multiply.osf</string>
-		<string>equal.osf</string>
-		<string>notequal.osf</string>
-		<string>less.osf</string>
-		<string>greaterequal.osf</string>
-		<string>lessequal.osf</string>
-		<string>plusminus.osf</string>
-		<string>approxequal.osf</string>
-	</array>
-	<key>public.kern1.@MMK_L_periodcentered</key>
-	<array>
-		<string>hyphen</string>
-		<string>uni2219.osf</string>
-		<string>plus.osf</string>
-		<string>minus.osf</string>
-		<string>divide.osf</string>
-		<string>greater.osf</string>
-		<string>asciitilde.osf</string>
-	</array>
-	<key>public.kern1.@MMK_L_question</key>
-	<array>
-		<string>question</string>
-	</array>
-	<key>public.kern1.@MMK_L_quotedbl</key>
-	<array>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-	</array>
-	<key>public.kern1.@MMK_L_r</key>
-	<array>
-		<string>r</string>
-	</array>
-	<key>public.kern1.@MMK_L_s</key>
-	<array>
-		<string>s</string>
-	</array>
-	<key>public.kern1.@MMK_L_six</key>
-	<array>
-		<string>six</string>
-	</array>
-	<key>public.kern1.@MMK_L_slash</key>
-	<array>
-		<string>slash</string>
-		<string>uni2215</string>
-	</array>
-	<key>public.kern1.@MMK_L_t</key>
-	<array>
-		<string>t</string>
-	</array>
-	<key>public.kern1.@MMK_L_trademark</key>
-	<array>
-		<string>trademark</string>
-	</array>
-	<key>public.kern1.@MMK_L_two</key>
-	<array>
-		<string>two</string>
-	</array>
-	<key>public.kern1.@MMK_L_uni01F1</key>
-	<array>
-		<string>Z</string>
-	</array>
-	<key>public.kern1.@MMK_L_uni01F2</key>
-	<array>
-		<string>z</string>
-	</array>
-	<key>public.kern1.@MMK_L_uni2219</key>
-	<array>
-		<string>plus</string>
-		<string>minus</string>
-		<string>divide</string>
-		<string>greater</string>
-		<string>asciitilde</string>
-		<string>uni2219</string>
-	</array>
-	<key>public.kern1.@MMK_L_v</key>
-	<array>
-		<string>v</string>
-		<string>w</string>
-		<string>y</string>
-	</array>
-	<key>public.kern1.@MMK_L_x</key>
-	<array>
-		<string>x</string>
-	</array>
-	<key>public.kern2.@MMK_R_A</key>
-	<array>
-		<string>A</string>
-	</array>
-	<key>public.kern2.@MMK_R_B</key>
-	<array>
-		<string>B</string>
-		<string>D</string>
-		<string>E</string>
-		<string>F</string>
-		<string>H</string>
-		<string>I</string>
-		<string>J</string>
-		<string>K</string>
-		<string>L</string>
-		<string>M</string>
-		<string>N</string>
-		<string>P</string>
-		<string>R</string>
-		<string>bracketleft</string>
-	</array>
-	<key>public.kern2.@MMK_R_C</key>
-	<array>
-		<string>C</string>
-		<string>G</string>
-		<string>O</string>
-		<string>Q</string>
-		<string>zero</string>
-		<string>six</string>
-		<string>parenleft</string>
-		<string>at</string>
-		<string>copyright</string>
-	</array>
-	<key>public.kern2.@MMK_R_S</key>
-	<array>
-		<string>S</string>
-		<string>dollar</string>
-	</array>
-	<key>public.kern2.@MMK_R_T</key>
-	<array>
-		<string>T</string>
-	</array>
-	<key>public.kern2.@MMK_R_U</key>
-	<array>
-		<string>U</string>
-	</array>
-	<key>public.kern2.@MMK_R_V</key>
-	<array>
-		<string>V</string>
-		<string>W</string>
-	</array>
-	<key>public.kern2.@MMK_R_X</key>
-	<array>
-		<string>X</string>
-	</array>
-	<key>public.kern2.@MMK_R_Y</key>
-	<array>
-		<string>Y</string>
-	</array>
-	<key>public.kern2.@MMK_R_Z</key>
-	<array>
-		<string>Z</string>
-	</array>
-	<key>public.kern2.@MMK_R_a</key>
-	<array>
-		<string>a</string>
-	</array>
-	<key>public.kern2.@MMK_R_asterisk</key>
-	<array>
-		<string>asterisk</string>
-	</array>
-	<key>public.kern2.@MMK_R_b</key>
-	<array>
-		<string>b</string>
-		<string>h</string>
-		<string>i</string>
-		<string>k</string>
-		<string>l</string>
-		<string>exclam</string>
-	</array>
-	<key>public.kern2.@MMK_R_braceright</key>
-	<array>
-		<string>bracketright</string>
-		<string>parenright</string>
-	</array>
-	<key>public.kern2.@MMK_R_c</key>
-	<array>
-		<string>c</string>
-		<string>d</string>
-		<string>e</string>
-		<string>g</string>
-		<string>o</string>
-		<string>q</string>
-	</array>
-	<key>public.kern2.@MMK_R_colon</key>
-	<array>
-		<string>colon</string>
-	</array>
-	<key>public.kern2.@MMK_R_comma</key>
-	<array>
-		<string>comma</string>
-		<string>period</string>
-		<string>underscore</string>
-	</array>
-	<key>public.kern2.@MMK_R_dotlessi</key>
-	<array>
-		<string>m</string>
-		<string>n</string>
-		<string>p</string>
-		<string>r</string>
-	</array>
-	<key>public.kern2.@MMK_R_eight</key>
-	<array>
-		<string>eight</string>
-	</array>
-	<key>public.kern2.@MMK_R_f</key>
-	<array>
-		<string>f</string>
-		<string>t</string>
-	</array>
-	<key>public.kern2.@MMK_R_five</key>
-	<array>
-		<string>five</string>
-	</array>
-	<key>public.kern2.@MMK_R_four</key>
-	<array>
-		<string>four</string>
-	</array>
-	<key>public.kern2.@MMK_R_j</key>
-	<array>
-		<string>j</string>
-	</array>
-	<key>public.kern2.@MMK_R_multiply</key>
-	<array>
-		<string>multiply</string>
-		<string>equal</string>
-		<string>notequal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>lessequal</string>
-		<string>plusminus</string>
-		<string>approxequal</string>
-	</array>
-	<key>public.kern2.@MMK_R_multiply.osf</key>
-	<array>
-		<string>multiply.osf</string>
-		<string>equal.osf</string>
-		<string>notequal.osf</string>
-		<string>greater.osf</string>
-		<string>greaterequal.osf</string>
-		<string>lessequal.osf</string>
-		<string>plusminus.osf</string>
-		<string>approxequal.osf</string>
-	</array>
-	<key>public.kern2.@MMK_R_nine</key>
-	<array>
-		<string>nine</string>
-	</array>
-	<key>public.kern2.@MMK_R_one</key>
-	<array>
-		<string>one</string>
-	</array>
-	<key>public.kern2.@MMK_R_ordfeminine</key>
-	<array>
-		<string>registered</string>
-	</array>
-	<key>public.kern2.@MMK_R_periodcentered</key>
-	<array>
-		<string>hyphen</string>
-		<string>uni2219.osf</string>
-		<string>plus.osf</string>
-		<string>minus.osf</string>
-		<string>divide.osf</string>
-		<string>less.osf</string>
-		<string>asciitilde.osf</string>
-		<string>logicalnot.osf</string>
-	</array>
-	<key>public.kern2.@MMK_R_question</key>
-	<array>
-		<string>question</string>
-	</array>
-	<key>public.kern2.@MMK_R_quotedbl</key>
-	<array>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-	</array>
-	<key>public.kern2.@MMK_R_s</key>
-	<array>
-		<string>s</string>
-	</array>
-	<key>public.kern2.@MMK_R_seven</key>
-	<array>
-		<string>seven</string>
-	</array>
-	<key>public.kern2.@MMK_R_slash</key>
-	<array>
-		<string>slash</string>
-		<string>uni2215</string>
-	</array>
-	<key>public.kern2.@MMK_R_three</key>
-	<array>
-		<string>three</string>
-	</array>
-	<key>public.kern2.@MMK_R_trademark</key>
-	<array>
-		<string>trademark</string>
-	</array>
-	<key>public.kern2.@MMK_R_two</key>
-	<array>
-		<string>two</string>
-	</array>
-	<key>public.kern2.@MMK_R_u</key>
-	<array>
-		<string>u</string>
-	</array>
-	<key>public.kern2.@MMK_R_uni2219</key>
-	<array>
-		<string>plus</string>
-		<string>minus</string>
-		<string>divide</string>
-		<string>less</string>
-		<string>asciitilde</string>
-		<string>uni2219</string>
-	</array>
-	<key>public.kern2.@MMK_R_v</key>
-	<array>
-		<string>v</string>
-		<string>w</string>
-		<string>y</string>
-	</array>
-	<key>public.kern2.@MMK_R_x</key>
-	<array>
-		<string>x</string>
-	</array>
-	<key>public.kern2.@MMK_R_z</key>
+	<key>public.kern2.z</key>
 	<array>
 		<string>z</string>
 	</array>

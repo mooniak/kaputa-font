@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus.tf" format="2">
-  <advance width="484"/>
-  <note>
-    plusminus.tf
+	<advance width="484"/>
+	<note>
+		plusminus.tf
   </note>
-  <outline>
-    <contour>
-      <point x="262" y="146" type="line"/>
-      <point x="262" y="301" type="line"/>
-      <point x="409" y="301" type="line"/>
-      <point x="409" y="340" type="line"/>
-      <point x="262" y="340" type="line"/>
-      <point x="262" y="495" type="line"/>
-      <point x="220" y="495" type="line"/>
-      <point x="220" y="340" type="line"/>
-      <point x="73" y="340" type="line"/>
-      <point x="73" y="301" type="line"/>
-      <point x="220" y="301" type="line"/>
-      <point x="220" y="146" type="line"/>
-    </contour>
-    <contour>
-      <point x="409" y="0" type="line"/>
-      <point x="409" y="39" type="line"/>
-      <point x="73" y="39" type="line"/>
-      <point x="73" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:26 +0000</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="262" y="146" type="line"/>
+			<point x="262" y="301" type="line"/>
+			<point x="409" y="301" type="line"/>
+			<point x="409" y="340" type="line"/>
+			<point x="262" y="340" type="line"/>
+			<point x="262" y="495" type="line"/>
+			<point x="220" y="495" type="line"/>
+			<point x="220" y="340" type="line"/>
+			<point x="73" y="340" type="line"/>
+			<point x="73" y="301" type="line"/>
+			<point x="220" y="301" type="line"/>
+			<point x="220" y="146" type="line"/>
+		</contour>
+		<contour>
+			<point x="409" y="0" type="line"/>
+			<point x="409" y="39" type="line"/>
+			<point x="73" y="39" type="line"/>
+			<point x="73" y="0" type="line"/>
+		</contour>
+	</outline>
 </glyph>

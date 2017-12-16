@@ -1,40 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinRakar" format="2">
-  <anchor x="-81" y="84" name="_sin_Rakar"/>
-  <outline>
-    <contour>
-      <point x="-136" y="-175"/>
-      <point x="-15" y="-114"/>
-      <point x="-15" y="-12" type="curve" smooth="yes"/>
-      <point x="-15" y="33"/>
-      <point x="-52" y="75"/>
-      <point x="-80" y="85" type="curve"/>
-      <point x="-109" y="68" type="line"/>
-      <point x="-79" y="47"/>
-      <point x="-60" y="21"/>
-      <point x="-60" y="-6" type="curve" smooth="yes"/>
-      <point x="-60" y="-81"/>
-      <point x="-156" y="-129"/>
-      <point x="-252" y="-129" type="curve" smooth="yes"/>
-      <point x="-355" y="-129"/>
-      <point x="-431" y="-89"/>
-      <point x="-431" y="-14" type="curve" smooth="yes"/>
-      <point x="-431" y="-10"/>
-      <point x="-431" y="-6"/>
-      <point x="-430" y="-2" type="curve"/>
-      <point x="-480" y="-2" type="line"/>
-      <point x="-481" y="-12"/>
-      <point x="-481" y="-20"/>
-      <point x="-481" y="-24" type="curve" smooth="yes"/>
-      <point x="-481" y="-118"/>
-      <point x="-374" y="-175"/>
-      <point x="-258" y="-175" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:22 +0000</string>
-    </dict>
-  </lib>
+	<advance width="0"/>
+	<outline>
+		<contour>
+			<point x="-136" y="-175"/>
+			<point x="-15" y="-114"/>
+			<point x="-15" y="-12" type="curve" smooth="yes"/>
+			<point x="-15" y="33"/>
+			<point x="-52" y="75"/>
+			<point x="-80" y="85" type="curve"/>
+			<point x="-109" y="68" type="line"/>
+			<point x="-79" y="47"/>
+			<point x="-60" y="21"/>
+			<point x="-60" y="-6" type="curve" smooth="yes"/>
+			<point x="-60" y="-81"/>
+			<point x="-156" y="-129"/>
+			<point x="-252" y="-129" type="curve" smooth="yes"/>
+			<point x="-355" y="-129"/>
+			<point x="-431" y="-89"/>
+			<point x="-431" y="-14" type="curve" smooth="yes"/>
+			<point x="-431" y="-10"/>
+			<point x="-431" y="-6"/>
+			<point x="-430" y="-2" type="curve"/>
+			<point x="-480" y="-2" type="line"/>
+			<point x="-481" y="-12"/>
+			<point x="-481" y="-20"/>
+			<point x="-481" y="-24" type="curve" smooth="yes"/>
+			<point x="-481" y="-118"/>
+			<point x="-374" y="-175"/>
+			<point x="-258" y="-175" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="_sin_Rakar" x="-81" y="84"/>
 </glyph>

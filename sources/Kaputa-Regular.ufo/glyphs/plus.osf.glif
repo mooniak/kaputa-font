@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus.osf" format="2">
-  <advance width="472"/>
-  <note>
-    plus.osf
+	<advance width="472"/>
+	<note>
+		plus.osf
   </note>
-  <outline>
-    <contour>
-      <point x="256" y="77" type="line"/>
-      <point x="256" y="233" type="line"/>
-      <point x="403" y="233" type="line"/>
-      <point x="403" y="272" type="line"/>
-      <point x="256" y="272" type="line"/>
-      <point x="256" y="428" type="line"/>
-      <point x="214" y="428" type="line"/>
-      <point x="214" y="272" type="line"/>
-      <point x="67" y="272" type="line"/>
-      <point x="67" y="233" type="line"/>
-      <point x="214" y="233" type="line"/>
-      <point x="214" y="77" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:26 +0000</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="256" y="77" type="line"/>
+			<point x="256" y="233" type="line"/>
+			<point x="403" y="233" type="line"/>
+			<point x="403" y="272" type="line"/>
+			<point x="256" y="272" type="line"/>
+			<point x="256" y="428" type="line"/>
+			<point x="214" y="428" type="line"/>
+			<point x="214" y="272" type="line"/>
+			<point x="67" y="272" type="line"/>
+			<point x="67" y="233" type="line"/>
+			<point x="214" y="233" type="line"/>
+			<point x="214" y="77" type="line"/>
+		</contour>
+	</outline>
 </glyph>

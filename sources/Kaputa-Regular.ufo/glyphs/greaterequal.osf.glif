@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal.osf" format="2">
-  <advance width="472"/>
-  <note>
-    greaterequal.osf
+	<advance width="472"/>
+	<note>
+		greaterequal.osf
   </note>
-  <outline>
-    <contour>
-      <point x="403" y="244" type="line"/>
-      <point x="403" y="277" type="line"/>
-      <point x="67" y="421" type="line"/>
-      <point x="67" y="380" type="line"/>
-      <point x="367" y="252" type="line"/>
-      <point x="367" y="268" type="line"/>
-      <point x="67" y="141" type="line"/>
-      <point x="67" y="100" type="line"/>
-    </contour>
-    <contour>
-      <point x="403" y="0" type="line"/>
-      <point x="403" y="38" type="line"/>
-      <point x="67" y="38" type="line"/>
-      <point x="67" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:26 +0000</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="403" y="244" type="line"/>
+			<point x="403" y="277" type="line"/>
+			<point x="67" y="421" type="line"/>
+			<point x="67" y="380" type="line"/>
+			<point x="367" y="252" type="line"/>
+			<point x="367" y="268" type="line"/>
+			<point x="67" y="141" type="line"/>
+			<point x="67" y="100" type="line"/>
+		</contour>
+		<contour>
+			<point x="403" y="0" type="line"/>
+			<point x="403" y="38" type="line"/>
+			<point x="67" y="38" type="line"/>
+			<point x="67" y="0" type="line"/>
+		</contour>
+	</outline>
 </glyph>

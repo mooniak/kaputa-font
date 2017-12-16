@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="286"/>
-  <unicode hex="0031"/>
-  <note>
-    one
+	<advance width="286"/>
+	<unicode hex="0031"/>
+	<note>
+		one
   </note>
-  <outline>
-    <contour>
-      <point x="186" y="-27" type="line"/>
-      <point x="186" y="582" type="line"/>
-      <point x="161" y="582" type="line"/>
-      <point x="9" y="468" type="line"/>
-      <point x="9" y="427" type="line"/>
-      <point x="161" y="539" type="line"/>
-      <point x="144" y="540" type="line"/>
-      <point x="144" y="-27" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 11:19:26 +0000</string>
-    </dict>
-  </lib>
+	<outline>
+		<contour>
+			<point x="186" y="-27" type="line"/>
+			<point x="186" y="582" type="line"/>
+			<point x="161" y="582" type="line"/>
+			<point x="9" y="468" type="line"/>
+			<point x="9" y="427" type="line"/>
+			<point x="161" y="539" type="line"/>
+			<point x="144" y="540" type="line"/>
+			<point x="144" y="-27" type="line"/>
+		</contour>
+	</outline>
 </glyph>

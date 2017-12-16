@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJa" format="2">
-  <advance width="551"/>
-  <unicode hex="0DA2"/>
-  <anchor x="465" y="52" name="sin_Rakar"/>
-  <anchor x="285" y="517" name="sinReph"/>
-  <anchor x="122" y="514" name="sinMatraI"/>
-  <anchor x="381" y="489" name="sinVirama"/>
-  <outline>
-    <contour>
-      <point x="541" y="575" type="line"/>
-      <point x="496" y="575" type="line"/>
-      <point x="420" y="488" type="line"/>
-      <point x="452" y="466" type="line"/>
-    </contour>
-    <component base="sinPa"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-28 12:16:01 +0000</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<advance width="551"/>
+	<unicode hex="0DA2"/>
+	<outline>
+		<contour>
+			<point x="541" y="575" type="line"/>
+			<point x="496" y="575" type="line"/>
+			<point x="420" y="488" type="line"/>
+			<point x="452" y="466" type="line"/>
+		</contour>
+		<component base="sinPa"/>
+	</outline>
+	<anchor name="sin_Rakar" x="465" y="52"/>
+	<anchor name="sinReph" x="285" y="517"/>
+	<anchor name="sinVirama" x="381" y="489"/>
+	<anchor name="sinMatraI" x="122" y="514"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+			<integer>4</integer>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>
