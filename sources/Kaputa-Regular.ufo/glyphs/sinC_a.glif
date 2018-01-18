@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinCa" format="2">
-	<advance width="556"/>
-	<unicode hex="0DA0"/>
-	<outline>
-		<contour>
-			<point x="326" y="304" type="line"/>
-			<point x="320" y="343" type="line"/>
-			<point x="6" y="347" type="line"/>
-			<point x="6" y="304" type="line"/>
-		</contour>
-		<component base="sinVa"/>
-	</outline>
-	<anchor name="sinReph" x="255" y="617"/>
-	<anchor name="sinVirama" x="115" y="566"/>
-	<anchor name="sin_Rakar" x="452" y="92"/>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-			<integer>4</integer>
-			<key>public.markColor</key>
-			<string>0.67,0.95,0.38,1</string>
-		</dict>
-	</lib>
+  <advance width="556"/>
+  <unicode hex="0DA0"/>
+  <anchor x="255" y="617" name="sinReph"/>
+  <anchor x="115" y="566" name="sinVirama"/>
+  <anchor x="452" y="92" name="sin_Rakar"/>
+  <outline>
+    <contour>
+      <point x="326" y="304" type="line"/>
+      <point x="320" y="343" type="line"/>
+      <point x="6" y="347" type="line"/>
+      <point x="6" y="304" type="line"/>
+    </contour>
+    <component base="sinVa"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

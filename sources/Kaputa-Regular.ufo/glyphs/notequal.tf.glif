@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notequal.tf" format="2">
-	<advance width="484"/>
-	<note>
-		notequal.tf
+  <advance width="484"/>
+  <note>
+    notequal.tf
   </note>
-	<outline>
-		<contour>
-			<point x="403" y="490" type="line"/>
-			<point x="372" y="514" type="line"/>
-			<point x="80" y="195" type="line"/>
-			<point x="110" y="171" type="line"/>
-		</contour>
-		<contour>
-			<point x="409" y="238" type="line"/>
-			<point x="409" y="278" type="line"/>
-			<point x="73" y="278" type="line"/>
-			<point x="73" y="238" type="line"/>
-		</contour>
-		<contour>
-			<point x="409" y="407" type="line"/>
-			<point x="409" y="447" type="line"/>
-			<point x="73" y="447" type="line"/>
-			<point x="73" y="407" type="line"/>
-		</contour>
-	</outline>
+  <outline>
+    <contour>
+      <point x="403" y="490" type="line"/>
+      <point x="372" y="514" type="line"/>
+      <point x="80" y="195" type="line"/>
+      <point x="110" y="171" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="238" type="line"/>
+      <point x="409" y="278" type="line"/>
+      <point x="73" y="278" type="line"/>
+      <point x="73" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="407" type="line"/>
+      <point x="409" y="447" type="line"/>
+      <point x="73" y="447" type="line"/>
+      <point x="73" y="407" type="line"/>
+    </contour>
+  </outline>
 </glyph>

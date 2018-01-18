@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraO.sechalf" format="2">
-	<advance width="248"/>
-	<outline>
-		<component base="sinMatraAa"/>
-	</outline>
+  <advance width="248"/>
+  <outline>
+    <component base="sinMatraAa"/>
+  </outline>
 </glyph>

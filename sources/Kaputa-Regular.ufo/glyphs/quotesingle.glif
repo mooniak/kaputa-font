@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="2">
-	<advance width="171"/>
-	<unicode hex="0027"/>
-	<note>
-		quotesingle
+  <advance width="171"/>
+  <unicode hex="0027"/>
+  <note>
+    quotesingle
   </note>
-	<outline>
-		<contour>
-			<point x="98" y="485" type="line"/>
-			<point x="110" y="709" type="line"/>
-			<point x="51" y="709" type="line"/>
-			<point x="57" y="597" type="line" smooth="yes"/>
-			<point x="58" y="561"/>
-			<point x="60" y="526"/>
-			<point x="62" y="485" type="curve"/>
-		</contour>
-	</outline>
+  <outline>
+    <contour>
+      <point x="98" y="485" type="line"/>
+      <point x="110" y="709" type="line"/>
+      <point x="51" y="709" type="line"/>
+      <point x="57" y="597" type="line" smooth="yes"/>
+      <point x="58" y="561"/>
+      <point x="60" y="526"/>
+      <point x="62" y="485" type="curve"/>
+    </contour>
+  </outline>
 </glyph>

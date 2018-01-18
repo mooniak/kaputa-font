@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-	<advance width="200"/>
-	<unicode hex="0049"/>
-	<note>
-		I
+  <advance width="200"/>
+  <unicode hex="0049"/>
+  <note>
+    I
   </note>
-	<outline>
-		<contour>
-			<point x="122" y="0" type="line"/>
-			<point x="122" y="667" type="line"/>
-			<point x="77" y="667" type="line"/>
-			<point x="77" y="0" type="line"/>
-		</contour>
-	</outline>
+  <outline>
+    <contour>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="667" type="line"/>
+      <point x="77" y="667" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

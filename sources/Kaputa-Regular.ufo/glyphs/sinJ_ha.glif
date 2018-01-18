@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJha" format="2">
-	<advance width="1017"/>
-	<unicode hex="0DA3"/>
-	<outline>
-		<component base="sinDha" xOffset="462"/>
-		<component base="sinKa.half" xOffset="39"/>
-	</outline>
-	<anchor name="sinReph" x="695" y="617"/>
-	<anchor name="sinVirama" x="569" y="558"/>
-	<anchor name="sin_Rakar" x="900" y="62"/>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-			<integer>4</integer>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>sinDha</string>
-			<key>public.markColor</key>
-			<string>0.67,0.95,0.38,1</string>
+  <advance width="1017"/>
+  <unicode hex="0DA3"/>
+  <anchor x="695" y="617" name="sinReph"/>
+  <anchor x="569" y="558" name="sinVirama"/>
+  <anchor x="900" y="62" name="sin_Rakar"/>
+  <outline>
+    <component base="sinDha" xOffset="462"/>
+    <component base="sinKa.half" xOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>sinDha</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>sinKa.half</string>
-				</dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sinDha</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>sinKa.half</string>
+        </dict>
       </array>
-		</dict>
-	</lib>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sinDha</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
 </glyph>

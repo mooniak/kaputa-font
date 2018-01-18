@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinLlUu" format="2">
-	<advance width="858"/>
-	<outline>
-		<component base="sinLlU"/>
-		<component base="sinMatraAae" xOffset="591"/>
-	</outline>
+  <advance width="858"/>
+  <outline>
+    <component base="sinLlU"/>
+    <component base="sinMatraAae" xOffset="591"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98680,0.16530,0.09100,1</string>
+    </dict>
+  </lib>
 </glyph>

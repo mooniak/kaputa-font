@@ -2,6 +2,8 @@
 
 @MARKS = [ sinMatraI sinMatraIi sinMatraU sinMatraUu sinVirama sinMatraI.alt sinMatraI.alt1 sinMatraI.alt2 sinMatraI.empty sinMatraIi.alt sinMatraIi.alt1 sinMatraIi.alt2 sinMatraIi.empty sinMatraU.alt sinMatraUu.alt sinVirama.alt sinVirama.attatch sinVirama.touch sinMatraEe.sechalf ];
 
+
+
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem sinh dflt;
@@ -245,7 +247,7 @@ lookup sin_touching_2 {
  pos sinKa' sinVirama.touch sinKa <0 0 -65 0> ;
  pos sinKa' sinVirama.touch sinTa <0 0 -75 0> ;
  pos sinKa' sinVirama.touch sinMa <0 0 -80 0> ;
- pos sinKa' sinVirama.touch <0 0 -50 0> ;
+
  pos sinGa' sinVirama.touch <0 0 -50 0> ;
  pos sinJa' sinVirama.touch <0 0 -50 0> ;
  pos sinTta' sinVirama.touch <0 0 -50 0> ;
@@ -285,9 +287,6 @@ lookup sin_lithnum_style {
 	sub nine by sinNinelith;
 } sin_lithnum_style;
 
-table GDEF {
-  GlyphClassDef @BASE,,@MARKS,;
-} GDEF;
 
 feature vatu {
  script sinh;
@@ -430,3 +429,10 @@ sub approxequal by approxequal.osf;
 sub asciitilde by asciitilde.osf;
 } onum;
 
+feature abvm{
+	
+} abvm;
+
+table GDEF {
+  GlyphClassDef @BASE,,@MARKS,;
+} GDEF;

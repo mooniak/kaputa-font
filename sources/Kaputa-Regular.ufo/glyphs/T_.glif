@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-	<advance width="481"/>
-	<unicode hex="0054"/>
-	<note>
-		T
+  <advance width="481"/>
+  <unicode hex="0054"/>
+  <note>
+    T
   </note>
-	<outline>
-		<contour>
-			<point x="263" y="0" type="line"/>
-			<point x="263" y="625" type="line"/>
-			<point x="477" y="625" type="line"/>
-			<point x="477" y="667" type="line"/>
-			<point x="5" y="667" type="line"/>
-			<point x="5" y="625" type="line"/>
-			<point x="218" y="625" type="line"/>
-			<point x="218" y="0" type="line"/>
-		</contour>
-	</outline>
+  <outline>
+    <contour>
+      <point x="263" y="0" type="line"/>
+      <point x="263" y="625" type="line"/>
+      <point x="477" y="625" type="line"/>
+      <point x="477" y="667" type="line"/>
+      <point x="5" y="667" type="line"/>
+      <point x="5" y="625" type="line"/>
+      <point x="218" y="625" type="line"/>
+      <point x="218" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

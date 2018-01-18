@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-	<advance width="371"/>
-	<unicode hex="007A"/>
-	<note>
-		z
+  <advance width="371"/>
+  <unicode hex="007A"/>
+  <note>
+    z
   </note>
-	<outline>
-		<contour>
-			<point x="346" y="0" type="line"/>
-			<point x="346" y="40" type="line"/>
-			<point x="74" y="40" type="line"/>
-			<point x="74" y="26" type="line"/>
-			<point x="341" y="461" type="line"/>
-			<point x="341" y="488" type="line"/>
-			<point x="31" y="488" type="line"/>
-			<point x="31" y="448" type="line"/>
-			<point x="293" y="448" type="line"/>
-			<point x="293" y="462" type="line"/>
-			<point x="26" y="27" type="line"/>
-			<point x="26" y="0" type="line"/>
-		</contour>
-	</outline>
+  <outline>
+    <contour>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="40" type="line"/>
+      <point x="74" y="40" type="line"/>
+      <point x="74" y="26" type="line"/>
+      <point x="341" y="461" type="line"/>
+      <point x="341" y="488" type="line"/>
+      <point x="31" y="488" type="line"/>
+      <point x="31" y="448" type="line"/>
+      <point x="293" y="448" type="line"/>
+      <point x="293" y="462" type="line"/>
+      <point x="26" y="27" type="line"/>
+      <point x="26" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>
