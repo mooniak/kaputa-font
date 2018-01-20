@@ -6,6 +6,8 @@
   <anchor x="285" y="517" name="sinReph"/>
   <anchor x="441" y="489" name="sinVirama"/>
   <anchor x="70" y="533" name="sinMatraI"/>
+  <anchor x="-72.10618279569891" y="122.44623655913978" name="_sinMatraU"/>
+  <anchor x="472.0228494623655" y="83.85483870967741" name="sinMatraU"/>
   <outline>
     <contour>
       <point x="426" y="-1"/>

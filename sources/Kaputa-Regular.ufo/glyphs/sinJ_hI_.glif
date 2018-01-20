@@ -2,7 +2,7 @@
 <glyph name="sinJhI" format="2">
   <advance width="1018"/>
   <outline>
-    <component base="sinKa.half" xOffset="39"/>
+    <component base="sinKa.half" xOffset="97"/>
     <component base="sinDhI" xOffset="470"/>
   </outline>
   <lib>

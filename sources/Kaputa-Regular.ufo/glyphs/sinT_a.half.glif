@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinTa.half" format="2">
   <advance width="457"/>
+  <anchor x="525.4704301075269" y="415.0" name="_attatch"/>
   <outline>
     <contour>
       <point x="393" y="0"/>

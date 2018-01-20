@@ -20,7 +20,7 @@
       <point x="49" y="244" type="curve" smooth="yes"/>
       <point x="49" y="125" type="line"/>
     </contour>
-    <component base="sinDa" xOffset="97"/>
+    <component base="sinDa" xOffset="96.53225806451621" yOffset="-0.02419354838707477"/>
   </outline>
   <lib>
     <dict>
