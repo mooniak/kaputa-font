@@ -3,7 +3,7 @@
   <advance width="545"/>
   <unicode hex="0DA7"/>
   <anchor x="255" y="617" name="sinReph"/>
-  <anchor x="133.01612903225802" y="565.3870967741934" name="sinVirama"/>
+  <anchor x="123.01612903225802" y="575.3870967741934" name="sinVirama"/>
   <anchor x="448" y="102" name="sin_Rakar"/>
   <outline>
     <contour>

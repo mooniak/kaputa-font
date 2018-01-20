@@ -42,6 +42,6 @@
       <point x="506" y="94"/>
       <point x="506" y="294" type="curve"/>
     </contour>
-    <component base="_i.part" xOffset="25"/>
+    <component base="_i.part" xOffset="24.653225806451644" yOffset="-0.20161290322585046"/>
   </outline>
 </glyph>

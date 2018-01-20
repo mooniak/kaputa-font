@@ -11,22 +11,19 @@ languagesystem sinh dflt;
 # Prefix: Prefix
 # automatic
 # GSUB
-lookup akhnAkhandinSinhalalookup7 {
-  lookupflag 0;
-    sub sinVirama zerowidthjoiner by sinVirama.attatch;
-} akhnAkhandinSinhalalookup7;
+
 
 lookup akhn_02 {
   lookupflag 0;
-    sub sinKa' sinVirama.attatch sinSsa by sinKa.half;
-   	sub sinKa' sinVirama.attatch sinVa by sinKa.half;
-   	sub sinKa' sinVirama.attatch sinVa by sinKa.half;
-    sub sinTa' sinVirama.attatch sinVa by sinTa.half;
-    sub sinTa' sinVirama.attatch sinVa by sinTa.half;
-   	sub sinTa' sinVirama.attatch sinTha by sinTa.half;
-	sub sinNa' sinVirama.attatch sinDa by sinNa.half;
-	sub sinNa' sinVirama.attatch sinVa by sinNa.half;
-	sub sinNa' sinVirama.attatch sinTha by sinNa.half;
+    sub [sinKa sinVirama zerowidthjoiner]' sinSsa by sinKa.half;
+   	sub [sinKa sinVirama zerowidthjoiner]' sinVa by sinKa.half;
+   	sub [sinKa sinVirama zerowidthjoiner]' by sinKa.half;
+    sub [sinTa sinVirama zerowidthjoiner]' sinVa by sinTa.half;
+    sub [sinTa sinVirama zerowidthjoiner]' sinVa by sinTa.half;
+   	sub [sinTa sinVirama zerowidthjoiner]' sinTha by sinTa.half;
+	sub [sinNa sinVirama zerowidthjoiner]' sinDa by sinNa.half;
+	sub [sinNa sinVirama zerowidthjoiner]' sinVa by sinNa.half;
+	sub [sinNa sinVirama zerowidthjoiner]' sinTha by sinNa.half;
 
 } akhn_02;
 lookup rphf0 {
@@ -314,7 +311,6 @@ feature psts {
 feature akhn {
  script sinh;
      language dflt ;
-      lookup akhnAkhandinSinhalalookup7;
       lookup akhn_02;
       lookup sin_touching_1;
       lookup sin_touching_2;
