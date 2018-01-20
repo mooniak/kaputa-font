@@ -7,7 +7,7 @@
   <anchor x="900" y="62" name="sin_Rakar"/>
   <outline>
     <component base="sinDha" xOffset="462"/>
-    <component base="sinKa.half" xOffset="39"/>
+    <component base="sinKa.half" xOffset="89"/>
   </outline>
   <lib>
     <dict>
