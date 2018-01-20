@@ -161,7 +161,7 @@ lookup blws_01{
   sub sinLa sinMatraUu  by sinLUu;
   sub sinSha sinRakar sinMatraIi  by sinShRIi;
   sub sinLla sinMatraU  by sinLlU;
-    
+
 } blws_01;
 
 lookup blws_02{
@@ -169,7 +169,6 @@ lookup blws_02{
   sub sinLla' sinMatraUu  by sinLlU;
   sub sinLlU sinMatraUu'  by sinMatraAae;
 
-    
 } blws_02;
 
 lookup sin_touching_1 {
@@ -295,7 +294,6 @@ feature blws {
      language dflt;
       lookup blws_01;
       lookup blws_02;
-
 } blws;
 
 feature ss06 {
