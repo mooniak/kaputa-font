@@ -242,6 +242,7 @@
 		<string>copyright</string>
 		<string>registered</string>
 		<string>trademark</string>
+		<string>euro</string>
 		<string>brokenbar</string>
 		<string>asciicircum</string>
 		<string>grave</string>
@@ -327,8 +328,6 @@
 		<string>sinVIi</string>
 		<string>sinRI</string>
 		<string>sinRIi</string>
-		<string>NULL</string>
-		<string>euro</string>
 	</array>
 </dict>
 </plist>
