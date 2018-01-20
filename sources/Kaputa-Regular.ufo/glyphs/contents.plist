@@ -36,6 +36,8 @@
 	<string>M_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>NULL</key>
+	<string>N_U_L_L_.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>P</key>
@@ -124,6 +126,8 @@
 	<string>equal.osf.glif</string>
 	<key>equal.tf</key>
 	<string>equal.tf.glif</string>
+	<key>euro</key>
+	<string>euro.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>f</key>

@@ -327,6 +327,8 @@
 		<string>sinVIi</string>
 		<string>sinRI</string>
 		<string>sinRIi</string>
+		<string>NULL</string>
+		<string>euro</string>
 	</array>
 </dict>
 </plist>

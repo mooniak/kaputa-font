@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zerowidthnonjoiner" format="2">
-  <advance width="22"/>
   <unicode hex="200C"/>
   <outline>
-    <contour>
-      <point x="22" y="-236" type="line"/>
-      <point x="22" y="636" type="line"/>
-      <point x="0" y="636" type="line"/>
-      <point x="0" y="-236" type="line"/>
-    </contour>
   </outline>
 </glyph>
