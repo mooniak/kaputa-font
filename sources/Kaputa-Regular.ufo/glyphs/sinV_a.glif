@@ -5,6 +5,7 @@
   <anchor x="255" y="617" name="sinReph"/>
   <anchor x="118" y="561" name="sinVirama"/>
   <anchor x="425" y="62" name="sin_Rakar"/>
+  <anchor x="77.5967741935485" y="403.0887096774194" name="_attatch"/>
   <outline>
     <contour>
       <point x="507" y="483"/>

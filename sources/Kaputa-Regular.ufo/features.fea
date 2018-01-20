@@ -15,15 +15,15 @@ languagesystem sinh dflt;
 
 lookup akhn_02 {
   lookupflag 0;
-    sub [sinKa sinVirama zerowidthjoiner]' sinSsa by sinKa.half;
-   	sub [sinKa sinVirama zerowidthjoiner]' sinVa by sinKa.half;
-   	sub [sinKa sinVirama zerowidthjoiner]' by sinKa.half;
-    sub [sinTa sinVirama zerowidthjoiner]' sinVa by sinTa.half;
-    sub [sinTa sinVirama zerowidthjoiner]' sinVa by sinTa.half;
-   	sub [sinTa sinVirama zerowidthjoiner]' sinTha by sinTa.half;
-	sub [sinNa sinVirama zerowidthjoiner]' sinDa by sinNa.half;
-	sub [sinNa sinVirama zerowidthjoiner]' sinVa by sinNa.half;
-	sub [sinNa sinVirama zerowidthjoiner]' sinTha by sinNa.half;
+    sub sinKa' sinVirama' zerowidthjoiner' sinSsa by sinKa.half;
+   	sub sinKa' sinVirama' zerowidthjoiner' sinVa by sinKa.half;
+   	sub sinKa' sinVirama' zerowidthjoiner' sinVa by sinKa.half;
+    sub sinTa' sinVirama' zerowidthjoiner' sinVa by sinTa.half;
+    sub sinTa' sinVirama' zerowidthjoiner' sinVa by sinTa.half;
+   	sub sinTa' sinVirama' zerowidthjoiner' sinTha by sinTa.half;
+	sub sinNa' sinVirama' zerowidthjoiner' sinDa by sinNa.half;
+	sub sinNa' sinVirama' zerowidthjoiner' sinVa by sinNa.half;
+	sub sinNa' sinVirama' zerowidthjoiner' sinTha by sinNa.half;
 
 } akhn_02;
 lookup rphf0 {

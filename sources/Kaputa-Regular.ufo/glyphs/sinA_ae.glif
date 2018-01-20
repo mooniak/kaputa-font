@@ -3,7 +3,7 @@
   <advance width="807"/>
   <unicode hex="0D88"/>
   <outline>
-    <component base="sinA"/>
+    <component base="sinA" xOffset="-1.3709677419354875" yOffset="-0.032258064516128115"/>
     <component base="sinMatraAae" xOffset="540"/>
   </outline>
   <lib>
