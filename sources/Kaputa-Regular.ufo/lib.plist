@@ -262,7 +262,6 @@
 		<string>sinMatraU.alt</string>
 		<string>sinMatraUu.alt</string>
 		<string>sinVirama.alt</string>
-		<string>sinVirama.attatch</string>
 		<string>sinVirama.touch</string>
 		<string>sinAnusvara</string>
 		<string>sinMatraAa</string>
@@ -328,6 +327,7 @@
 		<string>sinVIi</string>
 		<string>sinRI</string>
 		<string>sinRIi</string>
+		<string>O</string>
 	</array>
 </dict>
 </plist>

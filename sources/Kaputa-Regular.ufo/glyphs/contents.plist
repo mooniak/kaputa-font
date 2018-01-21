@@ -550,8 +550,6 @@
 	<string>sinV_irama.glif</string>
 	<key>sinVirama.alt</key>
 	<string>sinV_irama.alt.glif</string>
-	<key>sinVirama.attatch</key>
-	<string>sinV_irama.attatch.glif</string>
 	<key>sinVirama.touch</key>
 	<string>sinV_irama.touch.glif</string>
 	<key>sinVisarga</key>
