@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinMatraU" format="2">
-  <unicode hex="0DD4"/>
-  <anchor x="-60.951612903225794" y="113.61290322580645" name="_sinMatraU"/>
-  <outline>
-    <contour>
-      <point x="-61" y="-152" type="line"/>
-      <point x="-61" y="114" type="line"/>
-      <point x="-103" y="68" type="line"/>
-      <point x="-103" y="-108" type="line"/>
-      <point x="-469" y="-109" type="line"/>
-      <point x="-469" y="-152" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="0DD4"/>
+	<outline>
+		<contour>
+			<point x="-61" y="-152" type="line"/>
+			<point x="-61" y="114" type="line"/>
+			<point x="-103" y="68" type="line"/>
+			<point x="-103" y="-108" type="line"/>
+			<point x="-469" y="-109" type="line"/>
+			<point x="-469" y="-152" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_sinMatraU" x="-61" y="114"/>
 </glyph>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="2">
-  <advance width="472"/>
-  <unicode hex="002B"/>
-  <note>
-    plus
-  </note>
-  <outline>
-    <contour>
-      <point x="256" y="167" type="line"/>
-      <point x="256" y="323" type="line"/>
-      <point x="403" y="323" type="line"/>
-      <point x="403" y="362" type="line"/>
-      <point x="256" y="362" type="line"/>
-      <point x="256" y="518" type="line"/>
-      <point x="214" y="518" type="line"/>
-      <point x="214" y="362" type="line"/>
-      <point x="67" y="362" type="line"/>
-      <point x="67" y="323" type="line"/>
-      <point x="214" y="323" type="line"/>
-      <point x="214" y="167" type="line"/>
-    </contour>
-  </outline>
+	<unicode hex="002B"/>
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point x="256" y="167" type="line"/>
+			<point x="256" y="323" type="line"/>
+			<point x="403" y="323" type="line"/>
+			<point x="403" y="362" type="line"/>
+			<point x="256" y="362" type="line"/>
+			<point x="256" y="518" type="line"/>
+			<point x="214" y="518" type="line"/>
+			<point x="214" y="362" type="line"/>
+			<point x="67" y="362" type="line"/>
+			<point x="67" y="323" type="line"/>
+			<point x="214" y="323" type="line"/>
+			<point x="214" y="167" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		plus
+	</note>
 </glyph>

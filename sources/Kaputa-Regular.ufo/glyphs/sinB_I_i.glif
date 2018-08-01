@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinBIi" format="2">
-  <advance width="524"/>
-  <outline>
-    <contour>
-      <point x="461" y="-1"/>
-      <point x="512" y="123"/>
-      <point x="512" y="291" type="curve"/>
-      <point x="471" y="281" type="line"/>
-      <point x="471" y="144"/>
-      <point x="424" y="40"/>
-      <point x="343" y="40" type="curve" smooth="yes"/>
-      <point x="259" y="40"/>
-      <point x="227" y="98"/>
-      <point x="227" y="172" type="curve" smooth="yes"/>
-      <point x="227" y="242"/>
-      <point x="252" y="252"/>
-      <point x="302" y="253" type="curve"/>
-      <point x="302" y="274" type="line" smooth="yes"/>
-      <point x="302" y="387"/>
-      <point x="266" y="443"/>
-      <point x="179" y="443" type="curve" smooth="yes"/>
-      <point x="81" y="443"/>
-      <point x="25" y="363"/>
-      <point x="25" y="202" type="curve" smooth="yes"/>
-      <point x="25" y="89"/>
-      <point x="65" y="1"/>
-      <point x="162" y="1" type="curve" smooth="yes"/>
-      <point x="177" y="1"/>
-      <point x="185" y="2"/>
-      <point x="203" y="7" type="curve"/>
-      <point x="192" y="42" type="line"/>
-      <point x="185" y="39"/>
-      <point x="178" y="38"/>
-      <point x="171" y="38" type="curve" smooth="yes"/>
-      <point x="94" y="38"/>
-      <point x="64" y="98"/>
-      <point x="64" y="212" type="curve" smooth="yes"/>
-      <point x="64" y="335"/>
-      <point x="106" y="404"/>
-      <point x="181" y="404" type="curve" smooth="yes"/>
-      <point x="233" y="404"/>
-      <point x="259" y="369"/>
-      <point x="259" y="298" type="curve"/>
-      <point x="211" y="298"/>
-      <point x="186" y="250"/>
-      <point x="186" y="170" type="curve" smooth="yes"/>
-      <point x="186" y="73"/>
-      <point x="214" y="-1"/>
-      <point x="329" y="-1" type="curve" smooth="yes"/>
-    </contour>
-    <component base="_ii.part" xOffset="30"/>
-  </outline>
+	<advance width="524"/>
+	<outline>
+		<contour>
+			<point x="461" y="-1"/>
+			<point x="512" y="123"/>
+			<point x="512" y="291" type="curve"/>
+			<point x="471" y="281" type="line"/>
+			<point x="471" y="144"/>
+			<point x="424" y="40"/>
+			<point x="343" y="40" type="curve" smooth="yes"/>
+			<point x="259" y="40"/>
+			<point x="227" y="98"/>
+			<point x="227" y="172" type="curve" smooth="yes"/>
+			<point x="227" y="242"/>
+			<point x="252" y="252"/>
+			<point x="302" y="253" type="curve"/>
+			<point x="302" y="274" type="line" smooth="yes"/>
+			<point x="302" y="387"/>
+			<point x="266" y="443"/>
+			<point x="179" y="443" type="curve" smooth="yes"/>
+			<point x="81" y="443"/>
+			<point x="25" y="363"/>
+			<point x="25" y="202" type="curve" smooth="yes"/>
+			<point x="25" y="89"/>
+			<point x="65" y="1"/>
+			<point x="162" y="1" type="curve" smooth="yes"/>
+			<point x="177" y="1"/>
+			<point x="185" y="2"/>
+			<point x="203" y="7" type="curve"/>
+			<point x="192" y="42" type="line"/>
+			<point x="185" y="39"/>
+			<point x="178" y="38"/>
+			<point x="171" y="38" type="curve" smooth="yes"/>
+			<point x="94" y="38"/>
+			<point x="64" y="98"/>
+			<point x="64" y="212" type="curve" smooth="yes"/>
+			<point x="64" y="335"/>
+			<point x="106" y="404"/>
+			<point x="181" y="404" type="curve" smooth="yes"/>
+			<point x="233" y="404"/>
+			<point x="259" y="369"/>
+			<point x="259" y="298" type="curve"/>
+			<point x="211" y="298"/>
+			<point x="186" y="250"/>
+			<point x="186" y="170" type="curve" smooth="yes"/>
+			<point x="186" y="73"/>
+			<point x="214" y="-1"/>
+			<point x="329" y="-1" type="curve" smooth="yes"/>
+		</contour>
+		<component base="_ii.part" xOffset="30"/>
+	</outline>
 </glyph>

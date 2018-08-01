@@ -1,59 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinSha" format="2">
-  <advance width="590"/>
-  <unicode hex="0DC1"/>
-  <anchor x="491" y="52" name="sin_Rakar"/>
-  <anchor x="295" y="517" name="sinReph"/>
-  <anchor x="350" y="38" name="sinMatraU"/>
-  <anchor x="474" y="489" name="sinVirama"/>
-  <anchor x="73" y="533" name="sinMatraI"/>
-  <outline>
-    <contour>
-      <point x="361.0" y="95.0" type="curve"/>
-      <point x="380.0" y="86.0"/>
-      <point x="405" y="60"/>
-      <point x="405.0" y="29.0" type="curve"/>
-      <point x="407" y="4" type="line"/>
-      <point x="425" y="8"/>
-      <point x="441" y="13"/>
-      <point x="453" y="18" type="curve" smooth="yes"/>
-      <point x="538.8823529411765" y="54.470588235294116"/>
-      <point x="549.0" y="154.0"/>
-      <point x="548.0" y="196.0" type="curve"/>
-      <point x="531.0" y="238.0"/>
-      <point x="490.0" y="250.0"/>
-      <point x="452.0" y="250.0" type="curve" smooth="yes"/>
-      <point x="413.5107529367199" y="250.0"/>
-      <point x="366.1673597964305" y="230.53205207799522"/>
-      <point x="357.0" y="174.0" type="curve" smooth="yes"/>
-      <point x="357" y="141"/>
-      <point x="355.0" y="120.0"/>
-    </contour>
-    <contour>
-      <point x="439" y="72"/>
-      <point x="431.04362229115225" y="79.16131578931493"/>
-      <point x="418" y="95" type="curve" smooth="yes"/>
-      <point x="404.0" y="112.0"/>
-      <point x="387" y="128"/>
-      <point x="387" y="151" type="curve" smooth="yes"/>
-      <point x="387" y="193"/>
-      <point x="415.0" y="206.0"/>
-      <point x="450.0" y="206.0" type="curve" smooth="yes"/>
-      <point x="483.0" y="206.0"/>
-      <point x="517.0" y="196.0"/>
-      <point x="517.0" y="163.0" type="curve"/>
-      <point x="517.0" y="120.0"/>
-      <point x="476.0" y="54.0"/>
-      <point x="439.0" y="36.0" type="curve"/>
-    </contour>
-    <component base="sinGa"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0DC1"/>
+	<advance width="590"/>
+	<outline>
+		<contour>
+			<point x="367" y="-4" type="curve"/>
+			<point x="513" y="-4"/>
+			<point x="565" y="88"/>
+			<point x="565" y="250" type="curve" smooth="yes"/>
+			<point x="565" y="393"/>
+			<point x="518" y="504"/>
+			<point x="380" y="504" type="curve" smooth="yes"/>
+			<point x="264" y="504"/>
+			<point x="209" y="449"/>
+			<point x="196" y="313" type="curve"/>
+			<point x="196" y="228" type="line"/>
+			<point x="240" y="228" type="line"/>
+			<point x="240" y="304" type="line"/>
+			<point x="277" y="302" type="line" smooth="yes"/>
+			<point x="321" y="299"/>
+			<point x="346" y="265"/>
+			<point x="346" y="211" type="curve" smooth="yes"/>
+			<point x="346" y="107"/>
+			<point x="307" y="42"/>
+			<point x="213" y="42" type="curve" smooth="yes"/>
+			<point x="116" y="42"/>
+			<point x="67" y="105"/>
+			<point x="67" y="243" type="curve" smooth="yes"/>
+			<point x="67" y="388"/>
+			<point x="115" y="464"/>
+			<point x="192" y="466" type="curve" smooth="yes"/>
+			<point x="228" y="467" type="line"/>
+			<point x="227" y="505" type="line"/>
+			<point x="198" y="505" type="line" smooth="yes"/>
+			<point x="88" y="505"/>
+			<point x="24" y="417"/>
+			<point x="23" y="244" type="curve" smooth="yes"/>
+			<point x="23" y="81"/>
+			<point x="81" y="0"/>
+			<point x="199" y="0" type="curve" smooth="yes"/>
+			<point x="333" y="0"/>
+			<point x="391" y="75"/>
+			<point x="391" y="205" type="curve" smooth="yes"/>
+			<point x="391" y="284"/>
+			<point x="352" y="336"/>
+			<point x="281" y="340" type="curve" smooth="yes"/>
+			<point x="243" y="342" type="line"/>
+			<point x="260" y="430"/>
+			<point x="297" y="462"/>
+			<point x="372" y="462" type="curve" smooth="yes"/>
+			<point x="490" y="462"/>
+			<point x="518" y="376"/>
+			<point x="520" y="239" type="curve" smooth="yes"/>
+			<point x="520" y="216"/>
+			<point x="518" y="199"/>
+			<point x="516" y="180" type="curve"/>
+			<point x="493" y="198"/>
+			<point x="472" y="201"/>
+			<point x="451" y="201" type="curve" smooth="yes"/>
+			<point x="396" y="201"/>
+			<point x="353" y="172"/>
+			<point x="353" y="109" type="curve"/>
+			<point x="350" y="66"/>
+			<point x="352" y="36"/>
+		</contour>
+		<contour>
+			<point x="384" y="103" type="curve" smooth="yes"/>
+			<point x="384" y="145"/>
+			<point x="425" y="157"/>
+			<point x="444" y="156" type="curve" smooth="yes"/>
+			<point x="478" y="156"/>
+			<point x="491" y="149"/>
+			<point x="507" y="138" type="curve"/>
+			<point x="488" y="77"/>
+			<point x="448" y="47"/>
+			<point x="398" y="39" type="curve"/>
+			<point x="388" y="55"/>
+			<point x="384" y="64"/>
+		</contour>
+	</outline>
+	<anchor name="sin_Rakar" x="491" y="52"/>
+	<anchor name="sinReph" x="295" y="517"/>
+	<anchor name="sinMatraU" x="350" y="38"/>
+	<anchor name="sinVirama" x="474" y="489"/>
+	<anchor name="sinMatraI" x="73" y="533"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-19 20:53:13 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,9 +1,10 @@
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem sinh dflt;
 
-
+# Prefix: Prefix
 lookup akhn_02 {
-  
+
   sub sinKa' sinVirama' zerowidthjoiner' sinSsa by sinKa.half;
   sub sinKa' sinVirama' zerowidthjoiner' sinVa by sinKa.half;
   sub sinKa' sinVirama' zerowidthjoiner' sinVa by sinKa.half;
@@ -17,23 +18,23 @@ lookup akhn_02 {
 } akhn_02;
 
 lookup rphf0 {
-  
+
   sub sinRa sinVirama zerowidthjoiner by sinReph;
-  
+
 } rphf0;
 
 lookup rphf1 {
-  
+
   sub sinVirama zerowidthjoiner sinRa  by sinRakar;
 } rphf1;
 
 lookup vatu1 {
-  
+
   sub sinVirama zerowidthjoiner sinYa  by sinYa.post;
 } vatu1;
 
 lookup pstf_01 {
-  
+
   sub sinMatraE sinVirama  by sinMatraEe;
   sub sinMatraE sinMatraE  by sinMatraAi;
   sub sinMatraE sinMatraAa  by sinMatraO;
@@ -45,7 +46,7 @@ lookup pstf_01 {
 } pstf_01;
 
 lookup rphf4 {
-  
+
   sub sinA sinMatraAa  by sinAa;
   sub sinA sinMatraAe  by sinAae;
   sub sinA sinMatraAae  by sinAe;
@@ -53,64 +54,66 @@ lookup rphf4 {
   sub sinVocalicR sinMatraR  by sinVocalicRr;
   sub sinO sinVirama  by sinOo;
   sub sinO sinMatraLs  by sinAu;
-  
+
 } rphf4;
 
 lookup pstf_02 {
-  
+
   sub sinMatraEe by sinMatraEe.sechalf;
   sub sinMatraO by sinMatraO.sechalf;
   sub sinMatraOo by sinMatraOo.sechalf;
   sub sinMatraAu by sinMatraAu.sechalf;
-    
+
 } pstf_02;
 
-
-
 lookup psts_01 {
-  
+
   sub sinRa sinMatraU'  by sinMatraAe;
   sub sinRa sinMatraUu'  by sinMatraAae;
 
 } psts_01;
 
 lookup psts_02{
-  
+
  sub [sinGa sinNnga sinKa sinTa sinBha sinSha] [sinMatraU ]'  by [sinMatraU.alt ];
  sub [sinGa sinNnga sinKa sinTa sinBha sinSha] [sinMatraUu ]'  by [sinMatraUu.alt ];
 
 } psts_02;
 
 lookup psts_03 {
-  
+
   sub sinRa sinMatraAe  by sinRAe;
   sub sinRa sinMatraAae  by sinRAae;
 
 } psts_03;
 
 lookup abvs_virama {
-  
+
   sub [sinKha sinJha sinNga sinCa sinTta sinDda sinNndda sinDha sinBa sinMa sinMba sinVa] [sinVirama sinMatraEe.sechalf ]'  by [sinVirama.alt ];
 
 } abvs_virama;
-
-
 lookup abvs_virama_02 {
-  
+
   sub [sinKha sinNga sinCa sinTta sinDda sinNndda sinDha sinBa sinMa sinMba sinVa] [sinRakar ] [sinVirama sinMatraEe.sechalf ]'  by [sinVirama.alt ];
 
 } abvs_virama_02;
 
+lookup abvs_virama_03 {
+
+  sub sinRa sinVirama  by sinR.virama;
+
+} abvs_virama_03;
+
 lookup abvs_matrai {
 
-  sub [sinDa sinDa.rakar sinNda sinJnya sinNya sinLa sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
+  sub [sinDa sinDa.rakar sinNda sinJnya sinNya sinLa sinLla sinYa.post] [sinMatraI sinMatraIi ]'  by [sinMatraI.alt sinMatraIi.alt ];
   sub [sinCha sinJa sinNdja] [sinMatraI sinMatraIi]'  by [sinMatraI.alt1 sinMatraIi.alt1 ];
   sub [sinTha sinPha sinTtha sinDdha ] [sinMatraI sinMatraIi]'  by [sinMatraI.alt2 sinMatraIi.alt2 ];
-    
+
 } abvs_matrai;
 
 lookup abvs_01 {
-  
+
   sub sinKha sinMatraI  by sinKhI;
   sub sinKha sinMatraIi  by sinKhIi;
   sub sinNga sinMatraI  by sinNgI;
@@ -140,13 +143,66 @@ lookup abvs_01 {
 
 } abvs_01;
 
-lookup abvs_02{
-  sub sinBa' sinRakar' sinMatraIi by sinBIi;
+lookup abvs_02 {
+	 
+    sub sinKha sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinNga sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinCa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinTta sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinDda sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinNndda sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinDha sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinBa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinMa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinMba sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinVa sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinJha sinRakar sinMatraI'  by sinMatraI.empty;
+    sub sinKha sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinNga sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinCa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinTta sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinDda sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinNndda sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinDha sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinBa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinMa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinMba sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinVa sinRakar sinMatraIi'  by sinMatraIi.empty;
+sub sinJha sinRakar sinMatraIi'  by sinMatraIi.empty;
 
 } abvs_02;
 
+lookup abvs_03{
+
+	sub sinKha' sinRakar sinRakar sinMatraI by sinKhI;
+	sub sinNga' sinRakar sinMatraI.empty by sinNgI;
+	sub sinCa' sinRakar sinMatraI.empty by sinCI;
+	sub sinTta' sinRakar sinMatraI.empty by sinTtI;
+	sub sinDda' sinRakar sinMatraI.empty by sinDdI;
+	sub sinNndda' sinRakar sinMatraI.empty by sinNnddI;
+	sub sinDha' sinRakar sinMatraI.empty by sinDhI;
+	sub sinBa' sinRakar sinMatraI.empty by sinBI;
+	sub sinMa' sinRakar sinMatraI.empty by sinMI;
+	sub sinMba' sinRakar sinMatraI.empty by sinMbI;
+	sub sinVa' sinRakar sinMatraI.empty by sinVI;
+	sub sinJha' sinRakar sinMatraI.empty by sinJhI;
+	sub sinKha' sinRakar sinMatraIi.empty by sinKhIi;
+	sub sinNga' sinRakar sinMatraIi.empty by sinNgIi;
+	sub sinCa' sinRakar sinMatraIi.empty by sinCIi;
+	sub sinTta' sinRakar sinMatraIi.empty by sinTtIi;
+	sub sinDda' sinRakar sinMatraIi.empty by sinDdIi;
+	sub sinNndda' sinRakar sinMatraIi.empty by sinNnddIi;
+	sub sinDha' sinRakar sinMatraIi.empty by sinDhIi;
+	sub sinBa' sinRakar sinMatraIi.empty by sinBIi;
+	sub sinMa' sinRakar sinMatraIi.empty by sinMIi;
+	sub sinMba' sinRakar sinMatraIi.empty by sinMbIi;
+	sub sinVa' sinRakar sinMatraIi.empty by sinVIi;
+	sub sinJha' sinRakar sinMatraIi.empty by sinJhIi;
+
+} abvs_03;
+
 lookup blws_01{
-  
+
   sub sinNya sinMatraU  by sinNyU;
   sub sinNya sinMatraUu  by sinNyUu;
   sub sinJnya sinMatraU  by sinJnyU;
@@ -165,7 +221,7 @@ lookup blws_01{
 } blws_01;
 
 lookup blws_02{
-  
+
   sub sinLla' sinMatraUu  by sinLlU;
   sub sinLlU sinMatraUu'  by sinMatraAae;
 
@@ -194,7 +250,7 @@ lookup sin_touching_1 {
   sub sinNya zerowidthjoiner sinVirama'  by sinVirama.touch;
   sub sinNga zerowidthjoiner sinVirama'  by sinVirama.touch;
   sub sinNga zerowidthjoiner sinVirama'  by sinVirama.touch;
-  
+
 } sin_touching_1;
 
 lookup sin_touching_2 {
@@ -223,7 +279,7 @@ lookup sin_touching_2 {
  pos sinNya' sinVirama.touch <0 0 -50 0>;
  pos sinNga' sinVirama.touch <0 0 -50 0>;
  pos sinNga' sinVirama.touch <0 0 -50 0>;
- 
+
 } sin_touching_2;
 
 #----------- Sinhala Numerals------------
@@ -278,6 +334,7 @@ feature abvs {
      language dflt;
       lookup abvs_01;
       lookup abvs_02;
+      lookup abvs_03;
       lookup abvs_virama;
       lookup abvs_matrai;
       lookup abvs_virama_02;
@@ -302,13 +359,3 @@ feature ss06 {
     lookup sin_lithnum_style;
 } ss06;
 
-feature abvm{
-} abvm;
-
-@BASE = [ sinBa sinBha sinCa sinCha sinDa sinDda sinDdha sinDha sinE sinEe sinFa sinGa sinGha sinHa sinI sinIi sinJa sinJha sinJnya sinKa sinKha sinLa sinLla sinMa sinMba sinNa sinNda sinNdja sinNga sinNna sinNndda sinNnga sinNya sinPa sinPha sinRa sinSa sinSha sinSsa sinTa sinTha sinTta sinTtha sinVa sinVocalicR sinVocalicRr sinVocalicl sinVocalicll sinYa sinDa.rakar sinKa.half sinNa.half sinNda.rakar sinTa.half ];
-
-@MARKS = [ sinMatraI sinMatraIi sinMatraU sinMatraUu sinVirama sinMatraI.alt sinMatraI.alt1 sinMatraI.alt2 sinMatraI.empty sinMatraIi.alt sinMatraIi.alt1 sinMatraIi.alt2 sinMatraIi.empty sinMatraU.alt sinMatraUu.alt sinVirama.alt sinVirama.touch sinMatraEe.sechalf ];
-
-table GDEF {
-  GlyphClassDef @BASE,,@MARKS,;
-} GDEF;

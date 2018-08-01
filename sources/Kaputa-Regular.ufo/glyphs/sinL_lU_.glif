@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinLlU" format="2">
-  <advance width="591"/>
-  <outline>
-    <contour>
-      <point x="204" y="474" type="line"/>
-      <point x="126" y="474"/>
-      <point x="35" y="424"/>
-      <point x="35.0" y="305.0" type="curve" smooth="yes"/>
-      <point x="35.0" y="267.0"/>
-      <point x="38.102941701102395" y="211.0266085956954"/>
-      <point x="65" y="146" type="curve"/>
-      <point x="110" y="146" type="line"/>
-      <point x="89" y="195"/>
-      <point x="69.0" y="237.0"/>
-      <point x="71.31211676814985" y="298.156455041789" type="curve" smooth="yes"/>
-      <point x="73.72666003567781" y="362.0221338090379"/>
-      <point x="94" y="430"/>
-      <point x="191" y="430" type="curve"/>
-    </contour>
-    <component base="sinPha" xOffset="60"/>
-  </outline>
+	<advance width="591"/>
+	<outline>
+		<contour>
+			<point x="204" y="474" type="line"/>
+			<point x="126" y="474"/>
+			<point x="35" y="424"/>
+			<point x="35" y="305" type="curve" smooth="yes"/>
+			<point x="35" y="267"/>
+			<point x="38" y="211"/>
+			<point x="65" y="146" type="curve"/>
+			<point x="102" y="146" type="line"/>
+			<point x="81" y="195"/>
+			<point x="69" y="237"/>
+			<point x="71" y="298" type="curve" smooth="yes"/>
+			<point x="74" y="362"/>
+			<point x="94" y="430"/>
+			<point x="191" y="430" type="curve"/>
+		</contour>
+		<component base="sinPha" xOffset="60"/>
+	</outline>
 </glyph>

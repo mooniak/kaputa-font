@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinNda" format="2">
-  <advance width="531"/>
-  <unicode hex="0DB3"/>
-  <anchor x="295" y="547" name="sinReph"/>
-  <anchor x="172" y="494" name="sinMatraI"/>
-  <anchor x="403" y="489" name="sinVirama"/>
-  <outline>
-    <contour>
-      <point x="116" y="188" type="line"/>
-      <point x="87.0" y="308.0"/>
-      <point x="106.78908825409016" y="459.0"/>
-      <point x="242" y="459" type="curve"/>
-      <point x="287" y="469" type="line"/>
-      <point x="301" y="506" type="line"/>
-      <point x="279" y="506" type="line"/>
-      <point x="131.13367704532988" y="506.0"/>
-      <point x="29.0" y="405.0"/>
-      <point x="79" y="178" type="curve"/>
-    </contour>
-    <component base="sinDa" xOffset="96.53225806451621" yOffset="-0.02419354838707477"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0DB3"/>
+	<advance width="531"/>
+	<outline>
+		<contour>
+			<point x="116" y="188" type="line"/>
+			<point x="87" y="308"/>
+			<point x="107" y="459"/>
+			<point x="242" y="459" type="curve"/>
+			<point x="287" y="469" type="line"/>
+			<point x="301" y="506" type="line"/>
+			<point x="279" y="506" type="line"/>
+			<point x="131" y="506"/>
+			<point x="29" y="405"/>
+			<point x="79" y="178" type="curve"/>
+		</contour>
+		<component base="sinDa" xOffset="96.532"/>
+	</outline>
+	<anchor name="sinReph" x="295" y="547"/>
+	<anchor name="sinMatraI" x="172" y="494"/>
+	<anchor name="sinVirama" x="403" y="489"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-19 20:53:13 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,80 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinPa" format="2">
-  <advance width="568"/>
-  <unicode hex="0DB4"/>
-  <anchor x="458" y="82" name="sin_Rakar"/>
-  <anchor x="285" y="517" name="sinReph"/>
-  <anchor x="441" y="489" name="sinVirama"/>
-  <anchor x="70" y="533" name="sinMatraI"/>
-  <anchor x="-72.10618279569891" y="122.44623655913978" name="_sinMatraU"/>
-  <anchor x="472.0228494623655" y="83.85483870967741" name="sinMatraU"/>
-  <outline>
-    <contour>
-      <point x="426" y="-1"/>
-      <point x="523" y="77"/>
-      <point x="523" y="235" type="curve" smooth="yes"/>
-      <point x="523" y="311"/>
-      <point x="494" y="393"/>
-      <point x="382" y="393" type="curve" smooth="yes"/>
-      <point x="311" y="393" type="line"/>
-      <point x="311" y="433"/>
-      <point x="342" y="466"/>
-      <point x="385" y="466" type="curve" smooth="yes"/>
-      <point x="428" y="466"/>
-      <point x="457" y="441"/>
-      <point x="456" y="395" type="curve"/>
-      <point x="493" y="391" type="line"/>
-      <point x="493" y="396" type="line" smooth="yes"/>
-      <point x="493" y="450"/>
-      <point x="460" y="506"/>
-      <point x="384" y="506" type="curve" smooth="yes"/>
-      <point x="348" y="506"/>
-      <point x="298" y="485"/>
-      <point x="285" y="433" type="curve"/>
-      <point x="274" y="479"/>
-      <point x="229" y="506"/>
-      <point x="178" y="506" type="curve" smooth="yes"/>
-      <point x="114" y="506"/>
-      <point x="71" y="467"/>
-      <point x="71" y="402" type="curve" smooth="yes"/>
-      <point x="71" y="392" type="line"/>
-      <point x="110" y="395" type="line"/>
-      <point x="110" y="444"/>
-      <point x="139" y="464"/>
-      <point x="178" y="464" type="curve" smooth="yes"/>
-      <point x="225" y="464"/>
-      <point x="254" y="436"/>
-      <point x="254" y="393" type="curve"/>
-      <point x="191" y="393" type="line" smooth="yes"/>
-      <point x="105" y="393"/>
-      <point x="43" y="333"/>
-      <point x="43" y="221" type="curve" smooth="yes"/>
-      <point x="43" y="83"/>
-      <point x="141" y="-1"/>
-      <point x="276" y="-1" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="183" y="41"/>
-      <point x="83" y="97"/>
-      <point x="83" y="225" type="curve" smooth="yes"/>
-      <point x="83" y="314"/>
-      <point x="121" y="355"/>
-      <point x="200" y="355" type="curve" smooth="yes"/>
-      <point x="363" y="355" type="line" smooth="yes"/>
-      <point x="448" y="355"/>
-      <point x="484" y="321"/>
-      <point x="484" y="225" type="curve" smooth="yes"/>
-      <point x="484" y="106"/>
-      <point x="399" y="41"/>
-      <point x="278" y="41" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
+	<unicode hex="0DB4"/>
+	<advance width="568"/>
+	<outline>
+		<contour>
+			<point x="426" y="-1"/>
+			<point x="523" y="77"/>
+			<point x="523" y="235" type="curve" smooth="yes"/>
+			<point x="523" y="311"/>
+			<point x="494" y="393"/>
+			<point x="382" y="393" type="curve" smooth="yes"/>
+			<point x="311" y="393" type="line"/>
+			<point x="311" y="433"/>
+			<point x="342" y="466"/>
+			<point x="385" y="466" type="curve" smooth="yes"/>
+			<point x="428" y="466"/>
+			<point x="457" y="441"/>
+			<point x="456" y="395" type="curve"/>
+			<point x="493" y="391" type="line"/>
+			<point x="493" y="396" type="line" smooth="yes"/>
+			<point x="493" y="450"/>
+			<point x="460" y="506"/>
+			<point x="384" y="506" type="curve" smooth="yes"/>
+			<point x="348" y="506"/>
+			<point x="298" y="485"/>
+			<point x="285" y="433" type="curve"/>
+			<point x="274" y="479"/>
+			<point x="229" y="506"/>
+			<point x="178" y="506" type="curve" smooth="yes"/>
+			<point x="114" y="506"/>
+			<point x="71" y="467"/>
+			<point x="71" y="402" type="curve" smooth="yes"/>
+			<point x="71" y="392" type="line"/>
+			<point x="110" y="395" type="line"/>
+			<point x="110" y="444"/>
+			<point x="139" y="464"/>
+			<point x="178" y="464" type="curve" smooth="yes"/>
+			<point x="225" y="464"/>
+			<point x="254" y="436"/>
+			<point x="254" y="393" type="curve"/>
+			<point x="191" y="393" type="line" smooth="yes"/>
+			<point x="105" y="393"/>
+			<point x="43" y="333"/>
+			<point x="43" y="221" type="curve" smooth="yes"/>
+			<point x="43" y="83"/>
+			<point x="141" y="-1"/>
+			<point x="276" y="-1" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="183" y="41"/>
+			<point x="83" y="97"/>
+			<point x="83" y="225" type="curve" smooth="yes"/>
+			<point x="83" y="314"/>
+			<point x="121" y="355"/>
+			<point x="200" y="355" type="curve" smooth="yes"/>
+			<point x="363" y="355" type="line" smooth="yes"/>
+			<point x="448" y="355"/>
+			<point x="484" y="321"/>
+			<point x="484" y="225" type="curve" smooth="yes"/>
+			<point x="484" y="106"/>
+			<point x="399" y="41"/>
+			<point x="278" y="41" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<anchor name="sin_Rakar" x="458.2211640212" y="82.3777777778"/>
+	<anchor name="sinReph" x="282" y="517"/>
+	<anchor name="sinMatraU" x="471.8645502646" y="83.5788359788"/>
+	<anchor name="sinVirama" x="441" y="489"/>
+	<anchor name="sinMatraI" x="71" y="533"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-19 20:53:13 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sinJhIi" format="2">
-  <advance width="1018"/>
-  <outline>
-    <component base="sinKa.half" xOffset="98.9060368382772" yOffset="-0.29907019716540617"/>
-    <component base="sinDhIi" xOffset="470"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>sinKa.half</string>
-        </dict>
-      </array>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>sinDha</string>
-    </dict>
-  </lib>
+	<advance width="1018"/>
+	<outline>
+		<component base="sinKa.half" xOffset="98.906" yOffset="-0.299"/>
+		<component base="sinDhIi" xOffset="470"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>sinKa.half</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinDha</string>
+		</dict>
+	</lib>
 </glyph>

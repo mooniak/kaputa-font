@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus.tf" format="2">
-  <advance width="484"/>
-  <note>
-    minus.tf
-  </note>
-  <outline>
-    <contour>
-      <point x="409" y="323" type="line"/>
-      <point x="409" y="362" type="line"/>
-      <point x="73" y="362" type="line"/>
-      <point x="73" y="323" type="line"/>
-    </contour>
-  </outline>
+	<advance width="484"/>
+	<outline>
+		<contour>
+			<point x="409" y="323" type="line"/>
+			<point x="409" y="362" type="line"/>
+			<point x="73" y="362" type="line"/>
+			<point x="73" y="323" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		minus.tf
+	</note>
 </glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinR.virama" format="2">
+	<advance width="504"/>
+	<outline>
+		<contour>
+			<point x="159" y="455" type="line"/>
+			<point x="159" y="662" type="line"/>
+			<point x="114" y="662" type="line"/>
+			<point x="114" y="455" type="line"/>
+		</contour>
+		<component base="sinRa"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-19 19:11:07 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
+</glyph>

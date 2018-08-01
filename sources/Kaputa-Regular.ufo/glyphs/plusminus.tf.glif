@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus.tf" format="2">
-  <advance width="484"/>
-  <note>
-    plusminus.tf
-  </note>
-  <outline>
-    <contour>
-      <point x="262" y="146" type="line"/>
-      <point x="262" y="301" type="line"/>
-      <point x="409" y="301" type="line"/>
-      <point x="409" y="340" type="line"/>
-      <point x="262" y="340" type="line"/>
-      <point x="262" y="495" type="line"/>
-      <point x="220" y="495" type="line"/>
-      <point x="220" y="340" type="line"/>
-      <point x="73" y="340" type="line"/>
-      <point x="73" y="301" type="line"/>
-      <point x="220" y="301" type="line"/>
-      <point x="220" y="146" type="line"/>
-    </contour>
-    <contour>
-      <point x="409" y="0" type="line"/>
-      <point x="409" y="39" type="line"/>
-      <point x="73" y="39" type="line"/>
-      <point x="73" y="0" type="line"/>
-    </contour>
-  </outline>
+	<advance width="484"/>
+	<outline>
+		<contour>
+			<point x="262" y="146" type="line"/>
+			<point x="262" y="301" type="line"/>
+			<point x="409" y="301" type="line"/>
+			<point x="409" y="340" type="line"/>
+			<point x="262" y="340" type="line"/>
+			<point x="262" y="495" type="line"/>
+			<point x="220" y="495" type="line"/>
+			<point x="220" y="340" type="line"/>
+			<point x="73" y="340" type="line"/>
+			<point x="73" y="301" type="line"/>
+			<point x="220" y="301" type="line"/>
+			<point x="220" y="146" type="line"/>
+		</contour>
+		<contour>
+			<point x="409" y="0" type="line"/>
+			<point x="409" y="39" type="line"/>
+			<point x="73" y="39" type="line"/>
+			<point x="73" y="0" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		plusminus.tf
+	</note>
 </glyph>
