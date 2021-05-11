@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraO.sechalf" format="1">
-  <advance width="238"/>
-  <outline>
-    <component base="sinMatraAa"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-18 09:41:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinMatraO.sechalf" format="2">
+	<advance width="248"/>
+	<outline>
+		<component base="sinMatraAa"/>
+	</outline>
 </glyph>

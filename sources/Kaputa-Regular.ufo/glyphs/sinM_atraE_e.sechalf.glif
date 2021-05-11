@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraEe.sechalf" format="1">
-  <advance width="1"/>
-  <outline>
-    <contour>
-      <point x="-203" y="665" type="line"/>
-      <point x="-199" y="488" type="line"/>
-      <point x="-156" y="487" type="line"/>
-      <point x="-158" y="665" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-18 08:47:20 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinMatraEe.sechalf" format="2">
+	<outline>
+		<contour>
+			<point x="-77" y="468" type="line"/>
+			<point x="-77" y="665" type="line"/>
+			<point x="-122" y="665" type="line"/>
+			<point x="-122" y="468" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="_si_virama" x="-100" y="486"/>
+	<anchor name="_sinVirama" x="-100" y="467"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-04 18:54:38 +0000</string>
+		</dict>
+	</lib>
 </glyph>

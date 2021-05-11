@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="equal.tf" format="1">
-  <advance width="484"/>
-  <note>
-    equal.tf
-  </note>
-  <outline>
-    <contour>
-      <point x="73" y="407" type="line"/>
-      <point x="409" y="407" type="line"/>
-      <point x="409" y="447" type="line"/>
-      <point x="73" y="447" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="238" type="line"/>
-      <point x="409" y="238" type="line"/>
-      <point x="409" y="278" type="line"/>
-      <point x="73" y="278" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="equal.tf" format="2">
+	<advance width="484"/>
+	<outline>
+		<contour>
+			<point x="409" y="407" type="line"/>
+			<point x="409" y="447" type="line"/>
+			<point x="73" y="447" type="line"/>
+			<point x="73" y="407" type="line"/>
+		</contour>
+		<contour>
+			<point x="409" y="238" type="line"/>
+			<point x="409" y="278" type="line"/>
+			<point x="73" y="278" type="line"/>
+			<point x="73" y="238" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		equal.tf
+	</note>
 </glyph>

@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="greaterequal.tf" format="1">
-  <advance width="484"/>
-  <note>
-    greaterequal.tf
-  </note>
-  <outline>
-    <contour>
-      <point x="73" y="184" type="line"/>
-      <point x="409" y="329" type="line"/>
-      <point x="409" y="364" type="line"/>
-      <point x="73" y="510" type="line"/>
-      <point x="73" y="467" type="line"/>
-      <point x="373" y="339" type="line"/>
-      <point x="373" y="354" type="line"/>
-      <point x="73" y="226" type="line"/>
-    </contour>
-    <contour>
-      <point x="73" y="0" type="line"/>
-      <point x="409" y="0" type="line"/>
-      <point x="409" y="39" type="line"/>
-      <point x="73" y="39" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="greaterequal.tf" format="2">
+	<advance width="484"/>
+	<outline>
+		<contour>
+			<point x="409" y="329" type="line"/>
+			<point x="409" y="364" type="line"/>
+			<point x="73" y="510" type="line"/>
+			<point x="73" y="467" type="line"/>
+			<point x="373" y="339" type="line"/>
+			<point x="373" y="354" type="line"/>
+			<point x="73" y="226" type="line"/>
+			<point x="73" y="184" type="line"/>
+		</contour>
+		<contour>
+			<point x="409" y="0" type="line"/>
+			<point x="409" y="39" type="line"/>
+			<point x="73" y="39" type="line"/>
+			<point x="73" y="0" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		greaterequal.tf
+	</note>
 </glyph>

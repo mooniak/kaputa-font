@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinThreelith" format="2">
+	<unicode hex="0DE9"/>
+	<advance width="1257"/>
+	<outline>
+		<contour>
+			<point x="1060" y="5"/>
+			<point x="1136" y="73"/>
+			<point x="1136" y="248" type="curve" smooth="yes"/>
+			<point x="1136" y="401"/>
+			<point x="1071" y="484"/>
+			<point x="965" y="486" type="curve" smooth="yes"/>
+			<point x="921" y="487" type="line"/>
+			<point x="921" y="445" type="line"/>
+			<point x="950" y="445" type="line" smooth="yes"/>
+			<point x="1030" y="445"/>
+			<point x="1091" y="395"/>
+			<point x="1091" y="243" type="curve" smooth="yes"/>
+			<point x="1091" y="144"/>
+			<point x="1061" y="46"/>
+			<point x="949" y="49" type="curve" smooth="yes"/>
+			<point x="927" y="50"/>
+			<point x="905" y="59"/>
+			<point x="883" y="69" type="curve" smooth="yes"/>
+			<point x="872" y="74"/>
+			<point x="860" y="79"/>
+			<point x="849" y="83" type="curve"/>
+			<point x="838" y="47" type="line"/>
+			<point x="850" y="27"/>
+			<point x="902" y="2"/>
+			<point x="953" y="3" type="curve" smooth="yes"/>
+		</contour>
+		<component base="sinTwolith" xOffset="28"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-19 19:10:54 +0000</string>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
+</glyph>

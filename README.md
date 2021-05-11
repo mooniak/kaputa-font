@@ -1,5 +1,7 @@
+
 # Kaputa Font Project
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 Kaputa is one the most known and widely used Sinhala Unicode fonts. It was released and made by the Kaputa.com community. Kaputa.com was the go-to Sri Lankan website in the portal era of the web 1.0 and accelerated the Sinhala web movement. This project is aimed at documenting the history, maintaining and updating the Kaputa font.
 
 

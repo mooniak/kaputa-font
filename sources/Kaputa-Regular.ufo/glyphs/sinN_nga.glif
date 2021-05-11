@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinNnga" format="1">
-  <advance width="648"/>
-  <unicode hex="0D9F"/>
-  <outline>
-    <contour>
-      <point x="28" y="195" type="line"/>
-      <point x="71" y="195" type="line"/>
-      <point x="70" y="248" type="line"/>
-      <point x="70" y="386"/>
-      <point x="88" y="468"/>
-      <point x="212" y="468" type="curve"/>
-      <point x="282" y="505" type="line"/>
-      <point x="192" y="503" type="line"/>
-      <point x="53" y="497"/>
-      <point x="28" y="410"/>
-      <point x="28" y="233" type="curve"/>
-    </contour>
-    <component base="sinGa" xOffset="76"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 18:31:51 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>sinGa</string>
-    </dict>
-  </lib>
+<glyph name="sinNnga" format="2">
+	<unicode hex="0D9F"/>
+	<advance width="682"/>
+	<outline>
+		<contour>
+			<point x="86" y="184" type="line"/>
+			<point x="57" y="304"/>
+			<point x="77" y="455"/>
+			<point x="212" y="455" type="curve"/>
+			<point x="257" y="465" type="line"/>
+			<point x="271" y="502" type="line"/>
+			<point x="249" y="502" type="line"/>
+			<point x="101" y="502"/>
+			<point x="-1" y="401"/>
+			<point x="49" y="174" type="curve"/>
+		</contour>
+		<component base="sinGa" xOffset="92"/>
+	</outline>
+	<anchor name="sinVirama" x="545" y="479"/>
+	<anchor name="sinReph" x="375" y="527"/>
+	<anchor name="sinMatraU" x="464" y="37"/>
+	<anchor name="sinMatraI" x="163" y="533"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-19 20:53:13 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinGa</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

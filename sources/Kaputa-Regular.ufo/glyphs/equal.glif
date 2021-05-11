@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="equal" format="1">
-  <advance width="472"/>
-  <unicode hex="003D"/>
-  <note>
-    equal
-  </note>
-  <outline>
-    <contour>
-      <point x="67" y="407" type="line"/>
-      <point x="403" y="407" type="line"/>
-      <point x="403" y="447" type="line"/>
-      <point x="67" y="447" type="line"/>
-    </contour>
-    <contour>
-      <point x="67" y="238" type="line"/>
-      <point x="403" y="238" type="line"/>
-      <point x="403" y="278" type="line"/>
-      <point x="67" y="278" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:05 +0000</string>
-    </dict>
-  </lib>
+<glyph name="equal" format="2">
+	<unicode hex="003D"/>
+	<advance width="472"/>
+	<outline>
+		<contour>
+			<point x="403" y="407" type="line"/>
+			<point x="403" y="447" type="line"/>
+			<point x="67" y="447" type="line"/>
+			<point x="67" y="407" type="line"/>
+		</contour>
+		<contour>
+			<point x="403" y="238" type="line"/>
+			<point x="403" y="278" type="line"/>
+			<point x="67" y="278" type="line"/>
+			<point x="67" y="238" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		equal
+	</note>
 </glyph>

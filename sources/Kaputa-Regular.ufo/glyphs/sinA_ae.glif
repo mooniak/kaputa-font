@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinAae" format="1">
-  <advance width="750"/>
-  <unicode hex="0D87"/>
-  <outline>
-    <component base="sinA"/>
-    <component base="sinMatraAe" xOffset="522"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-10-23 04:28:00 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sinAae" format="2">
+	<unicode hex="0D88"/>
+	<advance width="807"/>
+	<outline>
+		<component base="sinA"/>
+		<component base="sinMatraAae" xOffset="540"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-02-19 20:53:13 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

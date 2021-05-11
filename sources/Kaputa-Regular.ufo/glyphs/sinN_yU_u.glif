@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNyUu" format="2">
+	<advance width="1030"/>
+	<outline>
+		<contour>
+			<point x="70" y="188" type="line"/>
+			<point x="41" y="308"/>
+			<point x="61" y="459"/>
+			<point x="196" y="459" type="curve"/>
+			<point x="241" y="469" type="line"/>
+			<point x="255" y="496" type="line"/>
+			<point x="233" y="506" type="line"/>
+			<point x="85" y="506"/>
+			<point x="-17" y="405"/>
+			<point x="33" y="178" type="curve"/>
+		</contour>
+		<component base="sinKa.half" xOffset="106.843"/>
+		<component base="sinDUu" xOffset="571.843"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>uni0DAF0DD6</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="less.tf" format="1">
-  <advance width="484"/>
-  <note>
-    less.tf
-  </note>
-  <outline>
-    <contour>
-      <point x="409" y="175" type="line"/>
-      <point x="409" y="218" type="line"/>
-      <point x="109" y="348" type="line"/>
-      <point x="109" y="337" type="line"/>
-      <point x="409" y="467" type="line"/>
-      <point x="409" y="510" type="line"/>
-      <point x="73" y="362" type="line"/>
-      <point x="73" y="324" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="less.tf" format="2">
+	<advance width="484"/>
+	<outline>
+		<contour>
+			<point x="409" y="218" type="line"/>
+			<point x="109" y="348" type="line"/>
+			<point x="109" y="337" type="line"/>
+			<point x="409" y="467" type="line"/>
+			<point x="409" y="510" type="line"/>
+			<point x="73" y="362" type="line"/>
+			<point x="73" y="324" type="line"/>
+			<point x="409" y="175" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		less.tf
+	</note>
 </glyph>

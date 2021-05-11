@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="asciicircum" format="1">
-  <advance width="484"/>
-  <unicode hex="005E"/>
-  <note>
-    asciicircum
-  </note>
-  <outline>
-    <contour>
-      <point x="49" y="334" type="line"/>
-      <point x="96" y="334" type="line"/>
-      <point x="246" y="641" type="line"/>
-      <point x="236" y="641" type="line"/>
-      <point x="386" y="334" type="line"/>
-      <point x="434" y="334" type="line"/>
-      <point x="267" y="667" type="line"/>
-      <point x="214" y="667" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:55:08 +0000</string>
-    </dict>
-  </lib>
+<glyph name="asciicircum" format="2">
+	<unicode hex="005E"/>
+	<advance width="484"/>
+	<outline>
+		<contour>
+			<point x="96" y="334" type="line"/>
+			<point x="246" y="641" type="line"/>
+			<point x="236" y="641" type="line"/>
+			<point x="386" y="334" type="line"/>
+			<point x="434" y="334" type="line"/>
+			<point x="267" y="667" type="line"/>
+			<point x="214" y="667" type="line"/>
+			<point x="49" y="334" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		asciicircum
+	</note>
 </glyph>

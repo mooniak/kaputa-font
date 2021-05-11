@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2219.tf" format="1">
-  <advance width="484"/>
-  <note>
-    uni2219.tf
-  </note>
-  <outline>
-    <contour>
-      <point x="262" y="306"/>
-      <point x="277" y="320"/>
-      <point x="277" y="342" type="curve" smooth="yes"/>
-      <point x="277" y="364"/>
-      <point x="262" y="378"/>
-      <point x="241" y="378" type="curve" smooth="yes"/>
-      <point x="220" y="378"/>
-      <point x="205" y="364"/>
-      <point x="205" y="342" type="curve" smooth="yes"/>
-      <point x="205" y="320"/>
-      <point x="220" y="306"/>
-      <point x="241" y="306" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:52:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="uni2219.tf" format="2">
+	<advance width="484"/>
+	<outline>
+		<contour>
+			<point x="262" y="306"/>
+			<point x="277" y="320"/>
+			<point x="277" y="342" type="curve" smooth="yes"/>
+			<point x="277" y="364"/>
+			<point x="262" y="378"/>
+			<point x="241" y="378" type="curve" smooth="yes"/>
+			<point x="220" y="378"/>
+			<point x="205" y="364"/>
+			<point x="205" y="342" type="curve" smooth="yes"/>
+			<point x="205" y="320"/>
+			<point x="220" y="306"/>
+			<point x="241" y="306" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<note>
+		uni2219.tf
+	</note>
 </glyph>

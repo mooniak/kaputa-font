@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
-  <advance width="183"/>
-  <unicode hex="006C"/>
-  <note>
-    l
-  </note>
-  <outline>
-    <contour>
-      <point x="68" y="0" type="line"/>
-      <point x="113" y="0" type="line"/>
-      <point x="113" y="729" type="line"/>
-      <point x="68" y="729" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-09-19 12:51:07 +0000</string>
-    </dict>
-  </lib>
+<glyph name="l" format="2">
+	<unicode hex="006C"/>
+	<advance width="183"/>
+	<outline>
+		<contour>
+			<point x="113" y="0" type="line"/>
+			<point x="113" y="729" type="line"/>
+			<point x="68" y="729" type="line"/>
+			<point x="68" y="0" type="line"/>
+		</contour>
+	</outline>
+	<note>
+		l
+	</note>
 </glyph>
