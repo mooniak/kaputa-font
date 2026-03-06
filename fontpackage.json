@@ -1,0 +1,91 @@
+{
+  "name": "Kaputa",
+  "id": "kaputa",
+  "type": "family",
+  "designer": [
+    "Mooniak"
+  ],
+  "scripts": [
+    "Sinh",
+    "Latn"
+  ],
+  "description": "A revival of one of the most widely used Sinhala Unicode fonts, revived from legacy ASCII encoding and updated to comply with current standards.",
+  "license": "OFL-1.1",
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/kaputa-font",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/kaputa-font/",
+  "issues_url": "https://github.com/mooniak/kaputa-font/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "Niranjan Meegammana",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "Thusitha Randunge",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "maintenance": {
+    "status": "passively-maintained",
+    "comment": ""
+  },
+  "tools": "",
+  "progress": {
+    "design": 80,
+    "family_styles": 80,
+    "character_set": 80,
+    "drawing_quality": 80,
+    "spacing": 60,
+    "kerning": 40,
+    "hinting": 60,
+    "opentype_features": 60
+  },
+  "tags": {
+    "style": "sans-serif",
+    "contrast": "low",
+    "width": "normal",
+    "body_height": "normal",
+    "intended_usage": "text",
+    "figures": "normal",
+    "languages": [
+      "si_LK",
+      "en_US"
+    ],
+    "related_fonts": []
+  },
+  "display_texts": {
+    "en_US": "",
+    "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
+    "ta_LK": ""
+  },
+  "display_images": {
+    "banner": "",
+    "thumbnail": "",
+    "small": "",
+    "medium": "",
+    "large": ""
+  },
+  "links": {
+    "font_in_use": "",
+    "googlefonts": "",
+    "fontlibrary_org": "",
+    "typekit": ""
+  }
+}
