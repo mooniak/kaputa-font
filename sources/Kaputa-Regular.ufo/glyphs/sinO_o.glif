@@ -1,17 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sinOo" format="2">
-	<unicode hex="0D95"/>
-	<advance width="569"/>
-	<outline>
-		<component base="sinO"/>
-		<component base="sinVirama.alt" xOffset="558" yOffset="12"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-19 20:53:13 +0000</string>
-			<key>public.markColor</key>
-			<string>0.67,0.95,0.38,1</string>
-		</dict>
-	</lib>
+  <advance width="569"/>
+  <unicode hex="0D95"/>
+  <outline>
+    <component base="sinO" identifier="F04BED45"/>
+    <component base="sinVirama.alt" xOffset="558" yOffset="12" identifier="B43EAA0F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-06-14 09:35:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B43EAA0F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F04BED45</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = sinAa;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = sinA;
+},
+{
+pos = (540,0);
+ref = sinMatraAa;
+}
+);
+width = 788;
+}
+);
+unicode = 3462;
+}

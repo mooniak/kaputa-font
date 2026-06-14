@@ -1,36 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sinUu" format="2">
-	<unicode hex="0D8C"/>
-	<advance width="906"/>
-	<outline>
-		<component base="sinMatraLs" xOffset="566.996"/>
-		<component base="sinU" xOffset="32"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>sinMatraLs</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>sinU</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-19 20:53:13 +0000</string>
-			<key>public.markColor</key>
-			<string>0.67,0.95,0.38,1</string>
-		</dict>
-	</lib>
+  <advance width="906"/>
+  <unicode hex="0D8C"/>
+  <outline>
+    <component base="sinMatraLs" xOffset="566.996" identifier="0C819721"/>
+    <component base="sinU" xOffset="32" identifier="31E18843"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-19 20:53:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0C819721</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>31E18843</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

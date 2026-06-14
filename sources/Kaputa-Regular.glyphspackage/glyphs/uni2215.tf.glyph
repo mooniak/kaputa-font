@@ -1,0 +1,21 @@
+{
+glyphname = uni2215.tf;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(335,667,l),
+(290,667,l),
+(146,0,l),
+(192,0,l)
+);
+}
+);
+width = 484;
+}
+);
+note = uni2215.tf;
+}

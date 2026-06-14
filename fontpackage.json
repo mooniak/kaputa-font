@@ -6,8 +6,7 @@
     "Mooniak"
   ],
   "scripts": [
-    "Sinh",
-    "Latn"
+    "Sinh"
   ],
   "description": "A revival of one of the most widely used Sinhala Unicode fonts, revived from legacy ASCII encoding and updated to comply with current standards.",
   "license": "OFL-1.1",
@@ -70,22 +69,25 @@
     ],
     "related_fonts": []
   },
-  "display_texts": {
-    "en_US": "",
-    "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
-    "ta_LK": ""
-  },
-  "display_images": {
-    "banner": "",
-    "thumbnail": "",
-    "small": "",
-    "medium": "",
-    "large": ""
-  },
-  "links": {
-    "font_in_use": "",
-    "googlefonts": "",
-    "fontlibrary_org": "",
-    "typekit": ""
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "en_US": "",
+      "si_LK": "දැරණියගලට ඉහල අහසේ දඟකරන වලාපෙළ මවනා සොඳුරු දසුන රාත්‍රිය උදාවත් සමග ක්‍ෂයවේ.",
+      "ta_LK": ""
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
   }
 }

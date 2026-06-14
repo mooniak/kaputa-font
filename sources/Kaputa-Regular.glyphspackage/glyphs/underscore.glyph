@@ -1,0 +1,22 @@
+{
+glyphname = underscore;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(416,0,l),
+(41,0,l),
+(41,-40,l),
+(416,-40,l)
+);
+}
+);
+width = 457;
+}
+);
+note = underscore;
+unicode = 95;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = notequal.tf;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(372,514,l),
+(80,195,l),
+(110,171,l),
+(403,490,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(409,278,l),
+(73,278,l),
+(73,238,l),
+(409,238,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(409,447,l),
+(73,447,l),
+(73,407,l),
+(409,407,l)
+);
+}
+);
+width = 484;
+}
+);
+note = notequal.tf;
+}

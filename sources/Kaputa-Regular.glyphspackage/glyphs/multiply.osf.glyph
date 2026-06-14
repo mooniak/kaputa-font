@@ -1,0 +1,29 @@
+{
+glyphname = multiply.osf;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(354,89,l),
+(382,117,l),
+(246,252,l),
+(382,388,l),
+(354,416,l),
+(219,280,l),
+(82,416,l),
+(55,388,l),
+(191,252,l),
+(55,117,l),
+(82,89,l),
+(219,225,l)
+);
+}
+);
+width = 437;
+}
+);
+note = multiply.osf;
+}

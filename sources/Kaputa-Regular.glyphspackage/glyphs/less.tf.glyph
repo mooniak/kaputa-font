@@ -1,0 +1,25 @@
+{
+glyphname = less.tf;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(109,348,l),
+(109,337,l),
+(409,467,l),
+(409,510,l),
+(73,362,l),
+(73,324,l),
+(409,175,l),
+(409,218,l)
+);
+}
+);
+width = 484;
+}
+);
+note = less.tf;
+}

@@ -1,0 +1,31 @@
+{
+color = 4;
+glyphname = sinNda.rakar;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(49,304,o),
+(69,455,o),
+(204,455,c),
+(249,465,l),
+(263,502,l),
+(241,502,l),
+(93,502,o),
+(-9,401,o),
+(41,174,c),
+(78,184,l)
+);
+},
+{
+pos = (90,0);
+ref = sinDa.rakar;
+}
+);
+width = 557;
+}
+);
+}

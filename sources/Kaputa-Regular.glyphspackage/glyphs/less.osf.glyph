@@ -1,0 +1,25 @@
+{
+glyphname = less.osf;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(103,258,l),
+(103,247,l),
+(403,377,l),
+(403,420,l),
+(67,271,l),
+(67,234,l),
+(403,85,l),
+(403,128,l)
+);
+}
+);
+width = 472;
+}
+);
+note = less.osf;
+}
