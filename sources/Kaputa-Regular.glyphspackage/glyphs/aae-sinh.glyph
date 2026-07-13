@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = "aae-sinh";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = "a-sinh";
+},
+{
+pos = (540,0);
+ref = "aaesign-sinh";
+}
+);
+width = 807;
+}
+);
+unicode = 3464;
+}

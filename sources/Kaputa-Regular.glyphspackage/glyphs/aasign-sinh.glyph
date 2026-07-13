@@ -1,0 +1,37 @@
+{
+category = Mark;
+glyphname = "aasign-sinh";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(218,55,o),
+(218,248,cs),
+(218,401,o),
+(153,484,o),
+(47,486,cs),
+(3,487,l),
+(3,445,l),
+(32,445,ls),
+(112,445,o),
+(173,395,o),
+(173,243,cs),
+(173,144,o),
+(142,53,o),
+(31,49,cs),
+(2,48,l),
+(1,2,l),
+(126,2,o)
+);
+}
+);
+width = 248;
+}
+);
+script = sinhala;
+subCategory = Spacing;
+unicode = 3535;
+}

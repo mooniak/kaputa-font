@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = "au-sinh";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = "o-sinh";
+},
+{
+pos = (569,0);
+ref = "vocalicllsign-sinh";
+}
+);
+width = 923;
+}
+);
+unicode = 3478;
+}

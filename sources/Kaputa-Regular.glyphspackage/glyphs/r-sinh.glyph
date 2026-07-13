@@ -1,0 +1,24 @@
+{
+color = 4;
+glyphname = "r-sinh";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(159,662,l),
+(114,662,l),
+(114,455,l),
+(159,455,l)
+);
+},
+{
+ref = "ra-sinh";
+}
+);
+width = 504;
+}
+);
+}

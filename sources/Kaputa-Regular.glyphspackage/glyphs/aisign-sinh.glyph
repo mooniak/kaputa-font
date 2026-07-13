@@ -1,0 +1,22 @@
+{
+category = Mark;
+glyphname = "aisign-sinh";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = "esign-sinh";
+},
+{
+pos = (417,0);
+ref = "esign-sinh";
+}
+);
+width = 834;
+}
+);
+script = sinhala;
+subCategory = Spacing;
+unicode = 3547;
+}

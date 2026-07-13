@@ -1,0 +1,22 @@
+{
+color = 4;
+glyphname = "oo-sinh";
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+alignment = -1;
+ref = "o-sinh";
+},
+{
+alignment = -1;
+pos = (558,12);
+ref = "virama-sinh.alt";
+}
+);
+width = 569;
+}
+);
+unicode = 3477;
+}

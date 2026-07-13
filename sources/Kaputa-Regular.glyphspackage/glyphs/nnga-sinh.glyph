@@ -1,0 +1,51 @@
+{
+color = 4;
+glyphname = "nnga-sinh";
+layers = (
+{
+anchors = (
+{
+name = sinMatraI;
+pos = (163,533);
+},
+{
+name = sinMatraU;
+pos = (464,37);
+},
+{
+name = sinReph;
+pos = (375,527);
+},
+{
+name = sinVirama;
+pos = (545,479);
+}
+);
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(57,304,o),
+(77,455,o),
+(212,455,c),
+(257,465,l),
+(271,502,l),
+(249,502,l),
+(101,502,o),
+(-1,401,o),
+(49,174,c),
+(86,184,l)
+);
+},
+{
+pos = (92,0);
+ref = "ga-sinh";
+}
+);
+width = 682;
+}
+);
+metricRight = sinGa;
+unicode = 3487;
+}
