@@ -1,0 +1,23 @@
+{
+color = 4;
+glyphname = sinAi;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+alignment = -1;
+pos = (425,0);
+ref = sinE;
+},
+{
+alignment = -1;
+pos = (38,0);
+ref = sinMatraE;
+}
+);
+width = 987;
+}
+);
+unicode = 3475;
+}

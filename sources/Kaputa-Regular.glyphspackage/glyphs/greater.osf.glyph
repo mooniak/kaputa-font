@@ -1,0 +1,25 @@
+{
+glyphname = greater.osf;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(403,271,l),
+(67,420,l),
+(67,377,l),
+(367,247,l),
+(367,258,l),
+(67,128,l),
+(67,85,l),
+(403,234,l)
+);
+}
+);
+width = 472;
+}
+);
+note = greater.osf;
+}

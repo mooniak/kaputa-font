@@ -1,0 +1,23 @@
+{
+glyphname = logicalnot.osf;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(523,272,l),
+(67,272,l),
+(67,233,l),
+(481,233,l),
+(481,0,l),
+(523,0,l)
+);
+}
+);
+width = 588;
+}
+);
+note = logicalnot.osf;
+}

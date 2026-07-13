@@ -1,0 +1,26 @@
+{
+glyphname = V;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(533,667,l),
+(487,667,l),
+(265,23,l),
+(275,23,l),
+(54,667,l),
+(5,667,l),
+(237,0,l),
+(302,0,l)
+);
+}
+);
+width = 539;
+}
+);
+note = V;
+unicode = 86;
+}

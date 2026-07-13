@@ -1,0 +1,27 @@
+{
+glyphname = sinVirama;
+layers = (
+{
+anchors = (
+{
+name = _sinVirama;
+pos = (-130,482);
+}
+);
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-107,665,l),
+(-152,665,l),
+(-152,458,l),
+(-107,458,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 3530;
+}

@@ -1,0 +1,26 @@
+{
+category = Mark;
+glyphname = sinMatraAu;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = sinMatraE;
+},
+{
+pos = (400,59);
+ref = dottedCircle;
+},
+{
+pos = (417,0);
+ref = sinMatraLs;
+}
+);
+width = 771;
+}
+);
+script = sinhala;
+subCategory = Spacing;
+unicode = 3550;
+}

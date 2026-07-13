@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sinVirama" format="2">
-	<unicode hex="0DCA"/>
-	<outline>
-		<contour>
-			<point x="-107" y="458" type="line"/>
-			<point x="-107" y="665" type="line"/>
-			<point x="-152" y="665" type="line"/>
-			<point x="-152" y="458" type="line"/>
-		</contour>
-	</outline>
-	<anchor name="_sinVirama" x="-130" y="482"/>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-04 19:27:33 +0000</string>
-		</dict>
-	</lib>
+  <advance width="0"/>
+  <unicode hex="0DCA"/>
+  <anchor x="-130" y="482" name="_sinVirama"/>
+  <outline>
+    <contour>
+      <point x="-107" y="458" type="line"/>
+      <point x="-107" y="665" type="line"/>
+      <point x="-152" y="665" type="line"/>
+      <point x="-152" y="458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-04 19:27:33 +0000</string>
+    </dict>
+  </lib>
 </glyph>

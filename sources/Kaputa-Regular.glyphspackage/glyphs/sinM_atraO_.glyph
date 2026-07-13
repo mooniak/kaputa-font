@@ -1,0 +1,26 @@
+{
+glyphname = sinMatraO;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+ref = sinMatraE;
+},
+{
+alignment = -1;
+pos = (885,0);
+ref = sinMatraAa;
+},
+{
+pos = (400,50);
+ref = dottedCircle;
+}
+);
+width = 1133;
+}
+);
+metricLeft = sinMatraE;
+metricRight = sinMatraAa;
+unicode = 3548;
+}

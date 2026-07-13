@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sinMatraEe" format="2">
-	<unicode hex="0DDA"/>
-	<advance width="621"/>
-	<outline>
-		<contour>
-			<point x="580" y="672" type="line"/>
-			<point x="535" y="672" type="line"/>
-			<point x="539" y="496" type="line"/>
-			<point x="582" y="495" type="line"/>
-		</contour>
-		<component base="sinMatraE"/>
-	</outline>
+  <advance width="621"/>
+  <unicode hex="0DDA"/>
+  <outline>
+    <contour>
+      <point x="580" y="672" type="line"/>
+      <point x="535" y="672" type="line"/>
+      <point x="539" y="496" type="line"/>
+      <point x="582" y="495" type="line"/>
+    </contour>
+    <component base="sinMatraE"/>
+  </outline>
 </glyph>

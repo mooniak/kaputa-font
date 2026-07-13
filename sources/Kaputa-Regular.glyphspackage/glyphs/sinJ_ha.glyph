@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = sinJha;
+layers = (
+{
+anchors = (
+{
+name = sinReph;
+pos = (695,617);
+},
+{
+name = sinVirama;
+pos = (569,558);
+},
+{
+name = sin_Rakar;
+pos = (900,62);
+}
+);
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+alignment = -1;
+pos = (462,0);
+ref = sinDha;
+},
+{
+alignment = -1;
+pos = (89,0);
+ref = sinKa.half;
+}
+);
+width = 1017;
+}
+);
+metricRight = sinDha;
+unicode = 3491;
+}

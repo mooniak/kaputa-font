@@ -1,31 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sinMatraO" format="2">
-	<unicode hex="0DDC"/>
-	<advance width="1133"/>
-	<outline>
-		<component base="sinMatraE"/>
-		<component base="sinMatraAa" xOffset="885"/>
-		<component base="dottedCircle" xOffset="400" yOffset="50"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>sinMatraAa</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2018-02-19 19:23:15 +0000</string>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>sinMatraE</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>sinMatraAa</string>
-		</dict>
-	</lib>
+  <advance width="1133"/>
+  <unicode hex="0DDC"/>
+  <outline>
+    <component base="sinMatraE"/>
+    <component base="sinMatraAa" xOffset="885" identifier="2CD11424"/>
+    <component base="dottedCircle" xOffset="400" yOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-02-19 19:23:15 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sinMatraE</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>sinMatraAa</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2CD11424</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

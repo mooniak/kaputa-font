@@ -1,0 +1,26 @@
+{
+glyphname = bracketleft;
+layers = (
+{
+layerId = "902E803C-EB75-4CF8-B2E0-AD6A3AB6F03E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,-159,l),
+(131,-159,l),
+(131,689,l),
+(287,689,l),
+(287,729,l),
+(86,729,l),
+(86,-198,l),
+(287,-198,l)
+);
+}
+);
+width = 269;
+}
+);
+note = bracketleft;
+unicode = 91;
+}
