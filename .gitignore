@@ -2,3 +2,4 @@
 *.glyphs
 /fontester
 /build
+/out
