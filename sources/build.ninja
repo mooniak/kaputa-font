@@ -63,35 +63,35 @@ build instance_ufos/Kaputa-Regular.ufo.json: instantiateUfo $
 build ../fonts/webfonts/Kaputa-Regular.woff2: compress $
     ../fonts/ttf/Kaputa-Regular.ttf
   operation = compress
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp5ye5ds54
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp5ye5ds54: $
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpyods8yud
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpyods8yud: $
     buildTTF instance_ufos/Kaputa-Regular.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpye7s0ugd
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpye7s0ugd: $
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp5d5eq5q7
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp5d5eq5q7: $
     buildOTF instance_ufos/Kaputa-Regular.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpwxp4tfuk
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpwxp4tfuk: $
-    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp5ye5ds54
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpwk25xopa
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpwk25xopa: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpyods8yud
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Kaputa-Regular.ttf
 build ../fonts/ttf/Kaputa-Regular.ttf: fix $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpwxp4tfuk
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpwk25xopa
   operation = fix
   args = 
 # Generating ../fonts/otf/Kaputa-Regular.otf
 build ../fonts/otf/Kaputa-Regular.otf: fix $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpye7s0ugd
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp5d5eq5q7
   operation = fix
   args = 
 default ../fonts/webfonts/Kaputa-Regular.woff2 ../fonts/otf/Kaputa-Regular.otf
