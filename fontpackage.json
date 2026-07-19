@@ -13,7 +13,7 @@
   "channels": [
     "release",
     "dev",
-    "nightly"
+    "canary"
   ],
   "versions_provider": "tags",
   "repository": {
